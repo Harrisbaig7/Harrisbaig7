@@ -7,7 +7,7 @@
 <a href="https://instagram.com/muhammad.maarij" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_harrisbaig" height="30" width="40" /></a>
 </p>
 <p>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?-\\username=muhammadmaarij&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"></a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Harrisbaig7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/></a>
 </p>
 <!--
 **Harrisbaig7/Harrisbaig7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
