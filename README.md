@@ -6,7 +6,7 @@
 Hi there, I'm <a href="Harris" target="_blank" rel="noreferrer">Harris</a> 👋
 </h3>
 <h2 align="center">
-I'm a Web Designer🎨, and  Web Developer 💻,!
+I'm a Web Designer🎨, and  Web Developer 💻!
 </h2>
 <h3>
   🤝 Connect with me:
@@ -15,6 +15,20 @@ I'm a Web Designer🎨, and  Web Developer 💻,!
 <a href="https://instagram.com/_harrisbaig"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Harris Baig  | Instagram" width="21px"/></a>
 <a href="https://medium.com/@baigharris77"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Harris Baig  | Medium" width="21px"/></a>
 </br>
+</br>
+<ul>
+<li>💬 If you have any question/feedback, please do not hesitate to reach out to me!</li>
+</ul>
+<h2 tabindex="-1">🔭 I'm currently working on</h2>
+<ul>
+<li>Zomato project</li>
+<li>Anime project</li>
+</ul>
+</br>
+<h2>
+  🌱 I'm currently learning
+<h2>
+
 <h3 align="center">Full Stack Web Developer Intern DevTown | Web Developer Lead GDSC COMSATS | Front-End WebDeveloper | javaScript Developer | MERN Stack Developer</h3>
                                                                                                
 <p align="left">
