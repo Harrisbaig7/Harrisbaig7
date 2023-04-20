@@ -42,7 +42,7 @@ I'm Web Developer 💻 | Full Stack Web Developer Intern DevTown | Web Developer
   💼 Technical Skills
 </h2>  
 <h2>
-</b>  
+</hr>  
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
