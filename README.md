@@ -11,9 +11,9 @@ I'm a Web Designer🎨, and  Web Developer 💻,!
 <h3>
   🤝 Connect with me:
 </h3>
-<a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
-<a href="https://instagram.com/yushi.95"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
-<a href="https://yushi95.medium.com/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
+<a href="https://www.linkedin.com/in/harris-baig-3a890a203/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Harris Baig | LinkedIn" width="21px"/></a>
+<a href="https://instagram.com/_harrisbaig"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Harris Baig  | Instagram" width="21px"/></a>
+<a href="https://medium.com/@baigharris77"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Harris Baig  | Medium" width="21px"/></a>
 </br>
 <h3 align="center">Full Stack Web Developer Intern DevTown | Web Developer Lead GDSC COMSATS | Front-End WebDeveloper | javaScript Developer | MERN Stack Developer</h3>
                                                                                                
