@@ -38,7 +38,6 @@ I'm Web Developer 💻 | Full Stack Web Developer Intern DevTown | Web Developer
 <h2 tabindex="-1">
   💼 Technical Skills
 </h2>  
-<h2>
 </hr>
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -88,24 +87,25 @@ I'm Web Developer 💻 | Full Stack Web Developer Intern DevTown | Web Developer
 ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) 
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) 	
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-</h2>
 <h2>
-  📈 <b>GitHub Stats</b>
+  🔥 Streak Stats
 </h2>
+</hr>
+  
+![](https://github-readme-streak-stats.herokuapp.com/?user=Harrisbaig7&theme=dark&hide_border=false)
 <h2>
+  📈 GitHub Stats
+</h2>
   </hr>
   
   [![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Harrisbaig7&count_private=true&theme=tokyonight&showicons=true)]()
-  
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=Harrisbaig7&theme=dark&hide_border=false)
   
   [![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Harrisbaig7&langs_count=5&theme=tokyonight)]()
   
   [![Visit](https://visitcount.itsvg.in/api?id=Harrisbaig7&label=Profile%20Views&color=0&pretty=false)](https://visitcount.itsvg.in)
   
   [![Visitors](https://visitor-badge.glitch.me/badge?page_id=Harrisbaig7.Harrisbaig7)](https://www.harris.dev/)
-</h2>  
+
 
 <!--
 **Harrisbaig7/Harrisbaig7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
