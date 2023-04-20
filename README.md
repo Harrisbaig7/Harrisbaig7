@@ -1,4 +1,4 @@
-![banner](https://www.canva.com/design/DAFeQ8EfTpU/kBcK_TvgRb9Riqbd_zS7nA/view?utm_content=DAFeQ8EfTpU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+![banner](file:///C:/Users/user/Downloads/Web%20Developer.png)
 
 
 <h1 align="center">Hi, I'm Muhammad Harris Baig</h1>
