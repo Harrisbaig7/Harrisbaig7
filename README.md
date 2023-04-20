@@ -1,8 +1,10 @@
-![banner](file:///C:/Users/user/Downloads/Web%20Developer.png)
+![banner](https://github.com/Harrisbaig7/Harrisbaig7/blob/main/banner.png)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harrisbaig7&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harrisbaig7)](https://github.com/anuraghazra/github-readme-stats)
 
-<h1 align="center">Hi, I'm Muhammad Harris Baig</h1>
+<h3 align="center">
+Hi there, I'm <a href="Harris" target="_blank" rel="noreferrer">Yu</a> 👋
+</h3>
 <h3 align="center">Full Stack Web Developer Intern DevTown | Web Developer Lead GDSC COMSATS | Front-End WebDeveloper | javaScript Developer | MERN Stack Developer</h3>
                                                                                                
 <h3 align="left">Connect with me:</h3>
