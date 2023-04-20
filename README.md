@@ -70,6 +70,8 @@ I'm Web Developer 💻 | Full Stack Web Developer Intern DevTown | Web Developer
   [![Harris’s github stats](https://github-readme-stats.vercel.app/api?username=Harrisbaig7)](https://github.com/yushi1007)
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harrisbaig7&layout=compact)](https://github.com/Harrisbaig7)
+  
+  [![Visitors](https://visitor-badge.glitch.me/badge?page_id=Harrisbaig7.Harrisbaig7)](https://www.harris.dev/)
 </h2>  
 
 <!--
