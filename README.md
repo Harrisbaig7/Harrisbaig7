@@ -1,5 +1,6 @@
 ![banner](file:///C:/Users/user/Downloads/Web%20Developer.png)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harrisbaig7&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harrisbaig7)](https://github.com/anuraghazra/github-readme-stats)
 
 <h1 align="center">Hi, I'm Muhammad Harris Baig</h1>
 <h3 align="center">Full Stack Web Developer Intern DevTown | Web Developer Lead GDSC COMSATS | Front-End WebDeveloper | javaScript Developer | MERN Stack Developer</h3>
@@ -13,7 +14,7 @@
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?     username=Harrisbaig7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/></a>
  
 </p>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harrisbaig7&show_icons=true&theme=radical)
+
 <!--
 **Harrisbaig7/Harrisbaig7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
