@@ -1,7 +1,4 @@
 ![banner](https://github.com/Harrisbaig7/Harrisbaig7/blob/main/banner.png)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harrisbaig7&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harrisbaig7)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <h3 align="center">
 Hi there, I'm <a href="Harris" target="_blank" rel="noreferrer">Harris</a> 👋
@@ -64,6 +61,16 @@ I'm Web Developer 💻 | Full Stack Web Developer Intern DevTown | Web Developer
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 </h2>
+<h2>
+  📈 <b>GitHub Stats</b>
+</h2>
+<h2>
+  </hr>
+  
+  [![Harris’s github stats](https://github-readme-stats.vercel.app/api?username=Harrisbaig7)](https://github.com/yushi1007)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harrisbaig7&layout=compact)](https://github.com/Harrisbaig7)
+</h2>  
 
 <!--
 **Harrisbaig7/Harrisbaig7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
