@@ -6,7 +6,7 @@
 Hi there, I'm <a href="Harris" target="_blank" rel="noreferrer">Harris</a> 👋
 </h3>
 <h2 align="center">
-I'm a Web Designer🎨, and  Web Developer 💻!
+I'm Web Developer 💻 | Full Stack Web Developer Intern DevTown | Web Developer Lead GDSC COMSATS !
 </h2>
 <h3>
   🤝 Connect with me:
@@ -22,11 +22,23 @@ I'm a Web Designer🎨, and  Web Developer 💻!
 <h2 tabindex="-1">🔭 I'm currently working on</h2>
 <ul>
 <li>Zomato project</li>
-<li>Anime project</li>
+<li>API project</li>
 </ul>
-</br>
+<h2 tabindex="-1">🌱 I'm currently learning</h2>
+<ul>
+  <li>DOM manipulation</li>
+  <li>DevOps</li>
+  <li>Clouds Computing with AWS</li>
+  <li>Tailwind CSS</li>
+  <li>MongoDB</li>
+  <li>Express.js</li>
+  <li>React.js</li>
+  <li>Node.js</li>
+  <li>React Native</li>
+  <li>Assembly Language</li>
+</ul>
 <h2>
-  🌱 I'm currently learning
+  💼 Technical Skills
 <h2>
 
 <h3 align="center">Full Stack Web Developer Intern DevTown | Web Developer Lead GDSC COMSATS | Front-End WebDeveloper | javaScript Developer | MERN Stack Developer</h3>
