@@ -1,7 +1,7 @@
 ![banner](https://github.com/Harrisbaig7/Harrisbaig7/blob/main/banner.png)
 
 <h3 align="center">
-Hi there, I'm <a href="The [Tailwind Toolbox](https://www.tailwindtoolbox.com/) website source code." target="_blank" rel="noreferrer">Harris</a> 👋
+Hi there, I'm <a href="Harris" target="_blank" rel="noreferrer">Harris</a> 👋
 </h3>
 <h2 align="center">
 I'm Web Developer 💻 | Full Stack Web Developer Intern DevTown | Web Developer Lead GDSC COMSATS !
