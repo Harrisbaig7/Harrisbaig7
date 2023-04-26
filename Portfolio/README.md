@@ -18,4 +18,4 @@
 ## Site is Live
 <a href="https://hportfoliob.netlify.app/">Portfolio</a>
 
-Copyright (c) 2020 CB
+Copyright (c) 2023 HB
