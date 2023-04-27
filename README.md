@@ -101,7 +101,7 @@ I'm Web Developer 💻 | Full Stack Web Developer Intern DevTown | Web Developer
   
   [![Visit](https://visitcount.itsvg.in/api?id=Harrisbaig7&label=Profile%20Views&color=0&pretty=false)](https://visitcount.itsvg.in)
   
-  [![Visitors](https://visitor-badge.glitch.me/badge?page_id=Harrisbaig7.Harrisbaig7)](https://hportfoliob.netlify.app/)
+  [![Visitors](https://visitor-badge.glitch.me/badge?page_id=Harrisbaig7)](https://hportfoliob.netlify.app/)
 <!--
 **Harrisbaig7/Harrisbaig7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
