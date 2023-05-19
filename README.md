@@ -93,7 +93,7 @@ I'm Web Developer 💻 | Full Stack Web Developer Intern DevTown | Web Developer
 <h2>
   📈 GitHub Stats
 </h2>
- </hr>
+</hr>
   
   [![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Harrisbaig7&count_private=true&theme=tokyonight&showicons=true)]()
   
