@@ -89,7 +89,7 @@ I'm Web Developer 💻 | Full Stack Web Developer Intern DevTown | Web Developer
 </h2>
 </hr>
   
-[![GitHub Sreak](https://streak-stats.demolab.com/?user=Harrisbaig7&theme=dark)](https://git.io/streak-stats)
+[![GitHub Sreak](https://streak-stats.demolab.com/?user=Harrisbaig7&theme=tokyonight)](https://git.io/streak-stats)
 <h2>
   📈 GitHub Stats
 </h2>
@@ -99,7 +99,7 @@ I'm Web Developer 💻 | Full Stack Web Developer Intern DevTown | Web Developer
   
   ![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Harrisbaig7&langs_count=3999&theme=tokyonight)
   
-  [![Visit](https://visitcount.itsvg.in/api?id=Harrisbaig7&label=Profile%20Views&color=0&pretty=false)](https://visitcount.itsvg.in)
+  [![Visit](https://visitcount.itsvg.in/api?id=Harrisbaig7&label=Profile%20Views&color=0&pretty=true)](https://visitcount.itsvg.in)
 <!--   [![Visitors](https://visitor-badge.glitch.me/badge?page_id=Harrisbaig7.Harrisbaig7)](https://hportfoliob.netlify.app) -->
 <!-- ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fhportfoliob.netlify.app%2F&label=PorfolioVisit&labelColor=%23d9e3f0&countColor=%232ccce4)
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fhportfoliob.netlify.app%2F&label=PorfolioVisit&labelColor=%23697689&countColor=%232ccce4)](https://visitorbadge.io/status?path=https%3A%2F%2Fhportfoliob.netlify.app%2F) -->
