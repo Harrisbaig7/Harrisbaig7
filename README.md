@@ -30,9 +30,9 @@ I'm Web Developer 💻 | Full Stack Web Developer Intern DevTown | Web Developer
   <li>Clouds Computing with AWS</li>
   <li>Tailwind CSS</li>
   <li>MongoDB</li>
-  <li>Express.js</li>
-  <li>React.js</li>
-  <li>Node.js</li>
+  <li>Express JS</li>
+  <li>React JS</li>
+  <li>Node JS</li>
   <li>React Native</li>
   <li>Assembly Language</li>
 </ul>
