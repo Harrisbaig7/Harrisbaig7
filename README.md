@@ -20,8 +20,10 @@ I'm Web Developer 💻 | Full Stack Web Developer Intern DevTown | Web Developer
 </ul>
 <h2 tabindex="-1">🔭 I'm currently working on</h2>
 <ul>
-<li>Zomato project</li>
-<li>API project</li>
+  <li>Zomato project</li>
+  <li>API project</li>
+  <li>Media Club project</li>
+  <li>LMS project</li>
 </ul>
 <h2 tabindex="-1">🌱 I'm currently learning</h2>
 <ul>
@@ -89,7 +91,7 @@ I'm Web Developer 💻 | Full Stack Web Developer Intern DevTown | Web Developer
 </h2>
 </hr>
   
-[![GitHub Sreak](https://streak-stats.demolab.com/?user=Harrisbaig7&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Sreak](https://streak-stats.demolab.com/?user=Harrisbaig7&theme=dark)](https://git.io/streak-stats)
 <h2>
   📈 GitHub Stats
 </h2>
