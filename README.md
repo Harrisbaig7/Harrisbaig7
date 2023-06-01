@@ -91,7 +91,7 @@ I'm Web Developer 💻 | Full Stack Web Developer Intern DevTown | Web Developer
 </h2>
 </hr>
   
-[![GitHub Sreak](https://streak-stats.demolab.com/?user=Harrisbaig7&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Srea](https://streak-stats.demolab.com/?user=Harrisbaig7&theme=tokyonight)](https://git.io/streak-stats)
 <h2>
   📈 GitHub Stats
 </h2>
