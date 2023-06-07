@@ -91,8 +91,9 @@ I'm Web Developer 💻 | Full Stack Web Developer Intern DevTown | Web Developer
 </h2>
 </hr>
   
-[![GitHub Sreak](https://streak-stats.demolab.com/?user=Harrisbaig7)](https://git.io/streak-stats)
-<!-- &theme=dark -->
+[![GitHub Sreak](https://streak-stats.demolab.com/?user=Harrisbaig7&theme=tokyonight-duo)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=denvercoder1&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
 <h2>
   📈 GitHub Stats
 </h2>
