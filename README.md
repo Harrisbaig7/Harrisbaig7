@@ -92,7 +92,7 @@ I'm Web Developer 💻 | Full Stack Web Developer Intern DevTown | Web Developer
 
 </hr>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Harrisbaig7&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Harrisbaig7&theme=tokyonight-duo&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <h2>
   📈 GitHub Stats
 </h2>
@@ -107,6 +107,7 @@ I'm Web Developer 💻 | Full Stack Web Developer Intern DevTown | Web Developer
   ![Jokes Card](https://readme-jokes.vercel.app/api)
   
   [![Visit](https://visitcount.itsvg.in/api?id=Harrisbaig7&label=Profile%20Views&color=0&pretty=true)](https://visitcount.itsvg.in)
+  
 <!--   [![Visitors](https://visitor-badge.glitch.me/badge?page_id=Harrisbaig7.Harrisbaig7)](https://hportfoliob.netlify.app) -->
 <!-- ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fhportfoliob.netlify.app%2F&label=PorfolioVisit&labelColor=%23d9e3f0&countColor=%232ccce4)
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fhportfoliob.netlify.app%2F&label=PorfolioVisit&labelColor=%23697689&countColor=%232ccce4)](https://visitorbadge.io/status?path=https%3A%2F%2Fhportfoliob.netlify.app%2F) -->
