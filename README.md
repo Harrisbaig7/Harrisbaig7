@@ -92,13 +92,13 @@ I'm Web Developer 💻 | Full Stack Web Developer Intern DevTown | Web Developer
 
 </hr>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Harrisbaig7&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Harrisbaig7&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <h2>
   📈 GitHub Stats
 </h2>
 </hr>
   
-  [![GitHub Status](https://github-readme-stats.vercel.app/api/?username=Harrisbaig7&count_private=true&theme=tokyonight-duo&showicons=true)]()
+  [![GitHub Status](https://github-readme-stats.vercel.app/api/?username=Harrisbaig7&count_private=true&theme=tokyonight&showicons=true)]()
   
   ![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Harrisbaig7&langs_count=3999&theme=dark)
 
