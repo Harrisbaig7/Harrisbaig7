@@ -98,7 +98,7 @@ I'm Web Developer 💻 | Full Stack Web Developer Intern DevTown | Web Developer
 </h2>
 </hr>
   
-  [![GitHub Status](https://github-readme-stats.vercel.app/api/?username=Harrisbaig7&count_private=true&theme=tokyonight-duo&showicons=false)]()
+  [![GitHub Status](https://github-readme-stats.vercel.app/api/?username=Harrisbaig7&count_private=true&theme=tokyonight&showicons=false)]()
   
   ![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Harrisbaig7&langs_count=4999&theme=tokyonight)
 
