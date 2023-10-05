@@ -92,9 +92,7 @@ I'm Web Developer 💻 | Full Stack Web Developer Intern DevTown | Web Developer
 
 </hr>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Harrisbaig7&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Harrisbaig7&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Harrisbaig7&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
   📈 GitHub Stats
 </h2>
