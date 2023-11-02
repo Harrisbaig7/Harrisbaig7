@@ -4,7 +4,7 @@
 Hi there, I'm <a href="https://hportfoliob.netlify.app/" target="_blank" rel="noreferrer">Harris</a> 👋
 </h3>
 <h2 align="center">
-I'm Full Stack Developer 💻 | DevOps Enthusiasts | Software Developer Intern Amazon Web Services | Web Developer Lead xGDSC COMSATS !
+I'm Full Stack Developer 💻 | DevOps Enthusiasts | Software Developer Intern Amazon Web Services | xGDSC Web Developer Lead COMSATS !
 </h2>
 <h3>
   🤝 Connect with me:
@@ -22,8 +22,7 @@ I'm Full Stack Developer 💻 | DevOps Enthusiasts | Software Developer Intern A
 <ul>
   <li>Zomato project</li>
   <li>API project</li>
-  <li>Media Club project</li>
-  <li>FALAH project</li>
+  <li>Donate,NotWaste</li>
 </ul>
 <h2 tabindex="-1">🌱 I'm currently learning</h2>
 <ul>
@@ -92,7 +91,7 @@ I'm Full Stack Developer 💻 | DevOps Enthusiasts | Software Developer Intern A
 
 </hr>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Harrisbaig7&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Harrisbaig7&theme=tokyonight-duo&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
   📈 GitHub Stats
 </h2>
