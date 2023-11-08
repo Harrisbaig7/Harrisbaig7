@@ -24,7 +24,7 @@ I'm Full Stack Developer 💻 | DevOps Enthusiasts | Software Developer Intern A
   <li>API project</li>
   <li>Donate,NotWaste</li>
 </ul>
-<h2 tabindex="-1">🌱 I'm currently learning</h2>
+<!-- <h2 tabindex="-1">🌱 I'm currently learning</h2>
 <ul>
   <li>DOM manipulation</li>
   <li>DevOps</li>
@@ -36,7 +36,7 @@ I'm Full Stack Developer 💻 | DevOps Enthusiasts | Software Developer Intern A
   <li>Node JS</li>
   <li>React Native</li>
   <li>Assembly Language</li>
-</ul>
+</ul> -->
 <h2 tabindex="-1">
   💼 Technical Skills
 </h2>  
@@ -91,7 +91,7 @@ I'm Full Stack Developer 💻 | DevOps Enthusiasts | Software Developer Intern A
 
 </hr>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Harrisbaig7&theme=tokyonight-duo)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Harrisbaig7&theme=tokyonight)](https://git.io/streak-stats)
 
   📈 GitHub Stats
   
