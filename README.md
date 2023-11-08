@@ -101,11 +101,11 @@ I'm Full Stack Developer 💻 | DevOps Enthusiasts | Software Developer Intern A
   
   ![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Harrisbaig7&langs_count=4999&theme=tokyonight)
 
-  ![GitHub Contributors Image](https://contrib.rocks/image?repo=Harrisbaig7/Full-Stack-Web-Development)
+  <!-- ![GitHub Contributors Image](https://contrib.rocks/image?repo=Harrisbaig7/Full-Stack-Web-Development) 
 
-  ![Jokes Card](https://readme-jokes.vercel.app/api)
+  ![Jokes Card](https://readme-jokes.vercel.app/api) 
   
-  [![Visit](https://visitcount.itsvg.in/api?id=Harrisbaig7&label=Profile%20Views&color=tokyonight&pretty=true)](https://visitcount.itsvg.in)
+  [![Visit](https://visitcount.itsvg.in/api?id=Harrisbaig7&label=Profile%20Views&color=tokyonight&pretty=true)](https://visitcount.itsvg.in) -->
 
   [![Harris's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Harrisbaig7&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
