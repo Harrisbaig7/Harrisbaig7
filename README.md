@@ -86,7 +86,7 @@ I'm Full Stack Developer 💻 | DevOps Enthusiasts | Software Developer Intern A
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 <h2>
-  🔥 Streak Stats
+  🔥 Streak Stat
 </h2>
 
 </hr>
