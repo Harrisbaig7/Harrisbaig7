@@ -91,7 +91,7 @@ I'm Full Stack Developer 💻 | DevOps Enthusiasts | Software Developer Intern A
 
 </hr>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Harrisbaig7&theme=tokyonight-duo)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Harrisbaig7&theme=tokyonight)](https://git.io/streak-stats)
 
   📈 GitHub Stats
   
