@@ -1,7 +1,7 @@
 ![banner](https://github.com/Harrisbaig7/Harrisbaig7/blob/main/banner.png)
 
 <h3 align="center">
-Hi there, I'm <a href="https://hportfoliob.netlify.app/" target="_blank" rel="noreferrer">Harris</a> 👋
+Hi there, I'm <a href="https://hportfoliob.netlify.app/" target="_blank" rel="noreferrer">Harris Baig</a> 👋
 </h3>
 <h2 align="center">
 I'm Full Stack Developer 💻 | DevOps Enthusiasts | Software Developer Intern Amazon Web Services | xGDSC Web Developer Lead COMSATS !
