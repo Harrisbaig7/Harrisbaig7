@@ -97,7 +97,7 @@ I'm Full Stack Developer 💻 | DevOps Enthusiasts | xSoftware Developer Intern 
   
 </hr>
   
-  [![GitHub Status](https://github-readme-stats.vercel.app/api/?username=Harrisbaig7&count_private=true&theme=tokyonight&showicons=false)]()
+  [![GitHub Status](https://github-readme-stats.vercel.app/api/?username=Harrisbaig7&count_private=true&theme=dark&showicons=false)]()
   
   ![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Harrisbaig7&langs_count=4999&theme=tokyonight)
 
