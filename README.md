@@ -97,6 +97,8 @@ I'm Full Stack Developer 💻 | DevOps Enthusiasts | xSoftware Developer Intern 
 
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Harrisbaig7" alt="GitHub Streak" /></a>
+
+</hr>
   📈 GitHub Stats
   
 </hr>
@@ -105,7 +107,7 @@ I'm Full Stack Developer 💻 | DevOps Enthusiasts | xSoftware Developer Intern 
   
   ![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Harrisbaig7&langs_count=4999&theme=tokyonight)
 
-  ![GitHub Contributors Image](https://contrib.rocks/image?repo=Harrisbaig7/Full-Stack-Web-Development) 
+  <!-- ![GitHub Contributors Image](https://contrib.rocks/image?repo=Harrisbaig7/Full-Stack-Web-Development) --> 
 
   ![Jokes Card](https://readme-jokes.vercel.app/api) 
   
