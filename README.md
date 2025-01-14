@@ -91,8 +91,8 @@ I'm Full Stack Developer 💻 | DevOps Enthusiasts | xSoftware Developer Intern 
 
 </hr>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Harrisbaig7&theme=dark)](https://git.io/streak-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=HarrisBaig7)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=Harrisbaig7&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=HarrisBaig7)](https://git.io/streak-stats) -->
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Harrisbaig7&theme=tokyonight" alt="GitHub Streak" /></a>
 
