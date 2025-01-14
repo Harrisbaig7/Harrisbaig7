@@ -99,8 +99,9 @@ I'm Full Stack Developer 💻 | DevOps Enthusiasts | xSoftware Developer Intern 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Harrisbaig7" alt="GitHub Streak" /></a>
 
 </hr>
+<h2>
   📈 GitHub Stats
-  
+</h2>
 </hr>
   
  [![GitHub Status](https://github-readme-stats.vercel.app/api/?username=Harrisbaig7&count_private=true&theme=dark&showicons=false)]()
