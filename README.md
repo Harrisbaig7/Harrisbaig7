@@ -94,8 +94,9 @@ I'm Full Stack Developer 💻 | DevOps Enthusiasts | xSoftware Developer Intern 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=Harrisbaig7&theme=dark)](https://git.io/streak-stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=HarrisBaig7)](https://git.io/streak-stats) -->
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Harrisbaig7&theme=tokyonight" alt="GitHub Streak" /></a>
 
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Harrisbaig7" alt="GitHub Streak" /></a>
   📈 GitHub Stats
   
 </hr>
@@ -112,7 +113,7 @@ I'm Full Stack Developer 💻 | DevOps Enthusiasts | xSoftware Developer Intern 
 
   [![Harris's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Harrisbaig7&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![Harris' Metrics](https://metrics.lecoq.io/Harrisbaig7?template=classic&base.indepth=true&repositories.forks=true&isocalendar=1&code=1&achievements=1&repositories=1&discussions=1&activity=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=false&base.skip=false&repositories.batch=100&repositories.forks=true&repositories.affiliations=owner&isocalendar=false&isocalendar.duration=full-year&repositories=false&repositories.pinned=0&repositories.starred=0&repositories.random=0&repositories.order=featured%2C%20pinned%2C%20starred%2C%20random&discussions=false&discussions.categories=true&discussions.categories.limit=0&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&code=false&code.lines=12&code.load=400&code.days=3&code.visibility=public&config.timezone=Asia%2FKarachi)
+<!--![Harris' Metrics](https://metrics.lecoq.io/Harrisbaig7?template=classic&base.indepth=true&repositories.forks=true&isocalendar=1&code=1&achievements=1&repositories=1&discussions=1&activity=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=false&base.skip=false&repositories.batch=100&repositories.forks=true&repositories.affiliations=owner&isocalendar=false&isocalendar.duration=full-year&repositories=false&repositories.pinned=0&repositories.starred=0&repositories.random=0&repositories.order=featured%2C%20pinned%2C%20starred%2C%20random&discussions=false&discussions.categories=true&discussions.categories.limit=0&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&code=false&code.lines=12&code.load=400&code.days=3&code.visibility=public&config.timezone=Asia%2FKarachi)-->
 
 <!--   [![Visitors](https://visitor-badge.glitch.me/badge?page_id=Harrisbaig7.Harrisbaig7)](https://hportfoliob.netlify.app) -->
 <!-- ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fhportfoliob.netlify.app%2F&label=PorfolioVisit&labelColor=%23d9e3f0&countColor=%232ccce4)
