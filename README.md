@@ -4,7 +4,7 @@
 Hi there, I'm <a href="https://hportfoliob.netlify.app/" target="_blank" rel="noreferrer">Muhammad Harris Baig</a> 👋
 </h3>
 <h2 align="center">
-I'm Full Stack Developer 💻 | DevOps Enthusiasts | xSoftware Developer Intern Pakistan Post | xSoftware Developer Intern Amazon Web Services | xGDSC Web Developer Lead COMSATS !
+I'm Full Stack Developer 💻 | FrontEnd Developer Sublime Logics | DevOps Enthusiasts | xSoftware Developer Intern Pakistan Post | xSoftware Developer Intern Amazon Web Services | xGDSC Web Developer Lead COMSATS !
 </h2>
 <h3>
   🤝 Connect with me:
@@ -21,7 +21,7 @@ I'm Full Stack Developer 💻 | DevOps Enthusiasts | xSoftware Developer Intern 
 <h2 tabindex="-1">🔭 I'm currently working on</h2>
 <ul>
   <li>Zomato project</li>
-  <li>API project</li>
+  <li>Bike Rental</li>
   <li>Donate,NotWaste</li>
 </ul>
 <!-- <h2 tabindex="-1">🌱 I'm currently learning</h2>
@@ -91,11 +91,9 @@ I'm Full Stack Developer 💻 | DevOps Enthusiasts | xSoftware Developer Intern 
 
 </hr>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Harrisbaig7&theme=dark)](https://git.io/streak-stats)
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=HarrisBaig7)](https://git.io/streak-stats)
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Harrisbaig7?theme=tokyo-night" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=HarrisBaig7)](https://git.io/streak-stats)
 
 </hr>
 <h2>
