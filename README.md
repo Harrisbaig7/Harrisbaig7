@@ -93,7 +93,7 @@ I'm Full Stack Developer 💻 | FrontEnd Developer Sublime Logics | DevOps Enthu
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=HarrisBaig7)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=HarrisBaig7)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=HarrisBaig7&theme=tokyonight&showicons=true&hideborder=true&countprivate=true)](https://git.io/streak-stats)
 
 </hr>
 <h2>
@@ -101,7 +101,9 @@ I'm Full Stack Developer 💻 | FrontEnd Developer Sublime Logics | DevOps Enthu
 </h2>
 </hr>
   
- [![GitHub Status](https://github-readme-stats.vercel.app/api/?username=Harrisbaig7&count_private=true&theme=dark&showicons=false)]()
+<!-- [![GitHub Status](https://github-readme-stats.vercel.app/api/?username=Harrisbaig7&count_private=true&theme=dark&showicons=false)]()-->
+
+ <img src="https://github-readme-stats.vercel.app/api?username=Harrisbaig7&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Harrisbaig7's GitHub Stats" />
   
   ![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Harrisbaig7&langs_count=4999&theme=tokyonight)
 
