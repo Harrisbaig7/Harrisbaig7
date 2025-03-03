@@ -1,9 +1,5 @@
 ![banner](https://github.com/Harrisbaig7/Harrisbaig7/blob/main/banner.png)
 
-## Hi there, I'm [Muhammad Harris Baig](https://hportfoliob.netlify.app/) 👋
-**Full-Stack Developer | Frontend Developer at Sublime Logics | DevOps Enthusiast**
-
-
 <h3 align="center">
 Hi there, I'm <a href="https://hportfoliob.netlify.app/" target="_blank" rel="noreferrer">Muhammad Harris Baig</a> 👋
 </h3>
@@ -13,21 +9,21 @@ I'm Full Stack Developer 💻 | FrontEnd Developer Sublime Logics | DevOps Enthu
 <h3>
   🤝 Connect with me:
 </h3>
-<a href="https://www.linkedin.com/in/harris-baig-3a890a203/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Harris Baig | LinkedIn" width="21px"/></a>
-<a href="https://instagram.com/_harrisbaig"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Harris Baig  | Instagram" width="21px"/></a>
-<a href="https://medium.com/@baigharris77"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Harris Baig  | Medium" width="21px"/></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harris-baig-3a890a203/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_harrisbaig)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@baigharris77)
+
 <!-- <a href="https://www.facebook.com/harrisbaig"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/facebook.svg" alt="Harris Baig  | Facebook" width="21px"/></a> -->
 </br>
 </br>
 <ul>
 <li>💬 If you have any question/feedback, please do not hesitate to reach out to me!</li>
 </ul>
-<h2 tabindex="-1">🔭 I'm currently working on</h2>
-<ul>
-  <li>Sublime Logics</li>
-  <li>Bike Rental</li>
-  <li>Donate,NotWaste</li>
-</ul>
+
+## 🚀 Featured Projects
+- [🚗 Bike Rental](https://github.com/yourrepo) - A rental platform with a smooth booking system.
+- [🍲 Donate, Not Waste](https://github.com/yourrepo) - A food donation web app reducing waste.
+
 <!-- <h2 tabindex="-1">🌱 I'm currently learning</h2>
 <ul>
   <li>DOM manipulation</li>
@@ -108,15 +104,23 @@ Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-ba
 
  <img src="https://github-readme-stats.vercel.app/api?username=Harrisbaig7&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Harrisbaig7's GitHub Stats" />
   
-  ![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Harrisbaig7&langs_count=9969&theme=tokyonight)
+  ![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Harrisbaig7&langs_count=10&theme=tokyonight)
 
   <!-- ![GitHub Contributors Image](https://contrib.rocks/image?repo=Harrisbaig7/Full-Stack-Web-Development) --> 
 
-  ![Jokes Card](https://readme-jokes.vercel.app/api) 
+### 🤣 Fun Fact
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
   
  <!-- [![Visit](https://visitcount.itsvg.in/api?id=Harrisbaig7&label=Profile%20Views&color=tokyonight&pretty=true)](https://visitcount.itsvg.in) -->
+[![Harris's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Harrisbaig7&theme=tokyo-night)](https://github.com/Harrisbaig7)
 
-  [![Harris's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Harrisbaig7&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+  ![Profile Views](https://komarev.com/ghpvc/?username=Harrisbaig7&color=blue&style=flat-square)
+
+  ![trophy](https://github-profile-trophy.vercel.app/?username=Harrisbaig7&theme=tokyonight)
+
+
 
 <!--![Harris' Metrics](https://metrics.lecoq.io/Harrisbaig7?template=classic&base.indepth=true&repositories.forks=true&isocalendar=1&code=1&achievements=1&repositories=1&discussions=1&activity=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=false&base.skip=false&repositories.batch=100&repositories.forks=true&repositories.affiliations=owner&isocalendar=false&isocalendar.duration=full-year&repositories=false&repositories.pinned=0&repositories.starred=0&repositories.random=0&repositories.order=featured%2C%20pinned%2C%20starred%2C%20random&discussions=false&discussions.categories=true&discussions.categories.limit=0&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&code=false&code.lines=12&code.load=400&code.days=3&code.visibility=public&config.timezone=Asia%2FKarachi)-->
 
