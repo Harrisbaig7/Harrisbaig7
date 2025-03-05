@@ -92,6 +92,9 @@ Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-ba
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=HarrisBaig7&theme=tokyonight&showicons=true&hideborder=true&countprivate=true)](https://git.io/streak-stats)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HarrisBaig7)
+
+
 </hr>
 <h2>
   📈 GitHub Stats
