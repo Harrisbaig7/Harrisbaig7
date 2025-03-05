@@ -1,0 +1,33 @@
+name: Update GitHub Streak in README
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Runs daily at midnight UTC
+  workflow_dispatch:  # Allows manual trigger
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Get GitHub Streak Data
+        run: |
+          curl -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
+          -H "Content-Type: application/json" \
+          -X POST -d '{ "query": "{ user(login: \"${{ github.repository_owner }}\") { contributionsCollection { contributionCalendar { totalContributions } } } }" }' \
+          https://api.github.com/graphql > streak.json
+
+          contributions=$(jq '.data.user.contributionsCollection.contributionCalendar.totalContributions' streak.json)
+
+          sed -i "s/🔥 GitHub Streak: [0-9]* days/🔥 GitHub Streak: $contributions days/" README.md
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Updated GitHub Streak"
+          git push
