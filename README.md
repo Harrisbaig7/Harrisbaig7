@@ -1,4 +1,4 @@
-<h3 align="center">
+ki<h3 align="center">
 Hi there, I'm <a href="https://hportfoliob.netlify.app/" target="_blank" rel="noreferrer">Muhammad Harris Baig</a> 👋
 </h3>
 <h2 align="center">
@@ -90,7 +90,7 @@ Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-ba
 
 </hr>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=HarrisBaig7&theme=dark&showicons=true&hideborder=true&countprivate=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=HarrisBaig7&theme=tokyonight &showicons=true&hideborder=true&countprivate=true)](https://git.io/streak-stats)
 
 ![GitHub Streak](https://img.shields.io/badge/GitHub_Streak-🔥%20Keep%20going-orange?style=for-the-badge)
 
