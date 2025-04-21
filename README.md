@@ -94,7 +94,7 @@ Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-ba
 
 ![GitHub Streak](https://img.shields.io/badge/GitHub_Streak-🔥%20Keep%20going-orange?style=for-the-badge)
 
-🔥 GitHub Streak: 67 days
+🔥 GitHub Streak: 86 days
 
 
 </hr>
