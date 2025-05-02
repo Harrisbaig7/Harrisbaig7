@@ -80,10 +80,9 @@ Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-ba
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=HarrisBaig7&theme=dark &showicons=true&hideborder=true&countprivate=true)](https://git.io/streak-stats)
 
-![GitHub Streak](https://img.shields.io/badge/GitHub_Streak-🔥%20Keep%20going-orange?style=for-the-badge)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
-🔥 GitHub Streak: 94 days
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=HarrisBaig7)](https://git.io/streak-stats)
 
 </hr>
 <h2>
