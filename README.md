@@ -19,22 +19,10 @@ I'm Full Stack Developer 💻 | FrontEnd Developer Sublime Logics | DevOps Enthu
 <h2 tabindex="-1">🔭 I'm currently working on</h2>
 <ul>
   <li>Sublime Logics</li>
-  <li>Bike Rental</li>
-  <li>Donate,NotWaste</li>
+  <li>Rezo Billing System</li>
+  <li>QualityClix</li>
+  <li>DonateNotWaste</li>
 </ul>
-<!-- <h2 tabindex="-1">🌱 I'm currently learning</h2>
-<ul>
-  <li>DOM manipulation</li>
-  <li>DevOps</li>
-  <li>Clouds Computing with AWS</li>
-  <li>Tailwind CSS</li>
-  <li>MongoDB</li>
-  <li>Express JS</li>
-  <li>React JS</li>
-  <li>Node JS</li>
-  <li>React Native</li>
-  <li>Assembly Language</li>
-</ul> -->
 <h2 tabindex="-1">
   💼 Technical Skills
 </h2>  
@@ -90,7 +78,7 @@ Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-ba
 
 </hr>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=HarrisBaig7&theme=tokyonight &showicons=true&hideborder=true&countprivate=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=HarrisBaig7&theme=dark &showicons=true&hideborder=true&countprivate=true)](https://git.io/streak-stats)
 
 ![GitHub Streak](https://img.shields.io/badge/GitHub_Streak-🔥%20Keep%20going-orange?style=for-the-badge)
 
