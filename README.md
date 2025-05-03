@@ -78,11 +78,7 @@ Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-ba
 
 </hr>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=HarrisBaig7&theme=dark &showicons=true&hideborder=true&countprivate=true)](https://git.io/streak-stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=HarrisBaig7)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=HarrisBaig7&theme=dark)](https://git.io/streak-stats)
 
 </hr>
 <h2>
