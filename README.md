@@ -1,4 +1,4 @@
-ok<h3 align="center">
+kiok<h3 align="center">
 Hi there, I'm <a href="https://hportfoliob.netlify.app/" target="_blank" rel="noreferrer">Muhammad Harris Baig</a> 👋
 </h3>
 <h2 align="center">
@@ -78,7 +78,7 @@ Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-ba
 
 </hr>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=HarrisBaig7&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=HarrisBaig7&theme=dark)](https://git.io/streak-stats)
 
 </hr>
 <h2>
