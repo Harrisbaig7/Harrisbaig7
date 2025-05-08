@@ -86,17 +86,17 @@ Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-ba
 </h2>
 </hr>
   
-<!-- [![GitHub Status](https://github-readme-stats.vercel.app/api/?username=Harrisbaig7&count_private=true&theme=dark &showicons=false)]()-->
+<!-- [![GitHub Status](https://github-readme-stats.vercel.app/api/?username=Harrisbaig7&count_private=true&theme=tokyonight&showicons=false)]()-->
 
  <img src="https://github-readme-stats.vercel.app/api?username=Harrisbaig7&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Harrisbaig7's GitHub Stats" />
   
-  ![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Harrisbaig7&langs_count=9969&theme=tokyonight)
+  ![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Harrisbaig7&langs_count=9969&theme=dark)
 
   <!-- ![GitHub Contributors Image](https://contrib.rocks/image?repo=Harrisbaig7/Full-Stack-Web-Development) --> 
 
   ![Jokes Card](https://readme-jokes.vercel.app/api) 
   
- <!-- [![Visit](https://visitcount.itsvg.in/api?id=Harrisbaig7&label=Profile%20Views&color=tokyonight&pretty=true)](https://visitcount.itsvg.in) -->
+ <!-- [![Visit](https://visitcount.itsvg.in/api?id=Harrisbaig7&label=Profile%20Views&color=dark&pretty=true)](https://visitcount.itsvg.in) -->
 
   [![Harris's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Harrisbaig7&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
