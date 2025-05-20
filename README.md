@@ -10,7 +10,7 @@ I'm Full Stack Developer 💻 | FrontEnd Developer Sublime Logics | DevOps Enthu
 <a href="https://www.linkedin.com/in/harris-baig-3a890a203/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Harris Baig | LinkedIn" width="21px"/></a>
 <a href="https://instagram.com/_harrisbaig"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Harris Baig  | Instagram" width="21px"/></a>
 <a href="https://medium.com/@baigharris77"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Harris Baig  | Medium" width="21px"/></a>
-<!-- <a href="https://www.facebook.com/harrisbaig"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/facebook.svg" alt="Harris Baig  | Facebook" width="21px"/></a> -->
+<!-- <a href="https://www.facebook.com/harrisbaig"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/facebook.svg" alt="Harris Baig | Facebook" width="21px"/></a> -->
 </br>
 </br>
 <ul>
