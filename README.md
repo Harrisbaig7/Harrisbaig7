@@ -91,7 +91,10 @@ Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-ba
 
  <img src="https://github-readme-stats.vercel.app/api?username=Harrisbaig7&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Harrisbaig7's GitHub Stats" />
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harrisbaig7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=contribs&hide_title=false&rank_icon=github)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harrisbaig7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_title=true&rank_icon=github)
+
+![GitHub Contribution Calendar](https://github-readme-streak-stats.herokuapp.com?user=Harrisbaig7&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)
+
 
 
 
