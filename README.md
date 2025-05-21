@@ -79,7 +79,7 @@ Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-ba
 
 </hr>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Harrisbaig7&theme=tokyonight)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=Harrisbaig7&theme=tokyonight)](https://git.io/streak-stats)-->
 
 </hr>
 <h2>
@@ -89,14 +89,11 @@ Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-ba
   
 <!-- [![GitHub Status](https://github-readme-stats.vercel.app/api/?username=Harrisbaig7&count_private=true&theme=tokyonight&showicons=false)]()-->
 
- <img src="https://github-readme-stats.vercel.app/api?username=Harrisbaig7&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Harrisbaig7's GitHub Stats" />
+![GitHub Status](https://github-readme-streak-stats.herokuapp.com?user=Harrisbaig7&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)
+
+ <!--<img src="https://github-readme-stats.vercel.app/api?username=Harrisbaig7&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Harrisbaig7's GitHub Stats" /> -->
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harrisbaig7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_title=true&rank_icon=github)
-
-![GitHub Contribution Calendar](https://github-readme-streak-stats.herokuapp.com?user=Harrisbaig7&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)
-
-
-
 
   ![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Harrisbaig7&layout=compact&langs_count=10&theme=tokyonight)
 
