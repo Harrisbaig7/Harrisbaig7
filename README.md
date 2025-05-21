@@ -2,7 +2,7 @@ kiok<h3 align="center">
 Hi there, I'm <a href="https://hportfoliob.netlify.app/" target="_blank" rel="noreferrer">Muhammad Harris Baig</a> 👋
 </h3>
 <h2 align="center">
-I'm Full Stack Developer 💻 | FrontEnd Developer Sublime Logics | DevOps Enthusiasts | xSoftware Developer Intern Pakistan Post | xSoftware Developer Intern Amazon Web Services | xGDSC Web Developer Lead COMSATS !
+I'm Full Stack Developer 💻 | FrontEnd Developer Sublime Logics | DevOps Enthusiasts | xSoftware Developer Intern Pakistan Post | xSoftware Developer Intern Amazon Web Services | xGDSC Web Developer Lead COMSATS!
 </h2>
 <h3>
   🤝 Connect with me:
