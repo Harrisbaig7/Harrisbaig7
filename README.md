@@ -19,7 +19,7 @@ I'm Full Stack Developer 💻 | FrontEnd Developer Sublime Logics | DevOps Enthu
 <h2 tabindex="-1">🔭 I'm currently working on</h2>
 <ul>
   <li>ProBorrower</li>
-  <li>Sublime Logics</li>
+  <li>SublimeLogics</li>
   <li>Rezo Billing System</li>
   <li>QualityClix</li>
   <li>DonateNotWaste</li>
