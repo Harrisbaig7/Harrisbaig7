@@ -79,7 +79,7 @@ Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-ba
 
 </hr>
 
-![GitHub Status](https://github-readme-streak-stats.herokuapp.com?user=Harrisbaig7&theme=dark&date_format=M%20j%5B%2C%20Y%5D)
+![GitHub Status](https://github-readme-streak-stats.herokuapp.com?user=Harrisbaig7&theme=tokyonight &date_format=M%20j%5B%2C%20Y%5D)
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=Harrisbaig7&theme=tokyonight)](https://git.io/streak-stats)-->
 
