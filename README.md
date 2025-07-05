@@ -7,7 +7,7 @@ I'm Full Stack Developer 💻 | FrontEnd Developer Sublime Logics | DevOps Enthu
 <h3>
   🤝 Connect with me:
 </h3>
-<a href="https://www.linkedin.com/in/harris-baig-3a890a203/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Harris Baig | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/harris-baig-3a890a203/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Harris Baig | LinkedIn" width="20px"/></a>
 <a href="https://instagram.com/_harrisbaig"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Harris Baig  | Instagram" width="21px"/></a>
 <a href="https://medium.com/@baigharris77"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Harris Baig  | Medium" width="21px"/></a>
 <!-- <a href="https://www.facebook.com/harrisbaig"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/facebook.svg" alt="Harris Baig | Facebook" width="21px"/></a> -->
@@ -101,7 +101,7 @@ Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-ba
 
   ![Jokes Card](https://readme-jokes.vercel.app/api) 
   
- <!-- [![Visit](https://visitcount.itsvg.in/api?id=Harrisbaig7&label=Profile%20Views&color=dark&pretty=true)](https://visitcount.itsvg.in) -->
+ <!-- [![Visit](https://visitcount.itsvg.in/api?id=Harrisbaig7&label=Profile%20Views&color=tokyonight &pretty=true)](https://visitcount.itsvg.in) -->
 
   [![Harris's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Harrisbaig7&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
