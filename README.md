@@ -22,7 +22,6 @@ I'm Full Stack Developer 💻 | Full Stack Developer Sublime Logics | DevOps Ent
   <li>ProBorrower</li>
   <li>SublimeLogics</li>
   <li>Rezo Billing System</li>
-  <li>QualityClix</li>
   <li>DonateNotWaste</li>
 </ul>
 <h2 tabindex="-1">
