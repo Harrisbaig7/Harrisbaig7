@@ -101,5 +101,5 @@ Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-ba
 
   [![Harris's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Harrisbaig7&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![Metrics](https://github.com/<USERNAME>/<USERNAME>/blob/main/github-metrics.svg)
+![Metrics](https://github.com/Harrisbaig7/Harrisbaig7/blob/main/github-metrics.svg)
 
