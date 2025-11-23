@@ -88,14 +88,10 @@ Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-ba
   📈 GitHub Stats
 </h2>
 </hr>
-  
-<!-- [![GitHub Status](https://github-readme-stats.vercel.app/api/?username=Harrisbaig7&count_private=true&theme=tokyonight&showicons=false)]()-->
 
- <!--<img src="https://github-readme-stats.vercel.app/api?username=Harrisbaig7&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Harrisbaig7's GitHub Stats" /> -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harrisbaig7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_title=true&rank_icon=github)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harrisbaig7&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_title=true&rank_icon=github)
-
-  ![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Harrisbaig7&layout=compact&langs_count=11&theme=tokyonight)
+  ![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Harrisbaig7&layout=compact&langs_count=10&theme=tokyonight)
 
   <!-- ![GitHub Contributors Image](https://contrib.rocks/image?repo=Harrisbaig7/Full-Stack-Web-Development) --> 
 
@@ -105,22 +101,5 @@ Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-ba
 
   [![Harris's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Harrisbaig7&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![Harris' Metrics](https://metrics.lecoq.io/Harrisbaig7?template=classic&base.indepth=true&repositories.forks=true&isocalendar=1&code=1&achievements=1&repositories=1&discussions=1&activity=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=false&base.skip=false&repositories.batch=100&repositories.forks=true&repositories.affiliations=owner&isocalendar=false&isocalendar.duration=full-year&repositories=false&repositories.pinned=0&repositories.starred=0&repositories.random=0&repositories.order=featured%2C%20pinned%2C%20starred%2C%20random&discussions=false&discussions.categories=true&discussions.categories.limit=0&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&code=false&code.lines=12&code.load=400&code.days=3&code.visibility=public&config.timezone=Asia%2FKarachi)
+![Metrics](https://github.com/<USERNAME>/<USERNAME>/blob/main/github-metrics.svg)
 
-<!--   [![Visitors](https://visitor-badge.glitch.me/badge?page_id=Harrisbaig7.Harrisbaig7)](https://hportfoliob.netlify.app) -->
-<!-- ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fhportfoliob.netlify.app%2F&label=PorfolioVisit&labelColor=%23d9e3f0&countColor=%232ccce4)
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fhportfoliob.netlify.app%2F&label=PorfolioVisit&labelColor=%23697689&countColor=%232ccce4)](https://visitorbadge.io/status?path=https%3A%2F%2Fhportfoliob.netlify.app%2F) -->
-  </hr>
-<!--
-**Harrisbaig7/Harrisbaig7** is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
