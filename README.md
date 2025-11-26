@@ -79,7 +79,7 @@ Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-ba
 
 </hr>
 
-![GitHub Status](https://github-readme-streak-stats.herokuapp.com?user=Harrisbaig7&theme=dark&date_format=M%20j%5B%2C%20Y%5D)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Harrisbaig7&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=Harrisbaig7&theme=tokyonight)](https://git.io/streak-stats)-->
 
@@ -89,7 +89,7 @@ Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-ba
 </h2>
 </hr>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harrisbaig7&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_title=true&rank_icon=github)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
   ![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Harrisbaig7&layout=compact&langs_count=10&theme=tokyonight)
 
