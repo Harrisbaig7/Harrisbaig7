@@ -79,6 +79,8 @@ Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-ba
 
 </hr>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Harrisbaig7)](https://git.io/streak-stats)
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Harrisbaig7&theme=dark)](https://git.io/streak-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Harrisbaig7)](https://git.io/streak-stats)
@@ -96,10 +98,6 @@ Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-ba
 ![Harris's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harrisbaig7&show_icons=true&theme=radical)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Harrisbaig7&repo=github-readme-stats)]
-
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Harrisbaig7&show_icons=true&theme=dark#gh-dark-mode-only)]
-
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Harrisbaig7&show_icons=true&theme=default#gh-light-mode-only)]
 
   ![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Harrisbaig7&layout=compact&langs_count=10&theme=tokyonight)
 
