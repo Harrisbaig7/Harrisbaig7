@@ -89,7 +89,9 @@ Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-ba
 
 
 <!-- 📈 GitHub Stats -->
-![Harris's GitHub stats](https://github-readme-stats.vercel.api/api?username=Harrisbaig7&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Harrisbaig7)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- 📌 Pinned Repo Card -->
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Harrisbaig7&repo=The-Military-Taxi-Company)](https://github.com/Harrisbaig7/The-Military-Taxi-Company)-->
