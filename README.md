@@ -89,7 +89,7 @@ Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-ba
 
 
 <!-- 📈 GitHub Stats -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Harrisbaig7)](https://github.com/anuraghazra/github-readme-stats)
 
