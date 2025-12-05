@@ -89,15 +89,19 @@ Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-ba
 
 
 <!-- 📈 GitHub Stats -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Harrisbaig7)](https://github.com/anuraghazra/github-readme-stats)
+![Harris's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harrisbaig7&show_icons=true&theme=transparent&token=METRICS_TOKEN)
+
+![Harris's GitHub stats](https://your-app-name.vercel.app/api?username=Harrisbaig7&show_icons=true&theme=transparent)
+
 
 <!-- 📌 Pinned Repo Card -->
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Harrisbaig7&repo=The-Military-Taxi-Company)](https://github.com/Harrisbaig7/The-Military-Taxi-Company)-->
 
 <!-- 🔤 Top Languages -->
-![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Harrisbaig7&layout=compact&langs_count=10&theme=dark)
+
+![Top Langs](https://harris-github-stats.vercel.app/api/top-langs/?username=Harrisbaig7&layout=compact&langs_count=10&theme=dark)
+
 
 
 
