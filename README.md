@@ -81,13 +81,15 @@ Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-ba
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Harrisbaig7&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats)
 
+
+
 </hr>
 <h2>
   📈 GitHub Stats
 </h2>
 </hr>
 
-![Harris's GitHub stats](https://your-app-name.vercel.app/api?username=Harrisbaig7&show_icons=true&theme=transparent)
+![Harris's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Harrisbaig7)
 
 <!-- 📌 Pinned Repo Card -->
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Harrisbaig7&repo=The-Military-Taxi-Company)](https://github.com/Harrisbaig7/The-Military-Taxi-Company)-->
