@@ -89,14 +89,14 @@ Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-ba
 </h2>
 </hr>
 
-![Harris's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Harrisbaig7)
+![Harris GitHub Stats](https://harris-github-stats.vercel.app/api?username=Harrisbaig7&show_icons=true&theme=dark)
 
 <!-- 📌 Pinned Repo Card -->
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Harrisbaig7&repo=The-Military-Taxi-Company)](https://github.com/Harrisbaig7/The-Military-Taxi-Company)-->
 
 <!-- 🔤 Top Languages -->
 
-![Top Langs](https://harris-github-stats.vercel.app/api/top-langs/?username=Harrisbaig7&layout=compact&langs_count=9&theme=dark)
+![Top Languages](https://harris-github-stats.vercel.app/api/top-langs/?username=Harrisbaig7&layout=compact&langs_count=10&theme=dark)
 
   <!-- ![GitHub Contributors Image](https://contrib.rocks/image?repo=Harrisbaig7/Full-Stack-Web-Development) --> 
 
