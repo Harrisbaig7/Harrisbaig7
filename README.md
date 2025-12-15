@@ -2,7 +2,7 @@
 Hi there, I'm <a href="https://hportfoliob.netlify.app/" target="_blank" rel="noreferrer">Muhammad Harris Baig</a> 👋
 </h3>
 <h2 align="center">
-I'm Full Stack Developer 💻 | Full Stack Developer Sublime Logics | DevOps Enthusiasts | xSoftware Developer Intern Pakistan Post | xSoftware Developer Intern Amazon Web Services | xGDSC Web Developer Lead COMSATS!
+Full Stack Developer (MERN/MEVN/Laravel) 💻 | DevOps Enthusiast | Web & Mobile Apps | Open to Remote & Project-Based Work
 </h2>
 <h3>
   🤝 Connect with me:
