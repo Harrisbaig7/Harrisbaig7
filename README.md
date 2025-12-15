@@ -20,7 +20,7 @@ Full Stack Developer (MERN/MEVN/Laravel) 💻 | DevOps Enthusiast | Web & Mobile
   <li>MilitaryTaxiCompany (Web App)</li>
   <li>ProBorrower (Web App)</li>
   <li>Rezo Billing System (Web & Admin Panel)</li>
-  <li>DonateNotWaste (Web App)</li>
+  <li>DonateNotWaste (Mobile App)</li>
 </ul>
 
 <h2>💼 Technical Skills</h2>  
