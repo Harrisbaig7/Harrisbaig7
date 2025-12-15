@@ -1,33 +1,27 @@
 <h3 align="center">
 Hi there, I'm <a href="https://hportfoliob.netlify.app/" target="_blank" rel="noreferrer">Muhammad Harris Baig</a> 👋
 </h3>
+
 <h2 align="center">
 Full Stack Developer (MERN/MEVN/Laravel) 💻 | DevOps Enthusiast | Web & Mobile Apps | Open to Remote & Project-Based Work
 </h2>
-<h3>
-  🤝 Connect with me:
-</h3>
-<a href="https://www.linkedin.com/in/harris-baig-3a890a203/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Harris Baig | LinkedIn" width="20px"/></a>
-<a href="https://instagram.com/_harrisbaig"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Harris Baig  | Instagram" width="21px"/></a>
-<a href="https://medium.com/@baigharris77"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Harris Baig  | Medium" width="21px"/></a>
-<!-- <a href="https://www.facebook.com/harrisbaig"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/facebook.svg" alt="Harris Baig | Facebook" width="21px"/></a> -->
-</br>
-</br>
+
+<h3>🤝 Connect with me:</h3>
+<a href="https://www.linkedin.com/in/harris-baig-3a890a203/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="LinkedIn" width="20px"/></a>
+<a href="https://instagram.com/_harrisbaig"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Instagram" width="21px"/></a>
+<a href="https://medium.com/@baigharris77"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Medium" width="21px"/></a>
+<br/><br/>
 <ul>
-<li>💬 If you have any question/feedback, please do not hesitate to reach out to me!</li>
+  <li>💬 Feel free to reach out for any questions, collaborations, or freelance projects!</li>
 </ul>
-<h2 tabindex="-1">🔭 I'm currently working on</h2>
+
+<h2>🔭 Currently Working On</h2>
 <ul>
-  <li>MilitaryTaxiCompany</li>
-  <li>ProBorrower</li>
-  <li>SublimeLogics</li>
-  <li>Rezo Billing System</li>
-  <li>DonateNotWaste</li>
+  <li>MilitaryTaxiCompany (Web App)</li>
+  <li>ProBorrower (Web App)</li>
+  <li>Rezo Billing System (Web & Admin Panel)</li>
+  <li>DonateNotWaste (Web App)</li>
 </ul>
-<h2 tabindex="-1">
-  💼 Technical Skills
-</h2>  
-</hr>
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
