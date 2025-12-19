@@ -84,6 +84,14 @@ Full Stack Developer (MERN/MEVN/Laravel) 💻 | DevOps Enthusiast | Web & Mobile
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harrisbaig7&show_icons=true&count_private=true&theme=tokyonight)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harrisbaig7&show_icons=true&theme=transparent)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harrisbaig7&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harrisbaig7&show_icons=true)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Harrisbaig7&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 <!-- 🔤 Top Languages -->
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harrisbaig7&layout=compact&langs_count=15&theme=tokyonight)
