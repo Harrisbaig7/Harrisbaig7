@@ -84,27 +84,11 @@ Full Stack Developer (MERN/MEVN/Laravel) 💻 | DevOps Enthusiast | Web & Mobile
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harrisbaig7&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)
 
-# Hi, I'm Harris! 👋
-
-## GitHub Overview
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harrisbaig7&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)
-
-## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harrisbaig7&layout=compact&langs_count=10&theme=tokyonight)
-
-## Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Harrisbaig7&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-## Contributions Calendar
-![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=Harrisbaig7&theme=tokyonight&show_total=true&count_private=true)
-
-
-<!-- 📌 Pinned Repo Card -->
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Harrisbaig7&repo=The-Military-Taxi-Company)](https://github.com/Harrisbaig7/The-Military-Taxi-Company)-->
 
 <!-- 🔤 Top Languages -->
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harrisbaig7&layout=compact&langs_count=10&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harrisbaig7&layout=compact&langs_count=15&theme=tokyonight)
 
   <!-- ![GitHub Contributors Image](https://contrib.rocks/image?repo=Harrisbaig7/Full-Stack-Web-Development) --> 
 
