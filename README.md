@@ -74,18 +74,15 @@ Full Stack Developer (MERN/MEVN/Laravel) 💻 | DevOps Enthusiast | Web & Mobile
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Harrisbaig7&theme=dark&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harrisbaig7&show_icons=true&theme=dark)
-
-
 </hr>
 <h2>
   📈 GitHub Stats
 </h2>
 </hr>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harrisbaig7&show_icons=true&count_private=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harrisbaig7&show_icons=true&count_private=true&theme=dark)
 
-![OVERALL](https://github-readme-stats.vercel.app/api?username=Harrisbaig7&theme=tokyonight&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![OVERALL](https://github-readme-stats.vercel.app/api?username=Harrisbaig7&theme=dark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 <!-- 🔤 Top Languages -->
 
