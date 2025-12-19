@@ -74,7 +74,7 @@ Full Stack Developer (MERN/MEVN/Laravel) 💻 | DevOps Enthusiast | Web & Mobile
 
 </hr>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Harrisbaig7&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Harrisbaig7&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </hr>
 <h2>
@@ -82,7 +82,8 @@ Full Stack Developer (MERN/MEVN/Laravel) 💻 | DevOps Enthusiast | Web & Mobile
 </h2>
 </hr>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harrisbaig7&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harrisbaig7&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)
+
 
 <!-- 📌 Pinned Repo Card -->
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Harrisbaig7&repo=The-Military-Taxi-Company)](https://github.com/Harrisbaig7/The-Military-Taxi-Company)-->
