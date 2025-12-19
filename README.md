@@ -89,7 +89,7 @@ Full Stack Developer (MERN/MEVN/Laravel) 💻 | DevOps Enthusiast | Web & Mobile
 
 <!-- 🔤 Top Languages -->
 
-![Top Languages](https://github-stats.omsimos.com.app/api/top-langs/?username=Harrisbaig7&layout=compact&langs_count=5&theme=dark)
+![Top Languages](https://github-stats.omsimos.com/?theme_preview=tokyonight/api/top-langs/?username=Harrisbaig7&layout=compact&langs_count=5&theme=dark)
 
   <!-- ![GitHub Contributors Image](https://contrib.rocks/image?repo=Harrisbaig7/Full-Stack-Web-Development) --> 
 
