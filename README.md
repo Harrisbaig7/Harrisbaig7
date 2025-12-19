@@ -82,7 +82,10 @@ Full Stack Developer (MERN/MEVN/Laravel) 💻 | DevOps Enthusiast | Web & Mobile
 </h2>
 </hr>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harrisbaig7&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harrisbaig7&show_icons=true&count_private=true&theme=tokyonight)
+
+![GitHub Stats](https://readme-stats.vercel.app/api?username=Harrisbaig7&show_icons=true&theme=tokyonight)
+
 
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Harrisbaig7&repo=The-Military-Taxi-Company)](https://github.com/Harrisbaig7/The-Military-Taxi-Company)-->
 
