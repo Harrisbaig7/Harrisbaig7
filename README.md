@@ -72,7 +72,7 @@ Full Stack Developer (MERN/MEVN/Laravel) 💻 | DevOps Enthusiast | Web & Mobile
   🔥 Streak Stats
 </h2>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harrisbaig7&show_icons=true&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Harrisbaig7&theme=dark)
 
 
 </hr>
