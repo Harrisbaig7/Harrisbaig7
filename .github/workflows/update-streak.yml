@@ -2,8 +2,8 @@ name: Update GitHub Streak in README
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs daily at midnight UTC
-  workflow_dispatch:  # Allows manual trigger
+    - cron: "0 0 * * *"  # Daily at midnight UTC
+  workflow_dispatch:
 
 jobs:
   update-readme:
@@ -13,21 +13,30 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      - name: Get GitHub Streak Data
+      - name: Fetch GitHub Streak
         run: |
-          curl -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
-          -H "Content-Type: application/json" \
-          -X POST -d '{ "query": "{ user(login: \"${{ github.repository_owner }}\") { contributionsCollection { contributionCalendar { totalContributions } } } }" }' \
-          https://api.github.com/graphql > streak.json
+          # Fetch contributions using GitHub GraphQL API with default GITHUB_TOKEN
+          curl -H "Authorization: Bearer $GITHUB_TOKEN" \
+               -H "Content-Type: application/json" \
+               -X POST \
+               -d "{\"query\": \"{ user(login: \\\"${{ github.repository_owner }}\\\") { contributionsCollection { contributionCalendar { totalContributions } } } }\"}" \
+               https://api.github.com/graphql > streak.json
 
           contributions=$(jq '.data.user.contributionsCollection.contributionCalendar.totalContributions' streak.json)
 
-          sed -i "s/🔥 GitHub Streak: [0-9]* days/🔥 GitHub Streak: $contributions days/" README.md
+          echo "Total contributions: $contributions"
 
-      - name: Commit and Push Changes
+          # Update README
+          if grep -q "🔥 GitHub Streak:" README.md; then
+            sed -i "s/🔥 GitHub Streak: [0-9]* days/🔥 GitHub Streak: $contributions days/" README.md
+          else
+            echo "🔥 GitHub Streak: $contributions days" >> README.md
+          fi
+
+      - name: Commit and Push
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "Harrisbaig7"
+          git config --global user.email "baigharris77@gmail.com"
           git add README.md
-          git commit -m "Updated GitHub Streak"
+          git commit -m "Updated GitHub Streak" || echo "No changes to commit"
           git push
