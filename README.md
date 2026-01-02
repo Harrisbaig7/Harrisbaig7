@@ -80,6 +80,10 @@ Full Stack Developer (MERN/MEVN/Laravel) 💻 | DevOps Enthusiast | Web & Mobile
 </h2>
 </hr>
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Harrisbaig7&theme=tokyonight)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Harrisbaig7&theme=tokyonight&utcOffset=8)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harrisbaig7&show_icons=true&count_private=true&theme=tokyonight)
 
 ![OVERALL](https://github-readme-stats.vercel.app/api?username=Harrisbaig7&theme=tokyonight&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
@@ -87,6 +91,10 @@ Full Stack Developer (MERN/MEVN/Laravel) 💻 | DevOps Enthusiast | Web & Mobile
 <!-- 🔤 Top Languages -->
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harrisbaig7&layout=compact&langs_count=12&theme=tokyonight)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Harrisbaig7&theme=tokyonight)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Harrisbaig7&theme=tokyonight)
 
   <!-- ![GitHub Contributors Image](https://contrib.rocks/image?repo=Harrisbaig7/Full-Stack-Web-Development) --> 
 
