@@ -41,7 +41,7 @@
 
 <!-- Frontend -->
 <div align="left" style="display: flex; align-items: center; flex-wrap: wrap; gap: 10px; margin-bottom: 10px;">
-  <strong style="min-width: 120px;">Frontend</strong>
+  <strong style="min-width: 220px;">Frontend</strong>
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
   <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
   <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
@@ -52,7 +52,7 @@
 
 <!-- Backend -->
 <div align="left" style="display: flex; align-items: center; flex-wrap: wrap; gap: 10px; margin-bottom: 10px;">
-  <strong style="min-width: 120px;">Backend</strong>
+  <strong style="min-width: 180px;">Backend</strong>
   <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
   <img alt="Express" src="https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=white">
   <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
