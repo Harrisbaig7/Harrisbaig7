@@ -18,11 +18,9 @@
 
 <h3 align="center">🤝 Connect with me:</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/harris-baig-3a890a203/"><img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="LinkedIn" width="30px"/></a>
-  &nbsp;
-  <a href="https://instagram.com/_harrisbaig"><img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Instagram" width="30px"/></a>
-  &nbsp;
-  <a href="https://medium.com/@baigharris77"><img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Medium" width="30px"/></a>
+  <a href="https://www.linkedin.com/in/harris-baig-3a890a203/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://instagram.com/_harrisbaig"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://medium.com/@baigharris77"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
 </p>
 
 <p align="center">
@@ -39,33 +37,50 @@
 
 ---
 
-## 💼 Technical Skills  
+## 💻 Technical Skills  
 
+### Frontend
 <p align="center">
-  
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-  ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-  ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
+  <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+  <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
+  <img alt="MUI" src="https://img.shields.io/badge/MUI-0081CB?style=for-the-badge&logo=mui&logoColor=white">
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img alt="Styled Components" src="https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
+</p>
+
+### Backend
+<p align="center">
+  <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+  <img alt="Express" src="https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=white">
+  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+</p>
+
+### Databases
+<p align="center">
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img alt="Postgres" src="https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white">
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white">
+</p>
+
+### Tools & Platforms
+<p align="center">
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white">
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white">
+  <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
+  <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white">
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
 </p>
 
 ---
 
-## 🔥 GitHub Streak & Stats
+## 🔥 GitHub Stats & Streak
 
 <p align="center">
   
@@ -84,7 +99,7 @@
 
 ---
 
-## 😄 Fun & Misc
+## 😄 Fun & Jokes
 <p align="center">
   
   ![Jokes Card](https://readme-jokes.vercel.app/api)
@@ -92,7 +107,7 @@
 
 ---
 
-## 📊 Activity Graph
+## 📈 Activity Graph
 <p align="center">
   
   [![Harris's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Harrisbaig7&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -103,134 +118,3 @@
 <p align="center">
   Made with ❤️ by <strong>Muhammad Harris Baig</strong>
 </p>
-
-<h1 align="center">
-  Hi 👋, I'm <a href="https://hportfoliob.netlify.app/" target="_blank" rel="noreferrer">
-    Muhammad Harris Baig
-  </a>
-</h1>
-
-<h3 align="center">
-  Full-Stack Web Developer (MERN / MEVN / Laravel) 💻  
-</h3>
-
-<p align="center">
-  DevOps Enthusiast • SaaS & Dashboard Builder • Web & Mobile Apps  
-  <br/>
-  <strong>Open to Remote • Freelance • Project-Based Work</strong>
-</p>
-
-<h3>🤝 Connect with me:</h3>
-<a href="https://www.linkedin.com/in/harris-baig-3a890a203/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="LinkedIn" width="20px"/></a>
-<a href="https://instagram.com/_harrisbaig"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Instagram" width="21px"/></a>
-<a href="https://medium.com/@baigharris77"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Medium" width="21px"/></a>
-<br/><br/>
-<ul>
-  <li>💬 Feel free to reach out for any questions, collaborations, or freelance projects!</li>
-</ul>
-
-<h2>🔭 Currently Working On</h2>
-<ul>
-  <li>MilitaryTaxiCompany (Web App)</li>
-  <li>ProBorrower (Web App)</li>
-  <li>Rezo Billing System (Web & Admin Panel)</li>
-  <li>DonateNotWaste (Mobile App)</li>
-</ul>
-
-<h2>💼 Technical Skills</h2>  
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) 	
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) 
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) 
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) 
-![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) 
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-<h2>
-  🔥 Streak Stats
-</h2>
-
-
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harrisbaig7&theme=tokyonight)
-  
-
-</hr>
-<h2>
-  📈 GitHub Stats
-</h2>
-</hr>
-
-<p align="center">
-  <img
-    src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Harrisbaig7&theme=tokyonight"
-    width="48%"
-  />
-  <img
-    src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Harrisbaig7&theme=tokyonight&utcOffset=8"
-    width="48%"
-  />
-</p>
-
-<!--
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harrisbaig7&show_icons=true&count_private=true&theme=tokyonight)
-
-![OVERALL](https://github-readme-stats.vercel.app/api?username=Harrisbaig7&theme=tokyonight&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-
- 🔤 Top Languages 
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harrisbaig7&layout=compact&langs_count=11)-->
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Harrisbaig7&theme=tokyonight"
-    width="48%"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Harrisbaig7&theme=tokyonight"
-    width="48%"
-  />
-</p>
-
-  <!-- ![GitHub Contributors Image](https://contrib.rocks/image?repo=Harrisbaig7/Full-Stack-Web-Development) --> 
-
-  ![Jokes Card](https://readme-jokes.vercel.app/api) 
-
- <!-- [![Visit](https://visitcount.itsvg.in/api?id=Harrisbaig7&label=Profile%20Views&color=tokyonight &pretty=true)](https://visitcount.itsvg.in) -->
-
-  [![Harris's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Harrisbaig7&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
