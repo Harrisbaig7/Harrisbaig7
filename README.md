@@ -37,49 +37,49 @@
 
 ---
 
-## 💻 Technical Skills  
+## 💻 Technical Skills
 
 <!-- Frontend -->
-<div align="left" style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 10px; align-items: center;">
-  <strong style="flex: 0 0 100px;">Frontend</strong>
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" height="30">
-  <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" height="30">
-  <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" height="30">
-  <img alt="MUI" src="https://img.shields.io/badge/MUI-0081CB?style=for-the-badge&logo=mui&logoColor=white" height="30">
-  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="30">
-  <img alt="Styled Components" src="https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" height="30">
+<div align="left" style="display: flex; flex-wrap: wrap; align-items: center; gap: 10px; margin-bottom: 15px;">
+  <strong style="flex: 0 0 120px;">Frontend</strong>
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" height="28">
+  <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" height="28">
+  <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" height="28">
+  <img alt="MUI" src="https://img.shields.io/badge/MUI-0081CB?style=for-the-badge&logo=mui&logoColor=white" height="28">
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="28">
+  <img alt="Styled Components" src="https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" height="28">
 </div>
 
 <!-- Backend -->
-<div align="left" style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 10px; align-items: center;">
-  <strong style="flex: 0 0 100px;">Backend</strong>
-  <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" height="30">
-  <img alt="Express" src="https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=white" height="30">
-  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" height="30">
-  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="30">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="30">
-  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" height="30">
+<div align="left" style="display: flex; flex-wrap: wrap; align-items: center; gap: 10px; margin-bottom: 15px;">
+  <strong style="flex: 0 0 120px;">Backend</strong>
+  <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" height="28">
+  <img alt="Express" src="https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=white" height="28">
+  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" height="28">
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="28">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="28">
+  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" height="28">
 </div>
 
 <!-- Databases -->
-<div align="left" style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 10px; align-items: center;">
-  <strong style="flex: 0 0 100px;">Databases</strong>
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white" height="30">
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" height="30">
-  <img alt="Postgres" src="https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="30">
-  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white" height="30">
-  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white" height="30">
+<div align="left" style="display: flex; flex-wrap: wrap; align-items: center; gap: 10px; margin-bottom: 15px;">
+  <strong style="flex: 0 0 120px;">Databases</strong>
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white" height="28">
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" height="28">
+  <img alt="Postgres" src="https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="28">
+  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white" height="28">
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white" height="28">
 </div>
 
 <!-- Tools & Platforms -->
-<div align="left" style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 10px; align-items: center;">
-  <strong style="flex: 0 0 130px;">Tools & Platforms</strong>
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" height="30">
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" height="30">
-  <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" height="30">
-  <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" height="30">
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" height="30">
-  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="30">
+<div align="left" style="display: flex; flex-wrap: wrap; align-items: center; gap: 10px; margin-bottom: 15px;">
+  <strong style="flex: 0 0 150px;">Tools & Platforms</strong>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" height="28">
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" height="28">
+  <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" height="28">
+  <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" height="28">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" height="28">
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="28">
 </div>
 
 ---
