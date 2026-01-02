@@ -84,7 +84,7 @@
 
 <p align="center">
   
-  ![Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harrisbaig7&theme=tokyonight)
+  
 </p>
 
 <h2 align="center">📊 GitHub Summary</h2>
@@ -98,6 +98,8 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Harrisbaig7&theme=tokyonight" width="240" />
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Harrisbaig7&theme=tokyonight" width="240" />
+
+  ![Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harrisbaig7&theme=tokyonight)
 
 </div>
 
