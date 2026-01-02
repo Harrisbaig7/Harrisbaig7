@@ -80,10 +80,6 @@ Full Stack Developer (MERN/MEVN/Laravel) 💻 | DevOps Enthusiast | Web & Mobile
 </h2>
 </hr>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Harrisbaig7&theme=tokyonight)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Harrisbaig7&theme=tokyonight&utcOffset=8)
-
 <p align="center">
   <img
     src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Harrisbaig7&theme=tokyonight"
@@ -100,9 +96,9 @@ Full Stack Developer (MERN/MEVN/Laravel) 💻 | DevOps Enthusiast | Web & Mobile
 
 ![OVERALL](https://github-readme-stats.vercel.app/api?username=Harrisbaig7&theme=tokyonight&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
- 🔤 Top Languages -->
+ 🔤 Top Languages 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harrisbaig7&layout=compact&langs_count=11)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harrisbaig7&layout=compact&langs_count=11)-->
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Harrisbaig7&theme=tokyonight)
 
@@ -117,4 +113,3 @@ Full Stack Developer (MERN/MEVN/Laravel) 💻 | DevOps Enthusiast | Web & Mobile
  <!-- [![Visit](https://visitcount.itsvg.in/api?id=Harrisbaig7&label=Profile%20Views&color=tokyonight &pretty=true)](https://visitcount.itsvg.in) -->
 
   [![Harris's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Harrisbaig7&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-🔥 GitHub Streak: null days
