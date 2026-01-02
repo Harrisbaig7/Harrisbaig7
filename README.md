@@ -42,6 +42,7 @@
 ## 💼 Technical Skills  
 
 <p align="center">
+  
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
@@ -67,6 +68,7 @@
 ## 🔥 GitHub Streak & Stats
 
 <p align="center">
+  
   ![Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harrisbaig7&theme=tokyonight)
 </p>
 
@@ -84,6 +86,7 @@
 
 ## 😄 Fun & Misc
 <p align="center">
+  
   ![Jokes Card](https://readme-jokes.vercel.app/api)
 </p>
 
@@ -91,6 +94,7 @@
 
 ## 📊 Activity Graph
 <p align="center">
+  
   [![Harris's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Harrisbaig7&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </p>
 
