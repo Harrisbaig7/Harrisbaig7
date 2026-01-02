@@ -14,6 +14,8 @@
   <strong>Open to Remote • Freelance • Project-Based Work</strong>
 </p>
 
+<p align="center"> <a href="https://www.linkedin.com/in/harris-baig-3a890a203/"><img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" width="22px"/></a> &nbsp;&nbsp; <a href="https://instagram.com/_harrisbaig"><img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" width="22px"/></a> &nbsp;&nbsp; <a href="https://medium.com/@baigharris77"><img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" width="22px"/></a> </p>
+
 <h3>🤝 Connect with me:</h3>
 <a href="https://www.linkedin.com/in/harris-baig-3a890a203/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="LinkedIn" width="20px"/></a>
 <a href="https://instagram.com/_harrisbaig"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Instagram" width="21px"/></a>
