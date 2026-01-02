@@ -84,13 +84,25 @@ Full Stack Developer (MERN/MEVN/Laravel) 💻 | DevOps Enthusiast | Web & Mobile
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Harrisbaig7&theme=tokyonight&utcOffset=8)
 
+<p align="center">
+  <img
+    src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Harrisbaig7&theme=tokyonight"
+    width="48%"
+  />
+  <img
+    src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Harrisbaig7&theme=tokyonight&utcOffset=8"
+    width="48%"
+  />
+</p>
+
+<!--
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harrisbaig7&show_icons=true&count_private=true&theme=tokyonight)
 
 ![OVERALL](https://github-readme-stats.vercel.app/api?username=Harrisbaig7&theme=tokyonight&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
-<!-- 🔤 Top Languages -->
+ 🔤 Top Languages -->
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harrisbaig7&layout=compact&langs_count=12&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harrisbaig7&layout=compact&langs_count=11)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Harrisbaig7&theme=tokyonight)
 
