@@ -18,15 +18,8 @@
 
 ## ⚡ Quick Profile Snapshot
 
-```js
-const profile = {
-  role: "Full-Stack Web Developer",
-  experience: "3+ Years",
-  focus: ["SaaS", "Dashboards", "Scalable Systems"],
-  availability: "Remote / Contract / Freelance",
-  mindset: "Clean code, long-term maintainability"
-};
-
+<pre> ```js // Developer profile overview const profile = { // Your main role / job title role: "Full-Stack Web Developer", // Total experience in the industry experience: "3+ Years", // Areas of focus / expertise in projects focus: ["SaaS", "Dashboards", "Scalable Systems"], // Availability type for work availability: "Remote / Contract / Freelance", // Work philosophy or mindset mindset: "Clean code, long-term maintainability" }; ``` </pre>
+ 
 <h3 align="center">
 Hi there, I'm <a href="https://hportfoliob.netlify.app/" target="_blank" rel="noreferrer">Muhammad Harris Baig</a> 👋
 </h3>
