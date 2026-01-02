@@ -14,15 +14,6 @@
   <strong>Open to Remote • Freelance • Project-Based Work</strong>
 </p>
 
-
-<h3 align="center">
-Hi there, I'm <a href="https://hportfoliob.netlify.app/" target="_blank" rel="noreferrer">Muhammad Harris Baig</a> 👋
-</h3>
-
-<h2 align="center">
-Full Stack Developer (MERN/MEVN/Laravel) 💻 | DevOps Enthusiast | Web & Mobile Apps | Open to Remote & Project-Based Work
-</h2>
-
 <h3>🤝 Connect with me:</h3>
 <a href="https://www.linkedin.com/in/harris-baig-3a890a203/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="LinkedIn" width="20px"/></a>
 <a href="https://instagram.com/_harrisbaig"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Instagram" width="21px"/></a>
