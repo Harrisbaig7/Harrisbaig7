@@ -14,7 +14,107 @@
   <strong>Open to Remote • Freelance • Project-Based Work</strong>
 </p>
 
-<p align="center"> <a href="https://www.linkedin.com/in/harris-baig-3a890a203/"><img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" width="22px"/></a> &nbsp;&nbsp; <a href="https://instagram.com/_harrisbaig"><img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" width="22px"/></a> &nbsp;&nbsp; <a href="https://medium.com/@baigharris77"><img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" width="22px"/></a> </p>
+---
+
+<h3 align="center">🤝 Connect with me:</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/harris-baig-3a890a203/"><img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="LinkedIn" width="30px"/></a>
+  &nbsp;
+  <a href="https://instagram.com/_harrisbaig"><img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Instagram" width="30px"/></a>
+  &nbsp;
+  <a href="https://medium.com/@baigharris77"><img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Medium" width="30px"/></a>
+</p>
+
+<p align="center">
+💬 Feel free to reach out for any questions, collaborations, or freelance projects!
+</p>
+
+---
+
+## 🔭 Currently Working On
+- **MilitaryTaxiCompany** (Web App)
+- **ProBorrower** (Web App)
+- **Rezo Billing System** (Web & Admin Panel)
+- **DonateNotWaste** (Mobile App)
+
+---
+
+## 💼 Technical Skills  
+
+<p align="center">
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+  ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+  ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+</p>
+
+---
+
+## 🔥 GitHub Streak & Stats
+
+<p align="center">
+  ![Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harrisbaig7&theme=tokyonight)
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Harrisbaig7&theme=tokyonight" width="48%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Harrisbaig7&theme=tokyonight&utcOffset=8" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Harrisbaig7&theme=tokyonight" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Harrisbaig7&theme=tokyonight" width="48%" />
+</p>
+
+---
+
+## 😄 Fun & Misc
+<p align="center">
+  ![Jokes Card](https://readme-jokes.vercel.app/api)
+</p>
+
+---
+
+## 📊 Activity Graph
+<p align="center">
+  [![Harris's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Harrisbaig7&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</p>
+
+---
+
+<p align="center">
+  Made with ❤️ by <strong>Muhammad Harris Baig</strong>
+</p>
+
+<h1 align="center">
+  Hi 👋, I'm <a href="https://hportfoliob.netlify.app/" target="_blank" rel="noreferrer">
+    Muhammad Harris Baig
+  </a>
+</h1>
+
+<h3 align="center">
+  Full-Stack Web Developer (MERN / MEVN / Laravel) 💻  
+</h3>
+
+<p align="center">
+  DevOps Enthusiast • SaaS & Dashboard Builder • Web & Mobile Apps  
+  <br/>
+  <strong>Open to Remote • Freelance • Project-Based Work</strong>
+</p>
 
 <h3>🤝 Connect with me:</h3>
 <a href="https://www.linkedin.com/in/harris-baig-3a890a203/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="LinkedIn" width="20px"/></a>
