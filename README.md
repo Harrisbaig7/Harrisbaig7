@@ -131,7 +131,7 @@
 
 <h2 align="center">📊 GitHub Summary</h2>
 
-<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+<div align="center" style="display: flex; justify-content: center; gap: 11px; flex-wrap: wrap;">
   
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Harrisbaig7&theme=tokyonight" width="240" />
   
