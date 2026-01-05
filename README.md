@@ -32,7 +32,6 @@
 ## 🔭 Currently Working On
 - **TheGoldenRose** (Web App)
 - **MilitaryTaxiCompany** (Web App)
-- **ProBorrower** (Web App)
 - **Rezo Billing System** (Web & Admin Panel)
 - **DonateNotWaste** (Mobile App)
 
