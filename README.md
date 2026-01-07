@@ -30,6 +30,7 @@
 ---
 
 ## 🔭 Currently Working On
+
 - **TheGoldenRose** (Web App)
 - **MilitaryTaxiCompany** (Web App)
 - **Rezo Billing System** (Web & Admin Panel)
@@ -41,8 +42,9 @@
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 50px; margin-top: 20px;">
 
-  <!-- Frontend -->
-  <div style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
+<!-- Frontend -->
+
+<div style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
     <h4>⚛️ Frontend</h4>
     <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
       <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="28" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
@@ -60,8 +62,9 @@
     </div>
   </div>
 
-  <!-- Backend -->
-  <div style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
+<!-- Backend -->
+
+<div style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
     <h4>🖥️ Backend</h4>
     <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
       <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" height="28">
@@ -76,8 +79,9 @@
     </div>
   </div>
 
-  <!-- Mobile -->
-  <div style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
+<!-- Mobile -->
+
+<div style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
     <h4>📱 Mobile</h4>
     <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
       <img alt="React Native" src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white" height="28">
@@ -87,8 +91,9 @@
     </div>
   </div>
 
-  <!-- Databases -->
-  <div style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
+<!-- Databases -->
+
+<div style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
     <h4>🗄️ Databases</h4>
     <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
       <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white" height="28">
@@ -100,8 +105,9 @@
     </div>
   </div>
 
-  <!-- Tools & DevOps -->
-  <div style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
+<!-- Tools & DevOps -->
+
+<div style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
     <h4>🛠️ Tools & DevOps</h4>
     <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
       <img alt="Git" src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" height="28">
@@ -119,52 +125,44 @@
 
 </div>
 
-
 ---
 
 ## 🔥 GitHub Stats & Streak
 
 <p align="center">
-  
-  
+
 </p>
 
 <h2 align="center">📊 GitHub Summary</h2>
 
 <div align="center" style="display: flex; justify-content: center; gap: 11px; flex-wrap: wrap;">
-  
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Harrisbaig7&theme=tokyonight" width="240" />
-  
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Harrisbaig7&theme=tokyonight&utcOffset=8" width="240" />
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Harrisbaig7&theme=tokyonight" width="240" />
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Harrisbaig7&theme=tokyonight" width="240" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Harrisbaig7&theme=tokyonight" width="240" />
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Harrisbaig7&theme=tokyonight&utcOffset=8" width="240" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Harrisbaig7&theme=tokyonight" width="240" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Harrisbaig7&theme=tokyonight" width="240" />
 
   ![Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harrisbaig7&theme=tokyonight)
 
 </div>
 
-
 ---
 
 ## 😄 Fun & Jokes
+
 <p align="center">
-  
+
   ![Jokes Card](https://readme-jokes.vercel.app/api)
+
 </p>
 
 ---
 
 ## 📈 Activity Graph
+
 <p align="center">
-  
+
   [![Harris's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Harrisbaig7&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</p>
-
----
-
-<p align="center">
-  Made with ❤️ by <strong>Muhammad Harris Baig</strong>
-</p>
-🔥 GitHub Streak: null days
