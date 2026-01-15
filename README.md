@@ -129,6 +129,15 @@
 
 ## 🔥 GitHub Stats & Streak
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Harrisbaig7&theme=dark)
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harrisbaig7&layout=compact&theme=dark)
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harrisbaig7&show_icons=true&theme=dark)
+
+
 <p align="center">
 
 </p>
