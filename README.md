@@ -31,8 +31,8 @@
 
 ## 🔭 Currently Working On
 
-- **Loft Aesthetics** (Web App)
-- **Mil** (ServiPro)(Web & Admin Panel)
+- **ServiPro**(B2B SAAS WEB Plaform with Admin Panel)
+- - **Loft Aesthetics** (Web App)
 - **Rezo Billing System** (Web & Admin Panel)
 - **DonateNotWaste** (Mobile App)
 
