@@ -31,8 +31,8 @@
 
 ## 🔭 Currently Working On
 
-- **TheGoldenRose** (Web App)
-- **MilitaryTaxiCompany** (Web App)
+- **Loft Aesthetics** (Web App)
+- **Mil** (ServiPro)(Web & Admin Panel)
 - **Rezo Billing System** (Web & Admin Panel)
 - **DonateNotWaste** (Mobile App)
 
