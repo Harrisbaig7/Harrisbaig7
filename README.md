@@ -131,15 +131,12 @@ Python (Automation & Basic ML)
 ## 🔥 GitHub Stats & Activity
 
 <p align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Harrisbaig7&show_icons=true&theme=tokyonight" height="170" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harrisbaig7&layout=compact&theme=tokyonight" height="170" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Harrisbaig7&show_icons=true&theme=radical&hide_border=true" height="170" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harrisbaig7&layout=compact&theme=radical&hide_border=true" height="170" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harrisbaig7&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Harrisbaig7&theme=radical&hide_border=true" />
 </p>
 
 ---
