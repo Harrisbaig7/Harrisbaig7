@@ -72,6 +72,16 @@ https://servipro.co.uk/
 
 ---
 
+## 📊 Impact Highlights (ServiPro)
+
+* 🏢 Used by UK-based service businesses in production
+* ⚙️ Handles multi-role workflows (Admin, Agents, Contractors)
+* 📄 Processes tenders, bids, and contracts in real-time
+* 🔐 Manages secure documents via AWS S3
+* 💰 Supports subscription + commission revenue model
+
+---
+
 ### 💄 Loft Aesthetics — Salon Website
 
 https://www.loftaesthetics.co.uk/
@@ -128,6 +138,14 @@ Python (Automation & Basic ML)
 
 ---
 
+## 🧠 Engineering Focus
+
+* Scalable SaaS Architecture
+* Multi-tenant Systems
+* Role-based Access Control (RBAC)
+* Workflow Automation Systems
+* API-first Backend Design
+
 ## 🔥 GitHub Stats & Activity
 
 <p align="center">
@@ -167,14 +185,6 @@ Python (Automation & Basic ML)
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harrisbaig7&theme=tokyo-night" />
-</p>
-
----
-
-## 😄 Fun Zone
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api" />
 </p>
 
 ---
