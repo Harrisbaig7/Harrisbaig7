@@ -29,12 +29,52 @@
 
 ---
 
+<h3 align="center">
+  Full-Stack Developer | SaaS Platforms | Scalable Systems 🚀
+</h3>
+
+<p align="center">
+  Building production systems for clients across 🇬🇧 UK • 🇺🇸 USA • 🌍 Africa  
+  <br/>
+  MERN • MEVN • Laravel • Cloud • DevOps  
+</p>
+
+<p align="center">
+  <strong>Open to Remote • Freelance • Long-Term Work</strong>
+</p>
+
+---
+
+<h3 align="center">🤝 Connect with me:</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/harris-baig-3a890a203/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/_harrisbaig"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://medium.com/@baigharris77"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
+</p>
+
+<p align="center">
+💬 Open for collaborations, freelance work, and building real-world scalable systems.
+</p>
+
+---
+
 ## 🔭 Currently Working On
 
-- **ServiPro**(B2B SAAS WEB Plaform with Admin Panel)
-- **Loft Aesthetics** (Web App)
-- **Rezo Billing System** (Web & Admin Panel)
-- **DonateNotWaste** (Mobile App)
+* 🚖 **UK Taxi Platform (Private Network System)**
+
+  * Multi-company dispatch system
+  * Real-time booking & driver management
+  * Admin & operator dashboards
+
+* 💼 **ServiPro — B2B SaaS Platform**
+  https://servipro.co.uk/
+
+* 💇‍♀️ **Salon Systems (UK Clients)**
+
+  * Booking platforms
+  * Customer experience optimization
+
+* 📱 **DonateNotWaste — Mobile App (FYP 🏆)**
 
 ---
 
