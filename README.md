@@ -152,11 +152,13 @@ Python (Automation & Basic ML)
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 12px;">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Harrisbaig7&theme=tokyonight" width="300" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Harrisbaig7&theme=tokyonight" width="220" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Harrisbaig7&theme=tokyonight" width="300" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Harrisbaig7&theme=tokyonight" width="220" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Harrisbaig7&theme=tokyonight" width="300" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Harrisbaig7&theme=tokyonight" width="220" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Harrisbaig7&theme=tokyonight" width="220" />
 
 </div>
 
@@ -178,55 +180,4 @@ Python (Automation & Basic ML)
   <img src="https://readme-jokes.vercel.app/api" />
 </p>
 
-
-## 🔥 GitHub Stats & Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Harrisbaig7&theme=dark)
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harrisbaig7&layout=compact&theme=dark)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harrisbaig7&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harrisbaig7&show_icons=true&theme=tokyo-night)
-
-
-<p align="center">
-
-</p>
-
-<h2 align="center">📊 GitHub Summary</h2>
-
-<div align="center" style="display: flex; justify-content: center; gap: 11px; flex-wrap: wrap;">
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Harrisbaig7&theme=tokyonight" width="230" />
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Harrisbaig7&theme=tokyonight&utcOffset=8" width="230" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Harrisbaig7&theme=tokyonight" width="230" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Harrisbaig7&theme=tokyonight" width="230" />
-
-  ![Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harrisbaig7&theme=tokyonight)
-
-</div>
-
 ---
-
-## 😄 Fun & Jokes
-
-<p align="center">
-
-  ![Jokes Card](https://readme-jokes.vercel.app/api)
-
-</p>
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-
-  [![Harris's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Harrisbaig7&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-🔥 GitHub Streak: null days
