@@ -126,8 +126,58 @@ AWS (EC2, S3) • Docker • Git • CI/CD • Postman
 
 Python (Automation & Basic ML)
 
+---
+
+## 🔥 GitHub Stats & Activity
+
+<p align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Harrisbaig7&show_icons=true&theme=tokyonight" height="170" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harrisbaig7&layout=compact&theme=tokyonight" height="170" />
+
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harrisbaig7&theme=tokyonight" />
+</p>
 
 ---
+
+## 📊 GitHub Insights
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harrisbaig7&theme=tokyonight" />
+
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 12px;">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Harrisbaig7&theme=tokyonight" width="300" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Harrisbaig7&theme=tokyonight" width="300" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Harrisbaig7&theme=tokyonight" width="300" />
+
+</div>
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harrisbaig7&theme=tokyo-night" />
+</p>
+
+---
+
+## 😄 Fun Zone
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api" />
+</p>
+
 
 ## 🔥 GitHub Stats & Streak
 
