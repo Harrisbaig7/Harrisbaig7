@@ -108,7 +108,7 @@ React • Vue • Next.js • Nuxt.js • Tailwind CSS • MUI
 
 ### 🖥️ Backend
 
-Node.js • Express.js • NestJS • Laravel • Django
+Node.js • Express.js • NestJS • Laravel (PHP) • Django
 
 ### 📱 Mobile
 
@@ -121,6 +121,11 @@ PostgreSQL • MySQL • MongoDB • Firebase
 ### ☁️ DevOps & Tools
 
 AWS (EC2, S3) • Docker • Git • CI/CD • Postman
+
+### 🤖 Additional
+
+Python (Automation & Basic ML)
+
 
 ---
 
