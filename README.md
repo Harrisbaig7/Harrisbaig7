@@ -11,7 +11,7 @@
 </h3>
 
 <p align="center">
-  Building production systems for clients across 🇬🇧 UK • 🇺🇸 USA • 🌍 Africa  
+  Building production systems for clients across 🇬🇧 UK • 🇺🇸 USA • 🌍 international  
   <br/>
   MERN • MEVN • Laravel • Cloud • DevOps  
 </p>
@@ -48,7 +48,7 @@
 
 * 💇‍♀️ **Salon Systems (UK Clients)**
 
-  * Booking platforms
+  * Booking and Order platforms
   * Customer experience optimization
 
 * 📱 **DonateNotWaste — Mobile App (FYP 🏆)**
@@ -57,13 +57,18 @@
 
 ## 💼 Featured Projects
 
-### 🏢 ServiPro — SaaS Platform
+### 🏢 ServiPro — B2B SaaS Marketplace Platform
 
 https://servipro.co.uk/
 
-* B2B marketplace used by real businesses
-* Multi-role dashboards (Admin, Agents, Contractors)
-* Tendering, bidding & contract workflows
+* Built a **production-grade B2B SaaS platform** used by UK-based businesses
+* Designed **multi-role architecture** (Admin, Managing Agents, Contractors)
+* Implemented **end-to-end tender → bidding → contract lifecycle system**
+* Developed **subscription & commission-based revenue system (Stripe integration)**
+* Integrated **UK company verification APIs** for automated onboarding
+* Built **secure document & compliance system using AWS S3**
+* Implemented **audit logs & real-time notifications (Pusher)**
+* Architected scalable backend with **Next.js, Prisma, and PostgreSQL**
 
 ---
 
