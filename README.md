@@ -100,9 +100,7 @@ https://www.thegoldenrose.store/
 
 ---
 
-## 💻 Technical Skills & Tools
-
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 50px; margin-top: 20px;">
+## 🧠 Tech Stack
 
 ### ⚛️ Frontend
 
@@ -123,9 +121,6 @@ PostgreSQL • MySQL • MongoDB • Firebase
 ### ☁️ DevOps & Tools
 
 AWS (EC2, S3) • Docker • Git • CI/CD • Postman
-
-
-</div>
 
 ---
 
