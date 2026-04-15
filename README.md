@@ -55,6 +55,46 @@
 
 ---
 
+## 💼 Featured Projects
+
+### 🏢 ServiPro — SaaS Platform
+
+https://servipro.co.uk/
+
+* B2B marketplace used by real businesses
+* Multi-role dashboards (Admin, Agents, Contractors)
+* Tendering, bidding & contract workflows
+
+---
+
+### 💄 Loft Aesthetics — Salon Website
+
+https://www.loftaesthetics.co.uk/
+
+* High-conversion UI/UX
+* Fully responsive & SEO optimized
+* Built for real client usage
+
+---
+
+### 🛒 Golden Rose Store — E-commerce
+
+https://www.thegoldenrose.store/
+
+* Complete shopping experience
+* Optimized frontend performance
+* Live production system
+
+---
+
+### 📱 DonateNotWaste — FYP (🏆 1st Position)
+
+* Mobile + admin platform
+* Real-time tracking & alerts
+* AI-based food detection
+
+---
+
 ## 💻 Technical Skills & Tools
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 50px; margin-top: 20px;">
