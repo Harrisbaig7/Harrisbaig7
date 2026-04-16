@@ -13,7 +13,7 @@
 <p align="center">
   Building production systems for clients across 🇬🇧 UK • 🇺🇸 USA • 🌍 international  
   <br/>
-  MERN • MEVN • Laravel • Cloud • DevOps  
+  MERN • MEVN • NextJS • Laravel • Cloud • DevOps  
 </p>
 
 <p align="center">
