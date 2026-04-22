@@ -37,76 +37,106 @@
 
 ## 🔭 Currently Working On
 
-* 🚖 **UK Taxi Platform (Private Network System)**
+### 🚖 UK Taxi Platform (Private Network System)
 
-  * Multi-company dispatch system
-  * Real-time booking & driver management
-  * Admin & operator dashboards
+A **production-grade taxi dispatch platform** built for UK private hire networks and fleet-based operations.
 
-* 💼 **ServiPro — B2B SaaS Platform**
-  https://servipro.co.uk/
+- 🚀 Core Features
+  - Multi-company dispatch architecture  
+  - Real-time booking lifecycle management  
+  - Vehicle-based booking system (saloon, MPV, minibus, etc.)  
+  - Scalable backend for web + mobile apps  
 
-* 💇‍♀️ **Salon Systems (UK Clients)**
+- 🛠 System Capabilities
+  - Booking → pricing → payment flow (Stripe-ready)  
+  - Location-based pickup & drop system  
+  - Admin & operator dashboards (planned)  
+  - Driver dispatch handled externally (fleet-based model)  
 
-  * Booking and Order platforms
-  * Customer experience optimization
-
-* 📱 **DonateNotWaste — Mobile App (FYP 🏆)**
+- 🧠 Architecture Focus
+  - Clean database design (Prisma + PostgreSQL)  
+  - API-first backend (Next.js App Router)  
+  - Production-ready scalable structure  
+  - Designed for UK taxi business workflows  
 
 ---
 
 ## 💼 Featured Projects
 
-### 🏢 ServiPro — B2B SaaS Marketplace Platform
+### 🏢 ServiPro — B2B SaaS Marketplace Platform  
+🔗 https://servipro.co.uk/
 
-https://servipro.co.uk/
+- ⚙️ Platform Highlights
+  - Production-grade SaaS used by UK businesses  
+  - Multi-role system:
+    - Admin  
+    - Managing Agents  
+    - Contractors  
 
-* Built a **production-grade B2B SaaS platform** used by UK-based businesses
-* Designed **multi-role architecture** (Admin, Managing Agents, Contractors)
-* Implemented **end-to-end tender → bidding → contract lifecycle system**
-* Developed **subscription & commission-based revenue system (Stripe integration)**
-* Integrated **UK company verification APIs** for automated onboarding
-* Built **secure document & compliance system using AWS S3**
-* Implemented **audit logs & real-time notifications (Pusher)**
-* Architected scalable backend with **Next.js, Prisma, and PostgreSQL**
+- 🔁 Core Workflows
+  - Tender → Bidding → Contract lifecycle  
+  - Subscription + commission-based revenue model  
+
+- 🔐 System Features
+  - Secure document management (AWS S3)  
+  - Audit logs & activity tracking  
+  - Real-time notifications (Pusher)  
+
+- 🧱 Tech Stack
+  - Next.js  
+  - Prisma ORM  
+  - PostgreSQL  
+  - Stripe Integration  
 
 ---
 
 ## 📊 Impact Highlights (ServiPro)
 
-* 🏢 Used by UK-based service businesses in production
-* ⚙️ Handles multi-role workflows (Admin, Agents, Contractors)
-* 📄 Processes tenders, bids, and contracts in real-time
-* 🔐 Manages secure documents via AWS S3
-* 💰 Supports subscription + commission revenue model
+- 🏢 Used by UK-based service businesses in production  
+- ⚙️ Handles complex multi-role workflows  
+- 📄 Processes tenders, bids, and contracts in real-time  
+- 🔐 Secure document storage via AWS S3  
+- 💰 Subscription + commission revenue system  
 
 ---
 
-### 💄 Loft Aesthetics — Salon Website
+### 💇‍♀️ Salon Systems (UK Clients)
 
-https://www.loftaesthetics.co.uk/
+- ✂️ Features
+  - Booking systems  
+  - Order management platforms  
+  - Customer experience optimization  
 
-* High-conversion UI/UX
-* Fully responsive & SEO optimized
-* Built for real client usage
+- 🧠 Focus
+  - Real-world salon operations  
+  - Scalable multi-tenant architecture  
 
 ---
 
-### 🛒 Golden Rose Store — E-commerce
+### 💄 Loft Aesthetics — Salon Website  
+🔗 https://www.loftaesthetics.co.uk/
 
-https://www.thegoldenrose.store/
+- 🎯 High-conversion UI/UX  
+- 📱 Fully responsive design  
+- 🔍 SEO optimized  
+- 💼 Built for real client usage  
 
-* Complete shopping experience
-* Optimized frontend performance
-* Live production system
+---
+
+### 🛒 Golden Rose Store — E-commerce  
+🔗 https://www.thegoldenrose.store/
+
+- 🛍 Full shopping experience  
+- ⚡ Optimized frontend performance  
+- 🌐 Live production system  
 
 ---
 
 ### 📱 DonateNotWaste — FYP (🏆 1st Position)
 
-* Mobile + admin platform
-* Real-time tracking & alerts
-* AI-based food detection
+- 📲 Mobile + Admin platform  
+- 🔔 Real-time tracking & alerts  
+- 🤖 AI-based food detection system
 
 ---
 
