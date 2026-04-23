@@ -51,52 +51,79 @@ A **production-grade taxi dispatch platform** built for UK private hire networks
   - Booking → Pricing → Payment flow (Stripe integration)  
   - Location-based pickup & drop system  
   - Admin & operator dashboards (in progress)  
-  - Fleet-based driver dispatch model (externally managed)  
+  - Fleet-based driver dispatch model  
 
 - 🧠 Architecture Focus
   - Clean database design (Prisma + PostgreSQL)  
   - API-first backend (Next.js App Router)  
   - Scalable, production-ready architecture  
-  - Optimized for real-world UK taxi workflows  
+  - Optimized for real-world transport workflows  
+
+---
+
+## 🧠 Engineering Focus & Expertise
+
+- Scalable SaaS Architecture  
+- Multi-tenant Systems  
+- Role-based Access Control (RBAC)  
+- Workflow Automation Systems  
+- API-first Backend Design  
+
+---
+
+## 🧠 System Design & Architecture
+
+- Designed and implemented **multi-tenant SaaS architectures** for real-world business platforms  
+- Built **complex workflow-driven systems** (tendering, bidding, contracts, subscriptions)  
+- Implemented **RBAC across multi-role ecosystems** (Admin / Agents / Contractors)  
+- Designed relational data models supporting **auditable and compliant systems**  
+- Built **end-to-end systems** including payments, subscriptions, and document workflows  
+- Optimized backend systems for **performance, scalability, and maintainability in production**  
 
 ---
 
 ## 💼 Featured Projects
 
-### 🏢 ServiPro — B2B SaaS Marketplace Platform  
+### 🏢 ServiPro — B2B Procurement & Tendering Platform  
 🔗 https://servipro.co.uk/
 
+A **production SaaS platform used by UK property management companies** for managing annual service contracts.
+
 - ⚙️ Platform Highlights
-  - Production SaaS platform actively used by UK businesses  
-  - Multi-role system:
-    - Admin  
-    - Managing Agents  
-    - Contractors  
+  - Built for managing agents, contractors, and property firms  
+  - Handles **structured tendering and procurement workflows**  
+  - Supports **annual contract lifecycle management**  
 
 - 🔁 Core Workflows
-  - Tender → Bidding → Contract lifecycle  
-  - Subscription + commission-based revenue model  
+  - Tender → Invitation → Bid → Award → Contract → Renewal  
+  - Compliance document handling and audit tracking  
+  - Contractor onboarding with verification & restrictions  
+
+- 💰 Commercial Model
+  - Contractor subscription system  
+  - Commission-based revenue on awarded contracts  
+  - Separate billing and invoicing flows  
 
 - 🔐 System Features
-  - Secure document management (AWS S3)  
-  - Audit logs & activity tracking  
-  - Real-time notifications (Pusher)  
+  - Full audit logs for compliance and traceability  
+  - Secure document storage (AWS S3)  
+  - Real-time notifications and workflow updates  
 
-- 🧱 Tech Stack
-  - Next.js  
-  - Prisma ORM  
-  - PostgreSQL  
-  - Stripe Integration  
+- 🧱 Backend Architecture (Highlights)
+  - Complex relational schema (Users, Tenders, Bids, Contracts, Invoices)  
+  - Commission tracking and invoice generation system  
+  - Subscription lifecycle management (Stripe integration)  
+  - Contractor compliance & company health monitoring  
 
 ---
 
 ## 📊 Impact Highlights (ServiPro)
 
-- 🏢 Actively used by UK-based service businesses  
-- ⚙️ Handles complex multi-role workflows at scale  
-- 📄 Processes tenders, bids, and contracts in real-time  
-- 🔐 Secure document storage via AWS S3  
-- 💰 Supports subscription + commission revenue model  
+- 🏢 Actively used by UK-based managing agents and contractors  
+- 📄 Handles real procurement workflows and contract lifecycles  
+- 🔐 Provides full audit trails and compliance tracking  
+- 💰 Implements subscription + commission-based SaaS model  
+- ⚙️ Designed for long-term platform dependency and scalability  
 
 ---
 
@@ -159,27 +186,6 @@ AWS (EC2, S3) • Docker • Git • CI/CD • Postman
 
 ### 🤖 Additional
 Python (Automation & Basic ML)  
-
----
-
-## 🧠 Engineering Focus
-
-- Scalable SaaS Architecture  
-- Multi-tenant Systems  
-- Role-based Access Control (RBAC)  
-- Workflow Automation Systems  
-- API-first Backend Design  
-
----
-
-## 🧠 System Design & Architecture Highlights (Senior-Level Focus)
-
-- Designed and implemented **multi-tenant SaaS architectures** for real-world business use cases  
-- Built **scalable RESTful APIs** handling complex workflows and integrations  
-- Implemented **RBAC systems** across multi-role platforms (Admin / Agents / Contractors)  
-- Structured databases for **performance, scalability, and data integrity** (PostgreSQL / Prisma)  
-- Designed **end-to-end systems** including authentication, payments, and workflow automation  
-- Optimized applications for **performance, maintainability, and scalability in production environments**  
 
 ---
 
