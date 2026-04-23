@@ -170,6 +170,19 @@ Python (Automation & Basic ML)
 - Workflow Automation Systems  
 - API-first Backend Design  
 
+---
+
+## 🧠 System Design & Architecture Highlights (Senior-Level Focus)
+
+- Designed and implemented **multi-tenant SaaS architectures** for real-world business use cases  
+- Built **scalable RESTful APIs** handling complex workflows and integrations  
+- Implemented **RBAC systems** across multi-role platforms (Admin / Agents / Contractors)  
+- Structured databases for **performance, scalability, and data integrity** (PostgreSQL / Prisma)  
+- Designed **end-to-end systems** including authentication, payments, and workflow automation  
+- Optimized applications for **performance, maintainability, and scalability in production environments**  
+
+---
+
 ## 🔥 GitHub Stats & Activity
 
 <p align="center">
@@ -177,6 +190,7 @@ Python (Automation & Basic ML)
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harrisbaig7&layout=compact&theme=dark&hide_border=true" height="170" />
 </p>
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Harrisbaig7&theme=dark&hide_border=true" />
 </p>
