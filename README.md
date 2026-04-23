@@ -7,22 +7,23 @@
 ---
 
 <h3 align="center">
-  Full-Stack Engineer | SaaS Platforms | Scalable Systems 🚀
+  Full-Stack Engineer | SaaS Architect | Scalable Systems Builder 🚀
 </h3>
 
 <p align="center">
-  Building production-grade systems for clients across 🇬🇧 UK • 🇺🇸 USA • 🌍 International  
+  Building production-grade platforms for clients across 🇬🇧 UK • 🇺🇸 USA • 🌍 International  
   <br/>
-  MERN • MEVN • Next.js • Laravel • Cloud • DevOps  
+  MERN • MEVN • Next.js • Laravel • Cloud • DevOps
 </p>
 
 <p align="center">
-  <strong>Open to Remote • Freelance • Long-Term Opportunities</strong>
+  <strong>Open to Remote • Freelance • Long-Term Engineering Roles</strong>
 </p>
 
 ---
 
-<h3 align="center">🤝 Connect with me:</h3>
+## 🤝 Connect with me
+
 <p align="center">
   <a href="https://www.linkedin.com/in/harris-baig-3a890a203/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://instagram.com/_harrisbaig07"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
@@ -30,164 +31,139 @@
 </p>
 
 <p align="center">
-💬 Open for collaborations, freelance work, and building scalable real-world systems.
+💬 Available for collaborations, freelance projects, and scalable system development.
 </p>
 
 ---
 
-## 🔭 Currently Working On
+## 🔭 Current Focus
 
-### 🚖 UK Taxi Platform (Private Network System)
+### 🚖 UK Taxi Platform (Private Dispatch Network System)
 
-A **production-grade taxi dispatch platform** built for UK private hire networks and fleet-based operations.
+Production-grade taxi dispatch platform for UK private hire and fleet operators.
 
-- 🚀 Core Features
-  - Multi-company dispatch architecture  
-  - Real-time booking lifecycle management  
-  - Vehicle-based booking system (Saloon, MPV, Minibus, etc.)  
-  - Scalable backend supporting web & mobile applications  
+**Core Capabilities**
+- Multi-company dispatch architecture  
+- Real-time booking lifecycle system  
+- Vehicle-based dispatch (Saloon, MPV, Minibus, Executive)  
+- Web + mobile scalable backend system  
 
-- 🛠 System Capabilities
-  - Booking → Pricing → Payment flow (Stripe integration)  
-  - Location-based pickup & drop system  
-  - Admin & operator dashboards (in progress)  
-  - Fleet-based driver dispatch model  
+**System Flow**
+- Booking → Pricing → Payment → Dispatch → Completion  
+- Location-based pickup & drop management  
+- Admin + operator dashboards (in progress)  
 
-- 🧠 Architecture Focus
-  - Clean database design (Prisma + PostgreSQL)  
-  - API-first backend (Next.js App Router)  
-  - Scalable, production-ready architecture  
-  - Optimized for real-world transport workflows  
-
----
-
-## 🧠 Engineering Focus & Expertise
-
-- Scalable SaaS Architecture  
-- Multi-tenant Systems  
-- Role-based Access Control (RBAC)  
-- Workflow Automation Systems  
-- API-first Backend Design  
+**Architecture**
+- Next.js App Router (API-first backend)  
+- Prisma + PostgreSQL relational design  
+- Stripe integration for payments  
+- Scalable, production-ready architecture  
 
 ---
 
-## 🧠 System Design & Architecture
+## 🧠 Engineering Expertise
 
-- Designed and implemented **multi-tenant SaaS architectures** for real-world business platforms  
-- Built **complex workflow-driven systems** (tendering, bidding, contracts, subscriptions)  
-- Implemented **RBAC across multi-role ecosystems** (Admin / Agents / Contractors)  
-- Designed relational data models supporting **auditable and compliant systems**  
-- Built **end-to-end systems** including payments, subscriptions, and document workflows  
-- Optimized backend systems for **performance, scalability, and maintainability in production**  
+- SaaS Architecture (Multi-tenant systems)
+- Workflow-driven backend systems
+- Role-Based Access Control (RBAC)
+- API-first system design
+- Subscription & billing systems
+- Audit & compliance tracking systems
 
 ---
 
 ## 💼 Featured Projects
 
-### 🏢 ServiPro — B2B Procurement & Tendering Platform  
+### 🏢 ServiPro — B2B Procurement & Tendering SaaS  
+🔗 https://servipro.co.uk/  
+📂 https://github.com/Harrisbaig7/servipro-case-study  
 
-- 🌐 Live Platform: https://servipro.co.uk/  
-- 📂 Case Study Repo: https://github.com/Harrisbaig7/servipro-case-study  
+Production SaaS used in UK property procurement workflows.
 
-A production-grade SaaS platform used in real UK property workflows for managing tenders, contractors, and service contracts.
+**Core System**
+- Tender → Bid → Award → Contract → Renewal lifecycle  
+- Contractor onboarding & verification system  
+- Subscription + commission-based business model  
 
-- ⚙️ Platform Highlights
-  - Built for managing agents, contractors, and property firms  
-  - Handles **structured tendering and procurement workflows**  
-  - Supports **annual contract lifecycle management**  
+**Key Features**
+- Multi-role system (Agents, Contractors, Admins)  
+- Contract & invoice automation  
+- Audit logs for compliance tracking  
+- Secure document storage (AWS S3)  
+- Real-time workflow notifications  
 
-- 🔁 Core Workflows
-  - Tender → Invitation → Bid → Award → Contract → Renewal  
-  - Compliance document handling and audit tracking  
-  - Contractor onboarding with verification & restrictions  
-
-- 💰 Commercial Model
-  - Contractor subscription system  
-  - Commission-based revenue on awarded contracts  
-  - Separate billing and invoicing flows  
-
-- 🔐 System Features
-  - Full audit logs for compliance and traceability  
-  - Secure document storage (AWS S3)  
-  - Real-time notifications and workflow updates  
-
-- 🧱 Backend Architecture (Highlights)
-  - Complex relational schema (Users, Tenders, Bids, Contracts, Invoices)  
-  - Commission tracking and invoice generation system  
-  - Subscription lifecycle management (Stripe integration)  
-  - Contractor compliance & company health monitoring  
+**Backend Design**
+- Complex relational schema (Users, Contracts, Bids, Invoices)
+- Subscription lifecycle (Stripe integration)
+- Commission tracking engine
+- Scalable modular backend architecture  
 
 ---
 
-## 📊 Impact Highlights (ServiPro)
+## 📊 Impact (ServiPro)
 
-- 🏢 Actively used by UK-based managing agents and contractors  
-- 📄 Handles real procurement workflows and contract lifecycles  
-- 🔐 Provides full audit trails and compliance tracking  
-- 💰 Implements subscription + commission-based SaaS model  
-- ⚙️ Designed for long-term platform dependency and scalability  
-
----
-
-### 💇‍♀️ Salon Systems (UK Clients)
-
-- ✂️ Features
-  - Booking systems  
-  - Order management platforms  
-  - Customer experience optimization  
-
-- 🧠 Focus
-  - Real-world salon operations  
-  - Scalable multi-tenant SaaS architecture  
+- Real UK contractor & agent usage  
+- Handles live procurement workflows  
+- Full audit + compliance tracking  
+- Subscription + commission SaaS model  
+- Designed for long-term scalability  
 
 ---
 
-### 💄 Loft Aesthetics — Salon Website  
+### 💇‍♀️ Salon SaaS Systems (UK Clients)
+
+- Booking systems  
+- Order & service management  
+- Multi-tenant salon architecture  
+- Customer experience optimization  
+
+---
+
+### 💄 Loft Aesthetics  
 🔗 https://www.loftaesthetics.co.uk/
 
-- 🎯 High-conversion UI/UX  
-- 📱 Fully responsive design  
-- 🔍 SEO optimized  
-- 💼 Built for real client usage  
+- High-conversion UI/UX design  
+- Mobile-first responsive system  
+- SEO optimized client website  
 
 ---
 
-### 🛒 Golden Rose Store — E-commerce  
+### 🛒 Golden Rose Store  
 🔗 https://www.thegoldenrose.store/
 
-- 🛍 Full shopping experience  
-- ⚡ Optimized frontend performance  
-- 🌐 Live production system  
+- Full e-commerce system  
+- Optimized frontend performance  
+- Production-ready deployment  
 
 ---
 
-### 📱 DonateNotWaste — FYP (🏆 1st Position)
+### 📱 DonateNotWaste (FYP 🏆 1st Position)
 
-- 📲 Mobile + Admin platform  
-- 🔔 Real-time tracking & alerts  
-- 🤖 AI-based food detection system  
+- Mobile + admin platform  
+- Real-time alerts system  
+- AI-based food detection module  
 
 ---
 
 ## 🧠 Tech Stack
 
-### ⚛️ Frontend
-React • Vue • Next.js • Nuxt.js • Tailwind CSS • MUI  
+**Frontend**
+React • Vue • Next.js • Nuxt.js • Tailwind • MUI  
 
-### 🖥️ Backend
-Node.js • Express.js • NestJS • Laravel (PHP) • Django  
+**Backend**
+Node.js • Express • NestJS • Laravel • Django  
 
-### 📱 Mobile
+**Mobile**
 React Native • Flutter  
 
-### 🗄️ Databases
+**Database**
 PostgreSQL • MySQL • MongoDB • Firebase  
 
-### ☁️ DevOps & Tools
-AWS (EC2, S3) • Docker • Git • CI/CD • Postman  
+**Cloud & DevOps**
+AWS (EC2, S3) • Docker • CI/CD • Git  
 
-### 🤖 Additional
-Python (Automation & Basic ML)  
+**Other**
+Python (Automation / Basic ML)  
 
 ---
 
