@@ -7,17 +7,17 @@
 ---
 
 <h3 align="center">
-  Full-Stack Developer | SaaS Platforms | Scalable Systems 🚀
+  Full-Stack Engineer | SaaS Platforms | Scalable Systems 🚀
 </h3>
 
 <p align="center">
-  Building production systems for clients across 🇬🇧 UK • 🇺🇸 USA • 🌍 international  
+  Building production-grade systems for clients across 🇬🇧 UK • 🇺🇸 USA • 🌍 International  
   <br/>
-  MERN • MEVN • NextJS • Laravel • Cloud • DevOps  
+  MERN • MEVN • Next.js • Laravel • Cloud • DevOps  
 </p>
 
 <p align="center">
-  <strong>Open to Remote • Freelance • Long-Term Work</strong>
+  <strong>Open to Remote • Freelance • Long-Term Opportunities</strong>
 </p>
 
 ---
@@ -30,7 +30,7 @@
 </p>
 
 <p align="center">
-💬 Open for collaborations, freelance work, and building real-world scalable systems.
+💬 Open for collaborations, freelance work, and building scalable real-world systems.
 </p>
 
 ---
@@ -44,20 +44,20 @@ A **production-grade taxi dispatch platform** built for UK private hire networks
 - 🚀 Core Features
   - Multi-company dispatch architecture  
   - Real-time booking lifecycle management  
-  - Vehicle-based booking system (saloon, MPV, minibus, etc.)  
-  - Scalable backend for web + mobile apps  
+  - Vehicle-based booking system (Saloon, MPV, Minibus, etc.)  
+  - Scalable backend supporting web & mobile applications  
 
 - 🛠 System Capabilities
-  - Booking → pricing → payment flow (Stripe-ready)  
+  - Booking → Pricing → Payment flow (Stripe integration)  
   - Location-based pickup & drop system  
-  - Admin & operator dashboards (planned)  
-  - Driver dispatch handled externally (fleet-based model)  
+  - Admin & operator dashboards (in progress)  
+  - Fleet-based driver dispatch model (externally managed)  
 
 - 🧠 Architecture Focus
   - Clean database design (Prisma + PostgreSQL)  
   - API-first backend (Next.js App Router)  
-  - Production-ready scalable structure  
-  - Designed for UK taxi business workflows  
+  - Scalable, production-ready architecture  
+  - Optimized for real-world UK taxi workflows  
 
 ---
 
@@ -67,7 +67,7 @@ A **production-grade taxi dispatch platform** built for UK private hire networks
 🔗 https://servipro.co.uk/
 
 - ⚙️ Platform Highlights
-  - Production-grade SaaS used by UK businesses  
+  - Production SaaS platform actively used by UK businesses  
   - Multi-role system:
     - Admin  
     - Managing Agents  
@@ -92,11 +92,11 @@ A **production-grade taxi dispatch platform** built for UK private hire networks
 
 ## 📊 Impact Highlights (ServiPro)
 
-- 🏢 Used by UK-based service businesses in production  
-- ⚙️ Handles complex multi-role workflows  
+- 🏢 Actively used by UK-based service businesses  
+- ⚙️ Handles complex multi-role workflows at scale  
 - 📄 Processes tenders, bids, and contracts in real-time  
 - 🔐 Secure document storage via AWS S3  
-- 💰 Subscription + commission revenue system  
+- 💰 Supports subscription + commission revenue model  
 
 ---
 
@@ -109,7 +109,7 @@ A **production-grade taxi dispatch platform** built for UK private hire networks
 
 - 🧠 Focus
   - Real-world salon operations  
-  - Scalable multi-tenant architecture  
+  - Scalable multi-tenant SaaS architecture  
 
 ---
 
@@ -136,65 +136,39 @@ A **production-grade taxi dispatch platform** built for UK private hire networks
 
 - 📲 Mobile + Admin platform  
 - 🔔 Real-time tracking & alerts  
-- 🤖 AI-based food detection system
+- 🤖 AI-based food detection system  
 
 ---
 
 ## 🧠 Tech Stack
 
 ### ⚛️ Frontend
-
-React • Vue • Next.js • Nuxt.js • Tailwind CSS • MUI
-
-### 🖥️ Backend
-
-Node.js • Express.js • NestJS • Laravel (PHP) • Django
-
-### 📱 Mobile
-
-React Native • Flutter
-
-### 🗄️ Databases
-
-PostgreSQL • MySQL • MongoDB • Firebase
-
-### ☁️ DevOps & Tools
-
-AWS (EC2, S3) • Docker • Git • CI/CD • Postman
-
-### 🤖 Additional
-
-Python (Automation & Basic ML)
-
----
-
-## 🧠 Tech Stack  
-
-### ⚛️ Frontend
-React • Next.js • Vue • Nuxt • Tailwind • MUI  
+React • Vue • Next.js • Nuxt.js • Tailwind CSS • MUI  
 
 ### 🖥️ Backend
-Node.js • Express • NestJS • Laravel • Django  
+Node.js • Express.js • NestJS • Laravel (PHP) • Django  
 
 ### 📱 Mobile
 React Native • Flutter  
 
 ### 🗄️ Databases
-PostgreSQL • MongoDB • MySQL • Firebase  
+PostgreSQL • MySQL • MongoDB • Firebase  
 
 ### ☁️ DevOps & Tools
-AWS (EC2, S3) • Docker • CI/CD • Git • Postman  
+AWS (EC2, S3) • Docker • Git • CI/CD • Postman  
 
 ### 🤖 Additional
 Python (Automation & Basic ML)  
 
+---
+
 ## 🧠 Engineering Focus
 
-* Scalable SaaS Architecture
-* Multi-tenant Systems
-* Role-based Access Control (RBAC)
-* Workflow Automation Systems
-* API-first Backend Design
+- Scalable SaaS Architecture  
+- Multi-tenant Systems  
+- Role-based Access Control (RBAC)  
+- Workflow Automation Systems  
+- API-first Backend Design  
 
 ## 🔥 GitHub Stats & Activity
 
