@@ -168,6 +168,26 @@ Python (Automation & Basic ML)
 
 ---
 
+## 🧠 Tech Stack  
+
+### ⚛️ Frontend
+React • Next.js • Vue • Nuxt • Tailwind • MUI  
+
+### 🖥️ Backend
+Node.js • Express • NestJS • Laravel • Django  
+
+### 📱 Mobile
+React Native • Flutter  
+
+### 🗄️ Databases
+PostgreSQL • MongoDB • MySQL • Firebase  
+
+### ☁️ DevOps & Tools
+AWS (EC2, S3) • Docker • CI/CD • Git • Postman  
+
+### 🤖 Additional
+Python (Automation & Basic ML)  
+
 ## 🧠 Engineering Focus
 
 * Scalable SaaS Architecture
