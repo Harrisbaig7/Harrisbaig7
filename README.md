@@ -85,9 +85,11 @@ A **production-grade taxi dispatch platform** built for UK private hire networks
 ## 💼 Featured Projects
 
 ### 🏢 ServiPro — B2B Procurement & Tendering Platform  
-🔗 https://servipro.co.uk/
 
-A **production SaaS platform used by UK property management companies** for managing annual service contracts.
+- 🌐 Live Platform: https://servipro.co.uk/  
+- 📂 Case Study Repo: https://github.com/Harrisbaig7/servipro-case-study  
+
+A production-grade SaaS platform used in real UK property workflows for managing tenders, contractors, and service contracts.
 
 - ⚙️ Platform Highlights
   - Built for managing agents, contractors, and property firms  
