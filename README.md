@@ -9,7 +9,7 @@
 </h3>
 
 <p align="center">
-I build production systems that power real business operations — from multi-tenant platforms to workflow-driven applications used in real environments.
+I build production systems that power real business operations — from multi-tenant SaaS platforms to workflow-driven applications used in real-world environments.
 <br/>
 Operating across 🇬🇧 UK • 🇺🇸 USA • 🌍 Global clients
 </p>
@@ -22,37 +22,39 @@ Operating across 🇬🇧 UK • 🇺🇸 USA • 🌍 Global clients
 
 ## ⚡ About Me
 
-- 🚀 I design and build **real-world production platforms used in business workflows**
-- 🧠 Strong focus on **system design, scalability, and operational architecture**
-- 🏗️ Experience building **multi-tenant platforms with role-based access control**
+- 🚀 I build **real-world production systems used in business workflows**
+- 🧠 Focus on **system design, scalability, and operational architecture**
+- 🏗️ Experience building **multi-tenant platforms with RBAC and role isolation**
 - ☁️ Deliver **cloud-deployed, API-driven applications**
-- 📱 Build **mobile + backend integrated systems (React Native / Flutter)**
+- 📱 Build **mobile + backend integrated product systems (React Native / Flutter)**
 
-👉 I focus on systems that solve **real operational problems**, not just UI projects.
+👉 I focus on systems that solve **real operational problems**, not demo or tutorial projects.
 
 ---
 
 ## 🧩 Engineering & System Thinking
 
-- Designed role-isolated multi-tenant platforms (RBAC-based architecture)
-- Built end-to-end business workflows (booking, procurement, dispatch, bidding systems)
-- Designed relational databases for high-consistency applications (PostgreSQL)
-- Implemented audit-safe backend structures for business accountability
+- Designed multi-tenant SaaS architectures with strict role-based access control (RBAC)
+- Built end-to-end business workflow systems (booking, procurement, dispatch, bidding)
+- Designed scalable relational database architectures (PostgreSQL)
+- Implemented audit-safe backend systems for operational reliability
 - Built API-first systems powering both web and mobile ecosystems
+
+👉 Experience building systems that support **real-world operational workflows and multi-user environments**
 
 ---
 
 ## 🔭 Current Focus
 
-### 🚖 UK Taxi Dispatch Platform (Live System in Development)
+### 🚖 UK Taxi Dispatch Platform (Operational System in Development)
 
-A private hire dispatch system designed for operational use by UK fleet operators.
+A private hire dispatch system designed for fleet operators and real-world operational use.
 
 **Core System**
-- Multi-company operational structure
+- Multi-company operational architecture (multi-tenant structure)
 - Real-time booking lifecycle engine
-- Driver and vehicle allocation logic
-- Admin and operator control layers
+- Driver and vehicle allocation system
+- Admin + operator control dashboards
 - Payment-ready dispatch pipeline
 
 **Business Flow**
@@ -63,16 +65,16 @@ Next.js • Node.js • Prisma • PostgreSQL • Stripe • REST APIs
 
 ---
 
-## 📱 Mobile Systems (Equal Product Pillar)
+## 📱 Mobile Systems (Equal Product Layer)
 
-I build mobile applications that are not standalone apps — but **connected product systems**:
+I build mobile applications that are fully integrated into backend-driven systems:
 
 - 📲 Cross-platform development (React Native / Flutter)
 - 🔗 Deep backend integration with real-time APIs
-- 🧠 Smart feature systems (AI-assisted / detection-based logic)
-- 🚀 Converting academic projects into production-ready applications
+- 🧠 Intelligent feature systems (AI / detection-based logic)
+- 🚀 Converting academic FYPs into production-ready systems
 
-👉 Mobile is treated as a **first-class product layer**, not a side skill.
+👉 Mobile is treated as a **first-class product layer inside full systems**, not an isolated skill.
 
 ---
 
@@ -82,25 +84,27 @@ I build mobile applications that are not standalone apps — but **connected pro
 🔗 https://servipro.co.uk/  
 🔗 Case Study: https://github.com/Harrisbaig7/servipro-case-study  
 
-A real operational procurement system for UK-based property workflows.
+A real operational procurement system for UK-based business workflows.
 
 **System Overview**
-- Full tender → bid → contract workflow engine
+- End-to-end tender → bid → contract workflow engine
 - Contractor onboarding and verification pipeline
-- Subscription-based operational model
+- Subscription-based SaaS operational model
 - Automated document and invoice processing system
 
 **Engineering Work**
-- Multi-role access control (Admin, Agents, Contractors)
-- Complex relational data architecture
-- Stripe-based billing integration
+- Multi-role RBAC system (Admin, Agents, Contractors)
+- Complex relational database architecture (PostgreSQL)
+- Stripe billing and subscription integration
 - AWS S3 document management system
-- Full audit tracking for operational integrity
+- Full audit logging for operational consistency
 
 **Operational Impact**
-- Replaced manual procurement handling with automated workflows
-- Designed for multi-organization business usage
-- Built as a production-grade SaaS system
+- Built to replace manual procurement workflows with automated systems
+- Designed for multi-organization usage and real operational environments
+- Supports structured business workflow execution across roles
+
+👉 Designed and deployed as a **real business-facing system, not a prototype**
 
 ---
 
@@ -109,17 +113,17 @@ A real operational procurement system for UK-based property workflows.
 
 - Mobile + admin ecosystem
 - Real-time donation coordination system
-- AI-based food detection feature
-- Backend-driven architecture designed for scalability
+- AI-based food detection module
+- Backend-driven architecture designed with scalability in mind
 
-👉 Currently evolving into a deployable real-world platform
+👉 Evolving from academic project into a deployable real-world system
 
 ---
 
 ### 💇‍♀️ Salon Management Platform
-- Multi-tenant salon booking system
+- Multi-tenant booking system for salons
 - Appointment lifecycle orchestration
-- Inventory + product management layer
+- Product and inventory management layer
 - Customer and admin dashboards
 
 ---
@@ -127,9 +131,9 @@ A real operational procurement system for UK-based property workflows.
 ### 💄 Loft Aesthetics
 🔗 https://www.loftaesthetics.co.uk/
 
-- Business website with performance optimization
-- SEO-structured architecture
-- Mobile-first responsive design
+- High-performance business website
+- SEO-optimized architecture
+- Mobile-first responsive UI
 
 ---
 
@@ -137,20 +141,22 @@ A real operational procurement system for UK-based property workflows.
 🔗 https://www.thegoldenrose.store/
 
 - Fully functional e-commerce system
-- Optimized checkout experience
+- Optimized checkout flow
 - Production deployment setup
 
 ---
 
-## 🧠 Core Strengths
+## 🧠 Core Engineering Strengths
 
 - Multi-tenant system architecture design
-- Backend workflow engineering for real operations
-- Relational database modeling for business systems
-- Subscription & payment system integration (Stripe)
-- Cloud deployment & scalable infrastructure design
+- Backend workflow engineering for real operational systems
+- Relational database design for business-critical applications
+- Subscription & billing systems (Stripe integration)
+- Cloud infrastructure design (AWS S3, scalable deployments)
 - Mobile + backend system integration
 - API-first product engineering mindset
+
+👉 Focused on building systems that reflect **real operational scale thinking (multi-user, multi-role, business workflows)**
 
 ---
 
@@ -179,7 +185,7 @@ Prisma • REST APIs • Python (Automation)
 ## 🧠 Signature Identity
 
 <p align="center">
-💡 I build backend-driven systems that power real business operations and scalable product ecosystems.
+💡 I build backend-driven systems that power real business operations, multi-user workflows, and scalable product ecosystems.
 </p>
 
 ---
@@ -224,5 +230,5 @@ Prisma • REST APIs • Python (Automation)
 ---
 
 <p align="center">
-💬 Open for SaaS engineering roles, backend system design work, and production-grade product development.
+💬 Open for SaaS engineering roles, backend system design, and production-grade product development.
 </p>
