@@ -5,57 +5,57 @@
 </h1>
 
 <h3 align="center">
-  Full-Stack Engineer | SaaS & Distributed Systems Builder | Backend-First Architect
+  Full-Stack Engineer | Distributed Systems Builder | Backend-First Product Architect
 </h3>
 
 <p align="center">
-I design and build production-grade SaaS platforms, multi-tenant architectures, and backend systems that power real business workflows.
+I build production systems that power real business operations — from multi-tenant platforms to workflow-driven applications used in real environments.
 <br/>
 Operating across 🇬🇧 UK • 🇺🇸 USA • 🌍 Global clients
 </p>
 
 <p align="center">
-<strong>Open to SaaS Engineering Roles • Backend System Roles • Freelance Product Builds</strong>
+<strong>Open to SaaS Engineering Roles • Backend System Design • Product-Focused Development</strong>
 </p>
 
 ---
 
 ## ⚡ About Me
 
-- 🚀 Build **production SaaS platforms & real-world backend systems**
-- 🧠 Focus on **system design, scalability, and business workflows**
-- 🏗️ Experienced in **multi-tenant architectures & RBAC systems**
-- ☁️ Build and deploy **cloud-native, API-first applications**
-- 📱 Develop **mobile applications (React Native / Flutter) with backend integration**
+- 🚀 I design and build **real-world production platforms used in business workflows**
+- 🧠 Strong focus on **system design, scalability, and operational architecture**
+- 🏗️ Experience building **multi-tenant platforms with role-based access control**
+- ☁️ Deliver **cloud-deployed, API-driven applications**
+- 📱 Build **mobile + backend integrated systems (React Native / Flutter)**
 
-👉 I focus on building **real systems that solve operational problems, not just UI projects**
+👉 I focus on systems that solve **real operational problems**, not just UI projects.
 
 ---
 
-## 🧩 System Design Thinking
+## 🧩 Engineering & System Thinking
 
-- Designed multi-tenant SaaS architectures with strict role-based access control (RBAC)
-- Built workflow-driven systems (booking, procurement, dispatch, bidding engines)
-- Designed scalable relational database architectures (PostgreSQL)
-- Implemented audit-safe and compliance-ready backend systems
-- Built API-first systems powering both web and mobile applications
+- Designed role-isolated multi-tenant platforms (RBAC-based architecture)
+- Built end-to-end business workflows (booking, procurement, dispatch, bidding systems)
+- Designed relational databases for high-consistency applications (PostgreSQL)
+- Implemented audit-safe backend structures for business accountability
+- Built API-first systems powering both web and mobile ecosystems
 
 ---
 
 ## 🔭 Current Focus
 
-### 🚖 UK Taxi Dispatch Platform (Production System)
+### 🚖 UK Taxi Dispatch Platform (Live System in Development)
 
-A private hire dispatch and fleet management system for UK operators.
+A private hire dispatch system designed for operational use by UK fleet operators.
 
-**Core Architecture**
-- Multi-company SaaS (multi-tenant system)
+**Core System**
+- Multi-company operational structure
 - Real-time booking lifecycle engine
-- Driver & vehicle allocation system
-- Admin + operator dashboards
+- Driver and vehicle allocation logic
+- Admin and operator control layers
 - Payment-ready dispatch pipeline
 
-**System Flow**
+**Business Flow**
 Booking → Pricing → Payment → Dispatch → Completion
 
 **Tech Stack**
@@ -63,95 +63,94 @@ Next.js • Node.js • Prisma • PostgreSQL • Stripe • REST APIs
 
 ---
 
-## 📱 Mobile Engineering (Production + Product Expansion)
+## 📱 Mobile Systems (Equal Product Pillar)
 
-I build cross-platform mobile applications and extend them into real systems:
+I build mobile applications that are not standalone apps — but **connected product systems**:
 
-- 📲 React Native & Flutter development
-- 🔗 Backend-integrated mobile applications (real-time APIs)
-- 🧠 AI-driven / smart feature integration (FYP evolution)
-- 🚀 Converting academic FYPs into deployable production systems
+- 📲 Cross-platform development (React Native / Flutter)
+- 🔗 Deep backend integration with real-time APIs
+- 🧠 Smart feature systems (AI-assisted / detection-based logic)
+- 🚀 Converting academic projects into production-ready applications
 
-👉 Mobile apps are treated as **full product systems, not side projects**
+👉 Mobile is treated as a **first-class product layer**, not a side skill.
 
 ---
 
-## 💼 Featured Projects
+## 💼 Featured Systems
 
-### 🏢 ServiPro — B2B Procurement SaaS
+### 🏢 ServiPro — Procurement & Tender Platform
 🔗 https://servipro.co.uk/  
 🔗 Case Study: https://github.com/Harrisbaig7/servipro-case-study  
 
-A full-scale procurement and tender management SaaS for UK property workflows.
+A real operational procurement system for UK-based property workflows.
 
-**System Design**
-- End-to-end Tender → Bid → Contract lifecycle automation
-- Contractor onboarding & verification system
-- Subscription-based SaaS with commission workflows
-- Document & invoice automation pipeline
+**System Overview**
+- Full tender → bid → contract workflow engine
+- Contractor onboarding and verification pipeline
+- Subscription-based operational model
+- Automated document and invoice processing system
 
-**Engineering Highlights**
-- Multi-role RBAC architecture (Admin, Agents, Contractors)
-- Complex relational database design (PostgreSQL)
-- Stripe billing + subscription system integration
-- AWS S3 document storage integration
-- Full audit logging for enterprise compliance
+**Engineering Work**
+- Multi-role access control (Admin, Agents, Contractors)
+- Complex relational data architecture
+- Stripe-based billing integration
+- AWS S3 document management system
+- Full audit tracking for operational integrity
 
-**Impact**
-- Automated manual procurement workflows for business operations
-- Built for scalable multi-organization usage
-- Designed as a production SaaS system, not a prototype
+**Operational Impact**
+- Replaced manual procurement handling with automated workflows
+- Designed for multi-organization business usage
+- Built as a production-grade SaaS system
 
 ---
 
-### 🚖 DonateNotWaste (FYP → Production System)
+### 🚖 DonateNotWaste (FYP → Production Evolution)
 🏆 Final Year Project (1st Position)
 
-- Mobile + Admin ecosystem
-- Real-time donation alert system
-- AI-based food detection module
-- Backend-driven architecture (production design approach)
+- Mobile + admin ecosystem
+- Real-time donation coordination system
+- AI-based food detection feature
+- Backend-driven architecture designed for scalability
 
-👉 Currently being evolved into a deployable SaaS-style platform
+👉 Currently evolving into a deployable real-world platform
 
 ---
 
-### 💇‍♀️ Salon SaaS Platform (Multi-Tenant System)
-- Multi-salon booking & management system
-- Appointment lifecycle engine
-- Product & inventory management
-- Customer + admin dashboards
+### 💇‍♀️ Salon Management Platform
+- Multi-tenant salon booking system
+- Appointment lifecycle orchestration
+- Inventory + product management layer
+- Customer and admin dashboards
 
 ---
 
 ### 💄 Loft Aesthetics
 🔗 https://www.loftaesthetics.co.uk/
 
-- High-performance business website
-- SEO-optimized architecture
-- Mobile-first responsive UI
+- Business website with performance optimization
+- SEO-structured architecture
+- Mobile-first responsive design
 
 ---
 
 ### 🛒 Golden Rose Store
 🔗 https://www.thegoldenrose.store/
 
-- Full e-commerce system
-- Optimized checkout flow
+- Fully functional e-commerce system
+- Optimized checkout experience
 - Production deployment setup
 
 ---
 
-## 🧠 Engineering Strengths
+## 🧠 Core Strengths
 
-- SaaS Architecture (Multi-tenant systems)
-- Backend System Design (APIs, workflows, RBAC)
-- Database Architecture (PostgreSQL relational modeling)
-- Subscription & Billing Systems (Stripe)
-- Cloud Infrastructure (AWS S3, scalable deployments)
-- Mobile + Web System Integration
-- Audit & Compliance system design
-- API-first product engineering approach
+- Multi-tenant system architecture design
+- Backend workflow engineering for real operations
+- Relational database modeling for business systems
+- Subscription & payment system integration (Stripe)
+- Cloud deployment & scalable infrastructure design
+- Mobile + backend system integration
+- API-first product engineering mindset
 
 ---
 
@@ -174,6 +173,14 @@ AWS (EC2, S3) • Docker • CI/CD • Git
 
 **Other**
 Prisma • REST APIs • Python (Automation)
+
+---
+
+## 🧠 Signature Identity
+
+<p align="center">
+💡 I build backend-driven systems that power real business operations and scalable product ecosystems.
+</p>
 
 ---
 
@@ -217,5 +224,5 @@ Prisma • REST APIs • Python (Automation)
 ---
 
 <p align="center">
-💬 Open for SaaS engineering roles, backend-heavy system design work, and production-grade product development.
+💬 Open for SaaS engineering roles, backend system design work, and production-grade product development.
 </p>
