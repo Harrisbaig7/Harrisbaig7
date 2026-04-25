@@ -9,51 +9,53 @@
 </h3>
 
 <p align="center">
-I design and build production-grade SaaS platforms, multi-tenant systems, and scalable backend architectures for real businesses.
+I design and build production-grade SaaS platforms, multi-tenant architectures, and backend systems that power real business workflows.
 <br/>
 Operating across 🇬🇧 UK • 🇺🇸 USA • 🌍 Global clients
 </p>
 
 <p align="center">
-<strong>Open to Remote Roles • SaaS Engineering Roles • Freelance Systems Builds</strong>
+<strong>Open to SaaS Engineering Roles • Backend System Roles • Freelance Product Builds</strong>
 </p>
 
 ---
 
 ## ⚡ About Me
 
-- 🚀 Build **SaaS platforms & enterprise-grade backend systems**
-- 🧠 Strong focus on **system design, workflows & scalable APIs**
-- 🏗️ Experience in **multi-tenant architectures & RBAC systems**
-- ☁️ Work with **cloud-native deployments & production systems**
-- 📱 Also develop **mobile applications (React Native / Flutter)** including real-world FYP-to-production upgrades
+- 🚀 Build **production SaaS platforms & real-world backend systems**
+- 🧠 Focus on **system design, scalability, and business workflows**
+- 🏗️ Experienced in **multi-tenant architectures & RBAC systems**
+- ☁️ Build and deploy **cloud-native, API-first applications**
+- 📱 Develop **mobile applications (React Native / Flutter) with backend integration**
+
+👉 I focus on building **real systems that solve operational problems, not just UI projects**
 
 ---
 
 ## 🧩 System Design Thinking
 
-- Designed multi-tenant SaaS architectures with strict role isolation (RBAC)
-- Built workflow-driven systems (booking, bidding, procurement, dispatch)
-- Developed scalable relational database architectures (PostgreSQL)
-- Implemented audit-safe systems for enterprise compliance tracking
-- Built API-first backend systems powering web + mobile clients
+- Designed multi-tenant SaaS architectures with strict role-based access control (RBAC)
+- Built workflow-driven systems (booking, procurement, dispatch, bidding engines)
+- Designed scalable relational database architectures (PostgreSQL)
+- Implemented audit-safe and compliance-ready backend systems
+- Built API-first systems powering both web and mobile applications
 
 ---
 
 ## 🔭 Current Focus
 
-### 🚖 UK Taxi Dispatch Platform (Production System in Progress)
+### 🚖 UK Taxi Dispatch Platform (Production System)
 
 A private hire dispatch and fleet management system for UK operators.
 
-**Core System Design**
-- Multi-company (multi-tenant) architecture
-- Real-time booking lifecycle management
-- Driver, vehicle & ride allocation engine
-- Admin + operator control dashboards
+**Core Architecture**
+- Multi-company SaaS (multi-tenant system)
+- Real-time booking lifecycle engine
+- Driver & vehicle allocation system
+- Admin + operator dashboards
 - Payment-ready dispatch pipeline
 
-**Flow Architecture**
+**System Flow**
 Booking → Pricing → Payment → Dispatch → Completion
 
 **Tech Stack**
@@ -61,16 +63,16 @@ Next.js • Node.js • Prisma • PostgreSQL • Stripe • REST APIs
 
 ---
 
-## 📱 Mobile Development (Production + FYP Expansion)
+## 📱 Mobile Engineering (Production + Product Expansion)
 
-I also build cross-platform mobile apps and extend them into real systems:
+I build cross-platform mobile applications and extend them into real systems:
 
-- 📲 React Native & Flutter applications
-- 🔗 Backend-integrated mobile systems (real-time APIs)
-- 🧠 AI + detection-based features (FYP evolution)
-- 🚀 FYP-to-production upgrades (not just academic projects)
+- 📲 React Native & Flutter development
+- 🔗 Backend-integrated mobile applications (real-time APIs)
+- 🧠 AI-driven / smart feature integration (FYP evolution)
+- 🚀 Converting academic FYPs into deployable production systems
 
-👉 Focus: turning mobile apps into **real deployed business systems**
+👉 Mobile apps are treated as **full product systems, not side projects**
 
 ---
 
@@ -80,45 +82,44 @@ I also build cross-platform mobile apps and extend them into real systems:
 🔗 https://servipro.co.uk/  
 🔗 Case Study: https://github.com/Harrisbaig7/servipro-case-study  
 
-A full-scale procurement & tender management SaaS for UK property workflows.
+A full-scale procurement and tender management SaaS for UK property workflows.
 
-**System Overview**
-- Tender → Bid → Contract lifecycle automation
+**System Design**
+- End-to-end Tender → Bid → Contract lifecycle automation
 - Contractor onboarding & verification system
-- Subscription + commission-based SaaS model
-- Document + invoice automation pipeline
+- Subscription-based SaaS with commission workflows
+- Document & invoice automation pipeline
 
 **Engineering Highlights**
-- Multi-role RBAC (Admin, Agents, Contractors)
+- Multi-role RBAC architecture (Admin, Agents, Contractors)
 - Complex relational database design (PostgreSQL)
-- Stripe billing + subscription system
+- Stripe billing + subscription system integration
 - AWS S3 document storage integration
-- Full audit logging for compliance
+- Full audit logging for enterprise compliance
 
 **Impact**
-- Automated manual procurement workflows
-- Built for enterprise-level contractor operations
-- Designed for scalable multi-business usage
+- Automated manual procurement workflows for business operations
+- Built for scalable multi-organization usage
+- Designed as a production SaaS system, not a prototype
 
 ---
 
-### 🚖 DonateNotWaste (FYP – Upgraded to Production Level)
+### 🚖 DonateNotWaste (FYP → Production System)
 🏆 Final Year Project (1st Position)
 
-- Mobile + Admin system
-- Real-time alert system for donations
+- Mobile + Admin ecosystem
+- Real-time donation alert system
 - AI-based food detection module
-- Backend-driven architecture (production mindset)
+- Backend-driven architecture (production design approach)
 
-**Upgrade Direction**
-- Moving from academic project → deployable SaaS-level system
+👉 Currently being evolved into a deployable SaaS-style platform
 
 ---
 
 ### 💇‍♀️ Salon SaaS Platform (Multi-Tenant System)
-- Multi-salon booking system
-- Appointment lifecycle management
-- Product & inventory handling
+- Multi-salon booking & management system
+- Appointment lifecycle engine
+- Product & inventory management
 - Customer + admin dashboards
 
 ---
@@ -127,7 +128,7 @@ A full-scale procurement & tender management SaaS for UK property workflows.
 🔗 https://www.loftaesthetics.co.uk/
 
 - High-performance business website
-- SEO-optimized structure
+- SEO-optimized architecture
 - Mobile-first responsive UI
 
 ---
@@ -137,7 +138,7 @@ A full-scale procurement & tender management SaaS for UK property workflows.
 
 - Full e-commerce system
 - Optimized checkout flow
-- Production-ready deployment
+- Production deployment setup
 
 ---
 
@@ -145,12 +146,12 @@ A full-scale procurement & tender management SaaS for UK property workflows.
 
 - SaaS Architecture (Multi-tenant systems)
 - Backend System Design (APIs, workflows, RBAC)
-- Database Architecture (PostgreSQL, relational modeling)
+- Database Architecture (PostgreSQL relational modeling)
 - Subscription & Billing Systems (Stripe)
 - Cloud Infrastructure (AWS S3, scalable deployments)
-- Mobile + Web Integration Systems
+- Mobile + Web System Integration
 - Audit & Compliance system design
-- API-first development approach
+- API-first product engineering approach
 
 ---
 
@@ -216,5 +217,5 @@ Prisma • REST APIs • Python (Automation)
 ---
 
 <p align="center">
-💬 Open for SaaS engineering roles, backend-heavy system builds, and production-grade freelance projects.
+💬 Open for SaaS engineering roles, backend-heavy system design work, and production-grade product development.
 </p>
