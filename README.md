@@ -5,11 +5,11 @@
 </h1>
 
 <h3 align="center">
-  Full-Stack Engineer | SaaS System Builder | Backend-Heavy Product Developer
+  Full-Stack Engineer | SaaS Architect | Backend Systems Builder
 </h3>
 
 <p align="center">
-I design and build backend-driven SaaS systems that support real operational workflows — including multi-tenant architectures, role-based systems, and business-critical APIs.
+I design backend-heavy SaaS platforms that power real operational workflows — focusing on system architecture, multi-tenant design, and business-critical API engineering.
 <br/>
 Operating across 🇬🇧 UK • 🇺🇸 USA • 🌍 Global clients
 </p>
@@ -22,25 +22,25 @@ Operating across 🇬🇧 UK • 🇺🇸 USA • 🌍 Global clients
 
 ## ⚡ About Me
 
-- 🚀 I build production SaaS systems focused on real business workflows
-- 🧠 Strong focus on backend architecture, system design, and scalability
-- 🏗️ Experience building multi-tenant platforms with RBAC-based access control
-- ☁️ Build and deploy API-driven cloud applications
-- 📱 Develop full-stack systems with integrated mobile + backend layers
+- 🚀 Build backend-driven SaaS platforms used in real operational workflows
+- 🧠 Focus on scalable system design, distributed architecture, and backend reliability
+- 🏗️ Experience building multi-tenant systems with strict role-based access control
+- ☁️ Design and deploy API-first cloud applications
+- 📱 Build full-stack products integrating backend + mobile ecosystems
 
-👉 My focus is building **working systems with real operational logic**, not demo or tutorial projects.
+👉 I focus on systems that behave like real software infrastructure, not demos or prototypes.
 
 ---
 
 ## 🧩 Engineering & System Design
 
-- Designed multi-tenant SaaS architectures with role-based access control (RBAC)
-- Built end-to-end workflow systems (booking, procurement, dispatch, bidding)
-- Designed scalable relational database structures using PostgreSQL
-- Implemented audit logging and event-driven backend systems
-- Built API-first architectures powering web and mobile applications
+- Designed multi-tenant SaaS architectures with strict data isolation models
+- Built event-driven backend systems for workflow-based applications
+- Engineered end-to-end business systems (booking, procurement, dispatch, commerce)
+- Designed normalized relational databases for scalable SaaS platforms
+- Built API-first backend systems supporting web and mobile clients
 
-👉 Experience building systems designed for **multi-user, real-world operational environments**
+👉 Strong focus on backend architecture, system reliability, and structured business logic design
 
 ---
 
@@ -105,6 +105,33 @@ A real operational procurement system for UK-based business workflows.
 - Supports structured business workflow execution across roles
 
 👉 Designed and deployed as a **real business-facing system, not a prototype**
+
+---
+
+### 💇‍♀️ Salon SaaS Platform — Multi-Tenant Booking & Commerce System
+
+A backend-driven SaaS platform for managing salon operations across multiple tenants with isolated business environments and role-based access control.
+
+**System Overview**
+- Multi-tenant architecture with salon-level data isolation
+- Role-based access control (Admin, Staff, Customer)
+- End-to-end appointment lifecycle management
+- Product + service commerce system with order handling
+
+**Core Modules**
+- Appointment scheduling and booking engine
+- Service catalog with dynamic pricing
+- Product inventory and variant management
+- Order & payment processing pipeline
+- Category-based organizational structure
+
+**Engineering Design**
+- Fully relational PostgreSQL architecture
+- Normalized schema design for multi-entity workflows
+- Audit-safe and soft-delete enabled system design
+- API-first backend architecture for web & mobile clients
+
+👉 Designed as a **production-ready SaaS foundation for salon businesses**
 
 ---
 
@@ -185,7 +212,7 @@ Prisma • REST APIs • Python (Automation)
 ## 🧠 Engineering Identity
 
 <p align="center">
-💡 I build backend-heavy SaaS systems that solve real operational problems through scalable architecture, structured workflows, and API-first design.
+💡 I build backend-heavy SaaS systems with real operational complexity — focusing on scalable architecture, multi-tenant design, and production-grade backend workflows.
 </p>
 
 ---
