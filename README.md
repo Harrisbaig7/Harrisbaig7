@@ -5,48 +5,48 @@
 </h1>
 
 <h3 align="center">
-  Full-Stack Engineer | Distributed Systems Builder | Backend-First Product Architect
+  Full-Stack Engineer | SaaS System Builder | Backend-Heavy Product Developer
 </h3>
 
 <p align="center">
-I build production systems that power real business operations — from multi-tenant SaaS platforms to workflow-driven applications used in real-world environments.
+I design and build backend-driven SaaS systems that support real operational workflows — including multi-tenant architectures, role-based systems, and business-critical APIs.
 <br/>
 Operating across 🇬🇧 UK • 🇺🇸 USA • 🌍 Global clients
 </p>
 
 <p align="center">
-<strong>Open to SaaS Engineering Roles • Backend System Design • Product-Focused Development</strong>
+<strong>Open to Backend Engineering • SaaS Architecture • System Design Roles</strong>
 </p>
 
 ---
 
 ## ⚡ About Me
 
-- 🚀 I build **real-world production systems used in business workflows**
-- 🧠 Focus on **system design, scalability, and operational architecture**
-- 🏗️ Experience building **multi-tenant platforms with RBAC and role isolation**
-- ☁️ Deliver **cloud-deployed, API-driven applications**
-- 📱 Build **mobile + backend integrated product systems (React Native / Flutter)**
+- 🚀 I build production SaaS systems focused on real business workflows
+- 🧠 Strong focus on backend architecture, system design, and scalability
+- 🏗️ Experience building multi-tenant platforms with RBAC-based access control
+- ☁️ Build and deploy API-driven cloud applications
+- 📱 Develop full-stack systems with integrated mobile + backend layers
 
-👉 I focus on systems that solve **real operational problems**, not demo or tutorial projects.
+👉 My focus is building **working systems with real operational logic**, not demo or tutorial projects.
 
 ---
 
-## 🧩 Engineering & System Thinking
+## 🧩 Engineering & System Design
 
-- Designed multi-tenant SaaS architectures with strict role-based access control (RBAC)
-- Built end-to-end business workflow systems (booking, procurement, dispatch, bidding)
-- Designed scalable relational database architectures (PostgreSQL)
-- Implemented audit-safe backend systems for operational reliability
-- Built API-first systems powering both web and mobile ecosystems
+- Designed multi-tenant SaaS architectures with role-based access control (RBAC)
+- Built end-to-end workflow systems (booking, procurement, dispatch, bidding)
+- Designed scalable relational database structures using PostgreSQL
+- Implemented audit logging and event-driven backend systems
+- Built API-first architectures powering web and mobile applications
 
-👉 Experience building systems that support **real-world operational workflows and multi-user environments**
+👉 Experience building systems designed for **multi-user, real-world operational environments**
 
 ---
 
 ## 🔭 Current Focus
 
-### 🚖 UK Taxi Dispatch Platform (Operational System in Development)
+### 🚖 UK Taxi Dispatch Platform (Operational SaaS System)
 
 A private hire dispatch system designed for fleet operators and real-world operational use.
 
@@ -182,10 +182,10 @@ Prisma • REST APIs • Python (Automation)
 
 ---
 
-## 🧠 Signature Identity
+## 🧠 Engineering Identity
 
 <p align="center">
-💡 I build backend-driven systems that power real business operations, multi-user workflows, and scalable product ecosystems.
+💡 I build backend-heavy SaaS systems that solve real operational problems through scalable architecture, structured workflows, and API-first design.
 </p>
 
 ---
@@ -230,5 +230,5 @@ Prisma • REST APIs • Python (Automation)
 ---
 
 <p align="center">
-💬 Open for SaaS engineering roles, backend system design, and production-grade product development.
+💬 Open for SaaS engineering roles, backend system design, and production-grade system development.
 </p>
