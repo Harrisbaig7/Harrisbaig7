@@ -79,6 +79,7 @@ Operating across 🇬🇧 UK • 🇺🇸 USA • 🇦🇪 UAE • 🌍 Global c
 
 🔗 Website: https://www.nustforge.com  
 🔗 GitHub Organization: https://github.com/nustforge  
+🔗 Featured Case Study: https://github.com/nustforge/servipro-case-study  
 
 ---
 
@@ -311,5 +312,5 @@ Prisma • REST APIs • Python Automation • Stripe • System Design
 ---
 
 <p align="center">
-💬 Open for SaaS engineering roles, backend system design, and production-grade system development.
+💬 Open for SaaS engineering roles, backend system design, production-grade system development, and business software projects through <a href="https://www.nustforge.com">NUSTFORGE</a>.
 </p>
