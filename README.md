@@ -82,7 +82,8 @@ I build mobile applications that are fully integrated into backend-driven system
 
 ### 🏢 ServiPro — Procurement & Tender Platform
 🔗 https://servipro.co.uk/  
-🔗 Case Study: https://github.com/Harrisbaig7/servipro-case-study  
+🔗 Case Study: https://github.com/nustforge/servipro-case-study  
+🏢 Built under: [NUSTFORGE](https://github.com/nustforge)
 
 A real operational procurement system for UK-based business workflows.
 
