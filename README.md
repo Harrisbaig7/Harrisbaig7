@@ -57,6 +57,12 @@ Operating across 🇬🇧 UK • 🇺🇸 USA • 🇦🇪 UAE • 🌍 Global c
 
 ## 🏢 NUSTFORGE
 
+<p align="center">
+  <a href="https://www.nustforge.com">
+    <img src="./assets/nustforge-logo.svg" alt="NUSTFORGE logo" width="96" />
+  </a>
+</p>
+
 [NUSTFORGE](https://www.nustforge.com) is my software engineering studio focused on building production-grade business systems.
 
 **What we build**
