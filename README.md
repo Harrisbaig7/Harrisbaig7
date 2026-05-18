@@ -20,7 +20,6 @@ Operating across 🇬🇧 UK • 🇺🇸 USA • 🇦🇪 UAE • 🌍 Global c
 <p align="center">
   <a href="https://www.nustforge.com">NUSTFORGE Website</a> •
   <a href="https://github.com/nustforge">GitHub Organization</a> •
-  <a href="https://github.com/nustforge/servipro-case-study">ServiPro Case Study</a> •
   <a href="https://harris-baig-portfolio.vercel.app/">Personal Portfolio</a>
 </p>
 
