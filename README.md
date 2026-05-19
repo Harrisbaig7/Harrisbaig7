@@ -308,10 +308,7 @@ Prisma • REST APIs • Python Automation • Stripe • System Design
   <a href="https://www.instagram.com/_harrisbaig07">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-
-  <a href="https://medium.com/@baigharris77">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
+  
 </p>
 
 ---
