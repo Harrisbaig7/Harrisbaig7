@@ -89,11 +89,17 @@
 - Scalable APIs and dashboards
 - Production deployment workflows
 
-**Links**
-
-- Website: [nustforge.com](https://www.nustforge.com)
-- GitHub Organization: [github.com/nustforge](https://github.com/nustforge)
-- Featured Case Study: [ServiPro Case Study](https://github.com/nustforge/servipro-case-study)
+<p align="center">
+  <a href="https://www.nustforge.com">
+    <img src="https://img.shields.io/badge/NUSTFORGE%20Website-0A0A0F?style=for-the-badge&logo=vercel&logoColor=white" alt="NUSTFORGE Website" />
+  </a>
+  <a href="https://github.com/nustforge">
+    <img src="https://img.shields.io/badge/GitHub%20Organization-181717?style=for-the-badge&logo=github&logoColor=white" alt="NUSTFORGE GitHub Organization" />
+  </a>
+  <a href="https://github.com/nustforge/servipro-case-study">
+    <img src="https://img.shields.io/badge/Featured%20Case%20Study-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="ServiPro Case Study" />
+  </a>
+</p>
 
 ---
 
@@ -138,9 +144,17 @@ Next.js • Node.js • Prisma • PostgreSQL • Stripe • REST APIs
 
 ### 🏢 ServiPro — Procurement & Tender Platform
 
-🔗 Live Platform: https://servipro.co.uk/  
-🔗 Case Study: https://github.com/nustforge/servipro-case-study  
-🏢 Built under: [NUSTFORGE](https://www.nustforge.com) · [GitHub Org](https://github.com/nustforge)
+<p align="left">
+  <a href="https://servipro.co.uk/">
+    <img src="https://img.shields.io/badge/Live%20Platform-0A0A0F?style=for-the-badge&logo=vercel&logoColor=white" alt="ServiPro Live Platform" />
+  </a>
+  <a href="https://github.com/nustforge/servipro-case-study">
+    <img src="https://img.shields.io/badge/Case%20Study-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="ServiPro Case Study" />
+  </a>
+  <a href="https://www.nustforge.com">
+    <img src="https://img.shields.io/badge/Built%20Under%20NUSTFORGE-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Built under NUSTFORGE" />
+  </a>
+</p>
 
 A real operational procurement system for UK-based business workflows.
 
@@ -229,7 +243,11 @@ A commerce system concept for product-based businesses that need online selling,
 
 ### 💄 Loft Aesthetics
 
-🔗 https://www.loftaesthetics.co.uk/
+<p align="left">
+  <a href="https://www.loftaesthetics.co.uk/">
+    <img src="https://img.shields.io/badge/Live%20Website-0A0A0F?style=for-the-badge&logo=vercel&logoColor=white" alt="Loft Aesthetics Website" />
+  </a>
+</p>
 
 - High-performance business website
 - SEO-optimized architecture
@@ -240,7 +258,11 @@ A commerce system concept for product-based businesses that need online selling,
 
 ### 🛒 Golden Rose Store
 
-🔗 https://www.thegoldenrose.store/
+<p align="left">
+  <a href="https://www.thegoldenrose.store/">
+    <img src="https://img.shields.io/badge/Live%20Store-0A0A0F?style=for-the-badge&logo=shopify&logoColor=white" alt="Golden Rose Store" />
+  </a>
+</p>
 
 - E-commerce storefront
 - Optimized checkout flow
