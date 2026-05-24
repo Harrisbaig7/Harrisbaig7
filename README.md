@@ -36,7 +36,7 @@
 
 ---
 
-### Quick Proof
+### ⚡ Quick Proof
 
 - Built **ServiPro**, a UK procurement SaaS with RBAC, Stripe billing, PostgreSQL, AWS S3, audit logging, supplier workflows, customer workflows, and admin dashboards.
 - Building a **UK taxi dispatch SaaS** with booking, pricing, payment, fleet, driver, customer, and dispatch management workflows.
