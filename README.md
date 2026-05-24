@@ -94,10 +94,10 @@
     <img src="https://img.shields.io/badge/NUSTFORGE%20Website-0A0A0F?style=for-the-badge&logo=vercel&logoColor=white" alt="NUSTFORGE Website" />
   </a>
   <a href="https://github.com/nustforge">
-    <img src="https://img.shields.io/badge/GitHub%20Organization-181717?style=for-the-badge&logo=github&logoColor=white" alt="NUSTFORGE GitHub Organization" />
+    <img src="https://img.shields.io/badge/GitHub%20Organization-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Organization" />
   </a>
   <a href="https://github.com/nustforge/servipro-case-study">
-    <img src="https://img.shields.io/badge/Featured%20Case%20Study-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="ServiPro Case Study" />
+    <img src="https://img.shields.io/badge/Featured%20Case%20Study-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Featured Case Study" />
   </a>
 </p>
 
