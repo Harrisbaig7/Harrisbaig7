@@ -7,13 +7,13 @@
 </h3>
 
 <p align="center">
-I build production-ready websites, software platforms, dashboards, mobile apps, automation systems, and SaaS products for modern businesses.
-<br/>
-Focused on clean architecture, scalable backend systems, polished interfaces, and real business workflows.
+  I build production-ready websites, SaaS platforms, dashboards, mobile apps, automation systems, and business software for modern companies.
+  <br/>
+  Focused on clean architecture, scalable backend systems, polished interfaces, and real-world business workflows.
 </p>
 
 <p align="center">
-Operating across 🇬🇧 UK • 🇺🇸 USA • 🇦🇪 UAE • 🌍 Global markets
+  Operating across 🇬🇧 UK • 🇺🇸 USA • 🇦🇪 UAE • 🌍 Global markets
 </p>
 
 <p align="center">
@@ -29,8 +29,18 @@ Operating across 🇬🇧 UK • 🇺🇸 USA • 🇦🇪 UAE • 🌍 Global m
 </p>
 
 <p align="center">
-<strong>Open to software engineering roles, backend/system design work, SaaS projects, and business software builds through NUSTFORGE.</strong>
+  <strong>
+    Open to software engineering roles, backend/system design work, SaaS projects, and business software builds through NUSTFORGE.
+  </strong>
 </p>
+
+---
+
+### Quick Proof
+
+- Built **ServiPro**, a UK procurement SaaS with RBAC, Stripe billing, PostgreSQL, AWS S3, audit logging, supplier workflows, customer workflows, and admin dashboards.
+- Building a **UK taxi dispatch SaaS** with booking, pricing, payment, fleet, driver, customer, and dispatch management workflows.
+- Founder of **NUSTFORGE**, building production websites, SaaS platforms, dashboards, mobile apps, automation systems, and business software for clients.
 
 ---
 
