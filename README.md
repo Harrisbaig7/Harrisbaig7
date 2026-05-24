@@ -18,7 +18,7 @@
 
 <p align="center">
   Founder of <a href="https://www.nustforge.com"><strong>NUSTFORGE</strong></a> —
-  a premium websites, platforms, and SaaS engineering studio helping businesses build reliable digital systems.
+  a software engineering studio helping businesses build reliable digital systems.
 </p>
 
 <p align="center">
@@ -245,7 +245,7 @@ A commerce system concept for product-based businesses that need online selling,
 
 <p align="left">
   <a href="https://www.loftaesthetics.co.uk/">
-    <img src="https://img.shields.io/badge/Live%20Business%20Website-0A0A0F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Loft Aesthetics Live Website" />
+    <img src="https://img.shields.io/badge/Live%20Salon%20Website-0A0A0F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Loft Aesthetics Live Website" />
   </a>
 </p>
 
@@ -336,8 +336,8 @@ Prisma • REST APIs • Python Automation • Stripe • System Design • SEO 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harrisbaig7&show_icons=true&theme=dark&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harrisbaig7&layout=compact&theme=dark&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Harrisbaig7&show_icons=true&theme=tokyo-night&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harrisbaig7&layout=compact&theme=tokyo-night&hide_border=true" height="170" />
 </p>
 
 <p align="center">
@@ -358,24 +358,24 @@ Prisma • REST APIs • Python Automation • Stripe • System Design • SEO 
 
 <p align="center">
   <a href="https://www.nustforge.com">
-    <img src="https://img.shields.io/badge/NUSTFORGE-0A0A0F?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/NUSTFORGE%20Website-0A0A0F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="NUSTFORGE Website" />
   </a>
 
   <a href="https://github.com/nustforge">
-    <img src="https://img.shields.io/badge/NUSTFORGE%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/NUSTFORGE%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="NUSTFORGE GitHub" />
   </a>
 
   <a href="https://www.linkedin.com/in/harrisbaig7/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
   <a href="https://www.instagram.com/_harrisbaig07">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-💬 Open for software engineering roles, backend system design, full-stack development, SaaS projects, and business software work through <a href="https://www.nustforge.com">NUSTFORGE</a>.
+  💬 Open to software engineering roles, backend system design, full-stack development, SaaS projects, and business software work through <a href="https://www.nustforge.com"><strong>NUSTFORGE</strong></a>.
 </p>
