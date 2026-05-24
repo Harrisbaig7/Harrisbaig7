@@ -3,76 +3,88 @@
 </h1>
 
 <h3 align="center">
-  Full-Stack Engineer | SaaS Architect | Backend Systems Builder
+  Founder of NUSTFORGE • Full-Stack Engineer • Software Systems Builder
 </h3>
 
 <p align="center">
-I design backend-heavy SaaS platforms that power real operational workflows — focusing on system architecture, multi-tenant design, and business-critical API engineering.
-<br/>
-Operating across 🇬🇧 UK • 🇺🇸 USA • 🇦🇪 UAE • 🌍 Global clients
+  I build production-ready websites, SaaS platforms, dashboards, mobile apps, automation systems, and business software for modern companies.
+  <br/>
+  Focused on clean architecture, scalable backend systems, polished interfaces, and real-world business workflows.
+</p>
+
+<p align="center">
+  Operating across 🇬🇧 UK • 🇺🇸 USA • 🇦🇪 UAE • 🌍 Global markets
 </p>
 
 <p align="center">
   Founder of <a href="https://www.nustforge.com"><strong>NUSTFORGE</strong></a> —
-  an enterprise SaaS & systems engineering studio building production-grade business software.
+  a premium websites, platforms, and SaaS engineering studio helping businesses build reliable digital systems.
 </p>
 
 <p align="center">
   <a href="https://www.nustforge.com">NUSTFORGE Website</a> •
   <a href="https://github.com/nustforge">GitHub Organization</a> •
-  <a href="https://github.com/nustforge/servipro-case-study">ServiPro Case Study</a> •
-  <a href="https://harris-baig-portfolio.vercel.app/">Personal Portfolio</a>
+  <a href="https://harris-baig-portfolio.vercel.app/">Personal Portfolio</a> •
+  <a href="https://www.linkedin.com/in/harrisbaig7/">LinkedIn</a>
 </p>
 
 <p align="center">
-<strong>Open to Backend Engineering • SaaS Architecture • System Design Roles • Production SaaS Work</strong>
+  <strong>
+    Open to software engineering roles, backend/system design work, SaaS projects, and business software builds through NUSTFORGE.
+  </strong>
 </p>
+
+---
+
+### ⚡ Quick Proof
+
+- Built **ServiPro**, a UK procurement SaaS with RBAC, Stripe billing, PostgreSQL, AWS S3, audit logging, supplier workflows, customer workflows, and admin dashboards.
+- Building a **UK taxi dispatch SaaS** with booking, pricing, payment, fleet, driver, customer, and dispatch management workflows.
+- Founder of **NUSTFORGE**, building production websites, SaaS platforms, dashboards, mobile apps, automation systems, and business software for clients.
 
 ---
 
 ## ⚡ About Me
 
-- 🚀 Build backend-driven SaaS platforms used in real operational workflows
-- 🧠 Focus on scalable system design, distributed architecture, and backend reliability
-- 🏗️ Experience building multi-tenant systems with strict role-based access control
-- ☁️ Design and deploy API-first cloud applications
-- 📱 Build full-stack products integrating backend + mobile ecosystems
-- 🏢 Building [NUSTFORGE](https://www.nustforge.com) as a software engineering studio for SaaS, dashboards, automation, and business systems
+- 🚀 Founder of [NUSTFORGE](https://www.nustforge.com), a software engineering studio for websites, platforms, SaaS, dashboards, apps, and automation systems
+- 🧠 Focused on full-stack product engineering, backend architecture, and scalable business workflows
+- 🏗️ Experienced in building multi-role and multi-tenant systems with structured access control
+- ☁️ Design and deploy API-first cloud applications for web and mobile clients
+- 📱 Build mobile and backend-integrated systems using React Native / Flutter concepts
+- 🧩 Strong interest in real operational software, not just demos or prototypes
 
-👉 I focus on systems that behave like real software infrastructure, not demos or prototypes.
-
----
-
-## 🧩 Engineering & System Design
-
-- Designed multi-tenant SaaS architectures with strict data isolation models
-- Built event-driven backend systems for workflow-based applications
-- Engineered end-to-end business systems including booking, procurement, dispatch, and commerce
-- Designed normalized relational databases for scalable SaaS platforms
-- Built API-first backend systems supporting web and mobile clients
-
-👉 Strong focus on backend architecture, system reliability, and structured business logic design.
+👉 I enjoy building systems that solve real business problems: bookings, dashboards, procurement, e-commerce, automation, portals, and SaaS workflows.
 
 ---
 
 ## 🏢 NUSTFORGE
 
-[NUSTFORGE](https://www.nustforge.com) is my software engineering studio focused on building production-grade business systems.
+<p align="center">
+  <a href="https://www.nustforge.com">
+    <img src="./assets/nustforge-logo.svg" alt="NUSTFORGE logo" width="96" />
+  </a>
+</p>
+
+[NUSTFORGE](https://www.nustforge.com) is my software engineering studio focused on building premium digital systems for businesses.
 
 **What we build**
-- SaaS platforms
-- Business dashboards
-- Booking systems
-- E-commerce systems
-- Automation workflows
-- Multi-tenant applications
+
+- Premium business websites
+- SaaS platforms and custom software products
+- Business dashboards and admin panels
+- Booking and appointment systems
+- E-commerce systems and checkout workflows
+- Mobile apps and customer portals
+- Automation workflows and API integrations
 - Backend-heavy operational software
 
 **Engineering focus**
-- Multi-tenant architecture
+
+- Clean full-stack architecture
 - Role-based access control
-- PostgreSQL database design
-- Stripe billing systems
+- Multi-tenant system design
+- PostgreSQL database architecture
+- Stripe billing and payment workflows
 - AWS S3 file workflows
 - Scalable APIs and dashboards
 - Production deployment workflows
@@ -83,17 +95,31 @@ Operating across 🇬🇧 UK • 🇺🇸 USA • 🇦🇪 UAE • 🌍 Global c
 
 ---
 
+## 🧩 Engineering & System Design
+
+- Designed multi-tenant SaaS architectures with isolated business environments
+- Built backend workflow systems for booking, procurement, dispatch, and commerce
+- Engineered dashboards and admin systems for operational use cases
+- Designed normalized relational databases for scalable business platforms
+- Built API-first systems supporting web and mobile clients
+- Created SEO-ready and conversion-focused business websites
+
+👉 Strong focus on backend architecture, business logic, maintainability, and real-world product execution.
+
+---
+
 ## 🔭 Current Focus
 
 ### 🚖 UK Taxi Dispatch Platform — Operational SaaS System
 
-A private hire dispatch system designed for fleet operators and real-world operational use.
+A private hire dispatch system designed for fleet operators and real operational use.
 
 **Core System**
+
 - Multi-company operational architecture
 - Real-time booking lifecycle engine
 - Driver and vehicle allocation system
-- Admin + operator control dashboards
+- Admin and operator control dashboards
 - Payment-ready dispatch pipeline
 
 **Business Flow**
@@ -103,19 +129,6 @@ Booking → Pricing → Payment → Dispatch → Completion
 **Tech Stack**
 
 Next.js • Node.js • Prisma • PostgreSQL • Stripe • REST APIs
-
----
-
-## 📱 Mobile Systems — Equal Product Layer
-
-I build mobile applications that are fully integrated into backend-driven systems:
-
-- 📲 Cross-platform development with React Native / Flutter
-- 🔗 Deep backend integration with real-time APIs
-- 🧠 Intelligent feature systems using AI / detection-based logic
-- 🚀 Converting academic FYPs into production-ready systems
-
-👉 Mobile is treated as a **first-class product layer inside full systems**, not an isolated skill.
 
 ---
 
@@ -130,12 +143,14 @@ I build mobile applications that are fully integrated into backend-driven system
 A real operational procurement system for UK-based business workflows.
 
 **System Overview**
+
 - End-to-end tender → bid → contract workflow engine
 - Contractor onboarding and verification pipeline
 - Subscription-based SaaS operational model
 - Automated document and invoice processing system
 
 **Engineering Work**
+
 - Multi-role RBAC system with Admin, Agents, and Contractors
 - Complex relational database architecture using PostgreSQL
 - Stripe billing and subscription integration
@@ -143,25 +158,28 @@ A real operational procurement system for UK-based business workflows.
 - Full audit logging for operational consistency
 
 **Operational Impact**
+
 - Built to replace manual procurement workflows with automated systems
 - Designed for multi-organization usage and real operational environments
 - Supports structured business workflow execution across roles
 
-👉 Designed and deployed as a **real business-facing system, not a prototype**.
+👉 Designed and deployed as a real business-facing system, not a prototype.
 
 ---
 
-### 💇‍♀️ Salon SaaS Platform — Multi-Tenant Booking & Commerce System
+### 💇‍♀️ Salon Platform — Booking, Commerce & Management System
 
-A backend-driven SaaS platform for managing salon operations across multiple tenants with isolated business environments and role-based access control.
+A backend-driven platform for managing salon operations across multiple business environments.
 
 **System Overview**
-- Multi-tenant architecture with salon-level data isolation
+
+- Multi-tenant salon booking system
 - Role-based access control for Admin, Staff, and Customer users
 - End-to-end appointment lifecycle management
-- Product + service commerce system with order handling
+- Product and service commerce workflows
 
 **Core Modules**
+
 - Appointment scheduling and booking engine
 - Service catalog with dynamic pricing
 - Product inventory and variant management
@@ -169,12 +187,28 @@ A backend-driven SaaS platform for managing salon operations across multiple ten
 - Category-based organizational structure
 
 **Engineering Design**
+
 - Fully relational PostgreSQL architecture
 - Normalized schema design for multi-entity workflows
 - Audit-safe and soft-delete enabled system design
 - API-first backend architecture for web and mobile clients
 
-👉 Designed as a **production-ready SaaS foundation for salon businesses**.
+👉 Designed as a production-ready software foundation for salon businesses.
+
+---
+
+### 🛒 E-Commerce Platform — Storefront & Order Workflow System
+
+A commerce system concept for product-based businesses that need online selling, checkout, and operational management.
+
+**System Overview**
+
+- Product catalog architecture
+- Responsive storefront experience
+- Cart, checkout, and order workflows
+- Payment integration planning
+- Admin product and order management
+- Scalable commerce infrastructure
 
 ---
 
@@ -182,21 +216,12 @@ A backend-driven SaaS platform for managing salon operations across multiple ten
 
 🏆 Final Year Project — 1st Position
 
-- Mobile + admin ecosystem
+- Mobile and admin ecosystem
 - Real-time donation coordination system
 - AI-based food detection module
 - Backend-driven architecture designed with scalability in mind
 
 👉 Evolving from academic project into a deployable real-world system.
-
----
-
-### 💇‍♀️ Salon Management Platform
-
-- Multi-tenant booking system for salons
-- Appointment lifecycle orchestration
-- Product and inventory management layer
-- Customer and admin dashboards
 
 ---
 
@@ -207,6 +232,7 @@ A backend-driven SaaS platform for managing salon operations across multiple ten
 - High-performance business website
 - SEO-optimized architecture
 - Mobile-first responsive UI
+- Conversion-focused service presentation
 
 ---
 
@@ -214,30 +240,49 @@ A backend-driven SaaS platform for managing salon operations across multiple ten
 
 🔗 https://www.thegoldenrose.store/
 
-- Fully functional e-commerce system
+- E-commerce storefront
 - Optimized checkout flow
+- Product and order structure
 - Production deployment setup
+
+---
+
+## 📱 Mobile Systems
+
+I build mobile applications that are fully integrated into backend-driven systems.
+
+- Cross-platform development with React Native / Flutter
+- Backend integration with APIs and real-time workflows
+- Mobile-first product experiences
+- Admin and customer app ecosystems
+- AI / detection-based feature systems
+
+👉 Mobile is treated as a first-class product layer inside full systems, not an isolated skill.
 
 ---
 
 ## 🧠 Core Engineering Strengths
 
-- Multi-tenant system architecture design
-- Backend workflow engineering for real operational systems
-- Relational database design for business-critical applications
-- Subscription and billing systems with Stripe integration
-- Cloud infrastructure design with AWS S3 and scalable deployments
+- Full-stack product engineering
+- Backend workflow engineering
+- Multi-tenant system architecture
+- Role-based access control
+- Relational database design
+- Subscription and billing systems
+- Cloud file workflows with AWS S3
+- API-first product development
+- Business dashboards and admin systems
+- SEO-ready websites and landing pages
 - Mobile + backend system integration
-- API-first product engineering mindset
 
-👉 Focused on building systems that reflect **real operational scale thinking: multi-user, multi-role, and business workflow driven**.
+👉 Focused on building systems that reflect real operational thinking: multi-user, multi-role, scalable, and business workflow driven.
 
 ---
 
 ## 🛠️ Tech Stack
 
 **Frontend**  
-React • Next.js • Vue • Nuxt • Tailwind • MUI  
+React • Next.js • Vue • Nuxt • Tailwind CSS • MUI  
 
 **Backend**  
 Node.js • Express • NestJS • Laravel • Django  
@@ -249,17 +294,17 @@ React Native • Flutter
 PostgreSQL • MySQL • MongoDB • Firebase  
 
 **Cloud & DevOps**  
-AWS EC2 • AWS S3 • Docker • CI/CD • Git  
+AWS EC2 • AWS S3 • Docker • CI/CD • Git • Vercel  
 
 **Other**  
-Prisma • REST APIs • Python Automation • Stripe • System Design  
+Prisma • REST APIs • Python Automation • Stripe • System Design • SEO Metadata  
 
 ---
 
 ## 🧠 Engineering Identity
 
 <p align="center">
-💡 I build backend-heavy SaaS systems with real operational complexity — focusing on scalable architecture, multi-tenant design, and production-grade backend workflows.
+💡 I build premium websites, business platforms, SaaS systems, dashboards, mobile apps, e-commerce workflows, and automation systems with real production thinking.
 </p>
 
 ---
@@ -296,21 +341,17 @@ Prisma • REST APIs • Python Automation • Stripe • System Design
     <img src="https://img.shields.io/badge/NUSTFORGE%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
-  <a href="https://www.linkedin.com/in/harris-baig-3a890a203/">
+  <a href="https://www.linkedin.com/in/harrisbaig7/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="https://instagram.com/_harrisbaig07">
+  <a href="https://www.instagram.com/_harrisbaig07">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-
-  <a href="https://medium.com/@baigharris77">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-💬 Open for SaaS engineering roles, backend system design, production-grade system development, and business software projects through <a href="https://www.nustforge.com">NUSTFORGE</a>.
+💬 Open for software engineering roles, backend system design, full-stack development, SaaS projects, and business software work through <a href="https://www.nustforge.com">NUSTFORGE</a>.
 </p>
