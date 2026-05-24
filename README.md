@@ -61,11 +61,11 @@
 
 <p align="center">
   <a href="https://www.nustforge.com">
-    <img src="./assets/nustforge-logo.svg" alt="NUSTFORGE logo" width="96" />
+    <img src="./assets/og.png" alt="NUSTFORGE — Websites, Platforms & SaaS Engineering" width="100%" />
   </a>
 </p>
 
-[NUSTFORGE](https://www.nustforge.com) is my software engineering studio focused on building premium digital systems for businesses.
+[NUSTFORGE](https://www.nustforge.com) is my software engineering studio focused on building premium digital systems for businesses — including websites, SaaS platforms, dashboards, mobile apps, automation systems, and backend-heavy operational software.
 
 **What we build**
 
@@ -89,9 +89,11 @@
 - Scalable APIs and dashboards
 - Production deployment workflows
 
-🔗 Website: https://www.nustforge.com  
-🔗 GitHub Organization: https://github.com/nustforge  
-🔗 Featured Case Study: https://github.com/nustforge/servipro-case-study  
+**Links**
+
+- Website: [nustforge.com](https://www.nustforge.com)
+- GitHub Organization: [github.com/nustforge](https://github.com/nustforge)
+- Featured Case Study: [ServiPro Case Study](https://github.com/nustforge/servipro-case-study)
 
 ---
 
