@@ -91,13 +91,13 @@
 
 <p align="center">
   <a href="https://www.nustforge.com">
-    <img src="https://img.shields.io/badge/NUSTFORGE%20Website-0A0A0F?style=for-the-badge&logo=vercel&logoColor=white" alt="NUSTFORGE Website" />
+    <img src="https://img.shields.io/badge/NUSTFORGE%20Website-0A0A0F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="NUSTFORGE Website" />
   </a>
   <a href="https://github.com/nustforge">
     <img src="https://img.shields.io/badge/GitHub%20Organization-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Organization" />
   </a>
   <a href="https://github.com/nustforge/servipro-case-study">
-    <img src="https://img.shields.io/badge/Featured%20Case%20Study-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Featured Case Study" />
+    <img src="https://img.shields.io/badge/Featured%20Case%20Study-2563EB?style=for-the-badge&logo=readme&logoColor=white" alt="Featured Case Study" />
   </a>
 </p>
 
@@ -146,13 +146,13 @@ Next.js • Node.js • Prisma • PostgreSQL • Stripe • REST APIs
 
 <p align="left">
   <a href="https://servipro.co.uk/">
-    <img src="https://img.shields.io/badge/Live%20Platform-0A0A0F?style=for-the-badge&logo=vercel&logoColor=white" alt="ServiPro Live Platform" />
+    <img src="https://img.shields.io/badge/Live%20Procurement%20Platform-0A0A0F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="ServiPro Live Procurement Platform" />
   </a>
   <a href="https://github.com/nustforge/servipro-case-study">
-    <img src="https://img.shields.io/badge/Case%20Study-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="ServiPro Case Study" />
+    <img src="https://img.shields.io/badge/Case%20Study-2563EB?style=for-the-badge&logo=readme&logoColor=white" alt="ServiPro Case Study" />
   </a>
   <a href="https://www.nustforge.com">
-    <img src="https://img.shields.io/badge/Built%20Under%20NUSTFORGE-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Built under NUSTFORGE" />
+    <img src="https://img.shields.io/badge/Built%20by%20NUSTFORGE-111827?style=for-the-badge" alt="Built by NUSTFORGE" />
   </a>
 </p>
 
@@ -245,7 +245,7 @@ A commerce system concept for product-based businesses that need online selling,
 
 <p align="left">
   <a href="https://www.loftaesthetics.co.uk/">
-    <img src="https://img.shields.io/badge/Live%20Website-0A0A0F?style=for-the-badge&logo=vercel&logoColor=white" alt="Loft Aesthetics Website" />
+    <img src="https://img.shields.io/badge/Live%20Business%20Website-0A0A0F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Loft Aesthetics Live Website" />
   </a>
 </p>
 
@@ -260,7 +260,7 @@ A commerce system concept for product-based businesses that need online selling,
 
 <p align="left">
   <a href="https://www.thegoldenrose.store/">
-    <img src="https://img.shields.io/badge/Live%20Store-0A0A0F?style=for-the-badge&logo=shopify&logoColor=white" alt="Golden Rose Store" />
+    <img src="https://img.shields.io/badge/Live%20E--Commerce%20Store-0A0A0F?style=for-the-badge&logo=shopify&logoColor=white" alt="Golden Rose Store" />
   </a>
 </p>
 
