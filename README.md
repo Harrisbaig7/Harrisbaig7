@@ -336,12 +336,12 @@ Prisma • REST APIs • Python Automation • Stripe • System Design • SEO 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harrisbaig7&show_icons=true&theme=tokyo-night&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harrisbaig7&layout=compact&theme=tokyo-night&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Harrisbaig7&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="170" alt="Harris Baig GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harrisbaig7&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="170" alt="Harris Baig top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Harrisbaig7&theme=dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Harrisbaig7&theme=tokyonight&hide_border=true" alt="Harris Baig GitHub streak" />
 </p>
 
 ---
