@@ -18,7 +18,7 @@
 
 <p align="center">
   Founder of <a href="https://www.nustforge.com"><strong>NUSTFORGE</strong></a> —
-  a premium websites, platforms, and SaaS engineering studio helping businesses build reliable digital systems.
+  a software engineering studio helping businesses build reliable digital systems.
 </p>
 
 <p align="center">
@@ -61,11 +61,11 @@
 
 <p align="center">
   <a href="https://www.nustforge.com">
-    <img src="./assets/nustforge-logo.svg" alt="NUSTFORGE logo" width="96" />
+    <img src="./assets/og.png" alt="NUSTFORGE — Websites, Platforms & SaaS Engineering" width="100%" />
   </a>
 </p>
 
-[NUSTFORGE](https://www.nustforge.com) is my software engineering studio focused on building premium digital systems for businesses.
+[NUSTFORGE](https://www.nustforge.com) is my software engineering studio focused on building premium digital systems for businesses — including websites, SaaS platforms, dashboards, mobile apps, automation systems, and backend-heavy operational software.
 
 **What we build**
 
@@ -89,9 +89,17 @@
 - Scalable APIs and dashboards
 - Production deployment workflows
 
-🔗 Website: https://www.nustforge.com  
-🔗 GitHub Organization: https://github.com/nustforge  
-🔗 Featured Case Study: https://github.com/nustforge/servipro-case-study  
+<p align="center">
+  <a href="https://www.nustforge.com">
+    <img src="https://img.shields.io/badge/NUSTFORGE%20Website-0A0A0F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="NUSTFORGE Website" />
+  </a>
+  <a href="https://github.com/nustforge">
+    <img src="https://img.shields.io/badge/GitHub%20Organization-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Organization" />
+  </a>
+  <a href="https://github.com/nustforge/servipro-case-study">
+    <img src="https://img.shields.io/badge/Featured%20Case%20Study-2563EB?style=for-the-badge&logo=readme&logoColor=white" alt="Featured Case Study" />
+  </a>
+</p>
 
 ---
 
@@ -136,9 +144,17 @@ Next.js • Node.js • Prisma • PostgreSQL • Stripe • REST APIs
 
 ### 🏢 ServiPro — Procurement & Tender Platform
 
-🔗 Live Platform: https://servipro.co.uk/  
-🔗 Case Study: https://github.com/nustforge/servipro-case-study  
-🏢 Built under: [NUSTFORGE](https://www.nustforge.com) · [GitHub Org](https://github.com/nustforge)
+<p align="left">
+  <a href="https://servipro.co.uk/">
+    <img src="https://img.shields.io/badge/Live%20Procurement%20Platform-0A0A0F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="ServiPro Live Procurement Platform" />
+  </a>
+  <a href="https://github.com/nustforge/servipro-case-study">
+    <img src="https://img.shields.io/badge/Case%20Study-2563EB?style=for-the-badge&logo=readme&logoColor=white" alt="ServiPro Case Study" />
+  </a>
+  <a href="https://www.nustforge.com">
+    <img src="https://img.shields.io/badge/Built%20by%20NUSTFORGE-111827?style=for-the-badge" alt="Built by NUSTFORGE" />
+  </a>
+</p>
 
 A real operational procurement system for UK-based business workflows.
 
@@ -227,7 +243,11 @@ A commerce system concept for product-based businesses that need online selling,
 
 ### 💄 Loft Aesthetics
 
-🔗 https://www.loftaesthetics.co.uk/
+<p align="left">
+  <a href="https://www.loftaesthetics.co.uk/">
+    <img src="https://img.shields.io/badge/Live%20Salon%20Website-0A0A0F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Loft Aesthetics Live Website" />
+  </a>
+</p>
 
 - High-performance business website
 - SEO-optimized architecture
@@ -238,7 +258,11 @@ A commerce system concept for product-based businesses that need online selling,
 
 ### 🛒 Golden Rose Store
 
-🔗 https://www.thegoldenrose.store/
+<p align="left">
+  <a href="https://www.thegoldenrose.store/">
+    <img src="https://img.shields.io/badge/Live%20E--Commerce%20Store-0A0A0F?style=for-the-badge&logo=shopify&logoColor=white" alt="Golden Rose Store" />
+  </a>
+</p>
 
 - E-commerce storefront
 - Optimized checkout flow
@@ -312,12 +336,12 @@ Prisma • REST APIs • Python Automation • Stripe • System Design • SEO 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harrisbaig7&show_icons=true&theme=dark&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harrisbaig7&layout=compact&theme=dark&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Harrisbaig7&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="Harris Baig GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harrisbaig7&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Harris Baig Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Harrisbaig7&theme=dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Harrisbaig7&theme=tokyonight&hide_border=true" alt="Harris Baig GitHub streak" />
 </p>
 
 ---
@@ -334,24 +358,24 @@ Prisma • REST APIs • Python Automation • Stripe • System Design • SEO 
 
 <p align="center">
   <a href="https://www.nustforge.com">
-    <img src="https://img.shields.io/badge/NUSTFORGE-0A0A0F?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/NUSTFORGE%20Website-0A0A0F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="NUSTFORGE Website" />
   </a>
 
   <a href="https://github.com/nustforge">
-    <img src="https://img.shields.io/badge/NUSTFORGE%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/NUSTFORGE%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="NUSTFORGE GitHub" />
   </a>
 
   <a href="https://www.linkedin.com/in/harrisbaig7/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
   <a href="https://www.instagram.com/_harrisbaig07">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-💬 Open for software engineering roles, backend system design, full-stack development, SaaS projects, and business software work through <a href="https://www.nustforge.com">NUSTFORGE</a>.
+  💬 Open to software engineering roles, backend system design, full-stack development, SaaS projects, and business software work through <a href="https://www.nustforge.com"><strong>NUSTFORGE</strong></a>.
 </p>
