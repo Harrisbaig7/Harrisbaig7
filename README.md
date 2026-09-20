@@ -284,14 +284,16 @@ I enjoy building software around real business requirements, focusing on reliabl
       alt="GitHub Engineering Streak"
       width="49%"
     />
-  </a><img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Harrisbaig7&layout=compact&card_width=420&theme=dark&hide_border=false&border_color=8B949E&title_color=FFFFFF&text_color=C9D1D9&bg_color=161B22&custom_title=Technology%20Footprint"
+  </a>
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Harrisbaig7&layout=compact&langs_count=8&card_width=420&theme=dark&hide_border=false&border_color=8B949E&title_color=FFFFFF&text_color=C9D1D9&bg_color=161B22&custom_title=Technology%20Footprint"
     alt="Technology Footprint"
     width="49%"
   />
 </p>
 
 ---
+
 
 ## 📈 Contribution Analytics
 
