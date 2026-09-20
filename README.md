@@ -372,5 +372,3 @@ I'm always open to discussing software engineering, SaaS products, AI automation
 <p align="center">
   <sub>Full Stack Engineering • SaaS • AI & Automation • Business Software</sub>
 </p>
-
-
