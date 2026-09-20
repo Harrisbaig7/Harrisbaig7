@@ -3,379 +3,287 @@
 </h1>
 
 <h3 align="center">
-  Founder of NUSTFORGE • Full-Stack Engineer • Software Systems Builder
+  Full Stack & AI Engineer • Founder of NUSTFORGE • SaaS & Business Software Builder
 </h3>
 
 <p align="center">
-  I build production-ready websites, SaaS platforms, dashboards, mobile apps, automation systems, and business software for modern companies.
-  <br/>
-  Focused on clean architecture, scalable backend systems, polished interfaces, and real-world business workflows.
+  I build production-ready SaaS platforms, business applications, dashboards,
+  booking systems, e-commerce solutions, AI-powered applications, and automation systems.
 </p>
 
 <p align="center">
-  Operating across 🇬🇧 UK • 🇺🇸 USA • 🇦🇪 UAE • 🌍 Global markets
+  React • Next.js • TypeScript • Node.js • Laravel • PostgreSQL • AWS • AI & Automation
 </p>
 
 <p align="center">
-  Founder of <a href="https://www.nustforge.com"><strong>NUSTFORGE</strong></a> —
-  a software engineering studio helping businesses build reliable digital systems.
+  🇬🇧 UK • 🇺🇸 USA • 🇦🇪 UAE • 🌏 Asia • 🌍 Global
 </p>
 
 <p align="center">
-  <a href="https://www.nustforge.com">NUSTFORGE Website</a> •
-  <a href="https://github.com/nustforge">GitHub Organization</a> •
-  <a href="https://harris-baig-portfolio.vercel.app/">Personal Portfolio</a> •
-  <a href="https://www.linkedin.com/in/harrisbaig7/">LinkedIn</a>
-</p>
-
-<p align="center">
-  <strong>
-    Open to software engineering roles, backend/system design work, SaaS projects, and business software builds through NUSTFORGE.
-  </strong>
+  <a href="https://www.nustforge.com">NUSTFORGE</a> •
+  <a href="https://harris-baig-portfolio.vercel.app/">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/harrisbaig7/">LinkedIn</a> •
+  <a href="https://github.com/Harrisbaig7">GitHub</a>
 </p>
 
 ---
 
-### ⚡ Quick Proof
+## 👨‍💻 About Me
 
-- Built **ServiPro**, a UK procurement SaaS with RBAC, Stripe billing, PostgreSQL, AWS S3, audit logging, supplier workflows, customer workflows, and admin dashboards.
-- Building a **UK taxi dispatch SaaS** with booking, pricing, payment, fleet, driver, customer, and dispatch management workflows.
-- Founder of **NUSTFORGE**, building production websites, SaaS platforms, dashboards, mobile apps, automation systems, and business software for clients.
+I'm a **Full Stack & AI Engineer** with 3+ years of experience designing and delivering production-ready software for UK-based and international clients.
+
+I work across the full software development lifecycle — from **UI/UX implementation and backend architecture to database design, API integrations, cloud infrastructure, testing, and production deployment**.
+
+My focus is building reliable software around real business requirements, with an emphasis on **clean architecture, scalable systems, polished user experiences, and maintainable code**.
+
+* 🚀 Founder of [NUSTFORGE](https://www.nustforge.com)
+* 💻 Full Stack & AI Engineer focused on modern web and business software
+* 🏗️ Experienced in SaaS, multi-role applications, dashboards, and operational platforms
+* ☁️ Hands-on experience with AWS, Vercel, Docker, CI/CD, and production deployments
+* 🤖 Building AI-powered applications, integrations, and business automation workflows
+* 🌍 Working with UK-based and international clients across global markets
 
 ---
 
-## ⚡ About Me
+## ⚡ What I Build
 
-- 🚀 Founder of [NUSTFORGE](https://www.nustforge.com), a software engineering studio for websites, platforms, SaaS, dashboards, apps, and automation systems
-- 🧠 Focused on full-stack product engineering, backend architecture, and scalable business workflows
-- 🏗️ Experienced in building multi-role and multi-tenant systems with structured access control
-- ☁️ Design and deploy API-first cloud applications for web and mobile clients
-- 📱 Build mobile and backend-integrated systems using React Native / Flutter concepts
-- 🧩 Strong interest in real operational software, not just demos or prototypes
+I build modern software for real business workflows, from customer-facing applications to internal business platforms.
 
-👉 I enjoy building systems that solve real business problems: bookings, dashboards, procurement, e-commerce, automation, portals, and SaaS workflows.
+* 🚀 SaaS & business applications
+* 📊 Dashboards & admin panels
+* 📅 Booking & appointment systems
+* 🛒 E-commerce & payment workflows
+* 🔐 Authentication & role-based applications
+* 🔌 APIs & third-party integrations
+* 🤖 AI-powered applications & automation
+* 📱 Web & mobile applications
+* ☁️ Cloud-based software & deployments
+* 🌐 Business websites & digital platforms
 
 ---
 
 ## 🏢 NUSTFORGE
 
-<p align="center">
-  <a href="https://www.nustforge.com">
-    <img src="./assets/og.png" alt="NUSTFORGE — Websites, Platforms & SaaS Engineering" width="100%" />
-  </a>
+<a href="https://www.nustforge.com">
+  <img src="./assets/og.png" alt="NUSTFORGE" width="100%" />
+</a>
+
+**NUSTFORGE** is my software engineering studio focused on building modern websites, SaaS platforms, business applications, AI solutions, and custom digital systems.
+
+### What I Work On
+
+* 🚀 SaaS & custom business software
+* 📊 Dashboards, admin panels & customer portals
+* 📅 Booking, reservation & appointment systems
+* 💳 Payment & subscription workflows
+* 🔐 Authentication & role-based applications
+* 🔌 API integrations & business workflows
+* 🤖 AI-powered applications & automation
+* 🌐 High-performance business websites
+
+### Engineering Focus
+
+* Full-stack web development
+* Scalable application architecture
+* PostgreSQL & database-driven systems
+* Third-party API integrations
+* Payment gateways & subscription systems
+* Cloud deployment & production infrastructure
+* Responsive UI, performance optimization & SEO
+
+<a href="https://www.nustforge.com">
+  <img src="https://img.shields.io/badge/NUSTFORGE-Website-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+<a href="https://github.com/nustforge">
+  <img src="https://img.shields.io/badge/NUSTFORGE-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+---
+
+## 💼 Featured Projects
+
+### 🏢 ServiPro — Enterprise Procurement SaaS
+
+<a href="https://servipro.co.uk/">
+  <img src="https://img.shields.io/badge/Live%20Platform-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+Production B2B SaaS platform for UK property and service-contract procurement workflows.
+
+* Multi-role dashboards for administrators, managing agents & contractors
+* Tender, bidding, procurement & contract workflows
+* Contractor onboarding & UK business verification
+* Subscription & payment workflows
+* Invoicing & document management
+* Notifications & real-time business workflows
+* Role-based authentication & access control
+* PostgreSQL database architecture & cloud document storage
+
+**Stack:** Next.js • React • TypeScript • Node.js • PostgreSQL • Prisma • Stripe • AWS S3
+
+---
+
+### 💇 Loft Aesthetics — Salon Management Platform
+
+<a href="https://www.loftaesthetics.co.uk/">
+  <img src="https://img.shields.io/badge/Live%20Website-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+Production salon platform combining a customer-facing website with business management functionality.
+
+* Service & product management
+* Booking & appointment workflows
+* Secure admin dashboard
+* Authentication & role-based access
+* Payment integration
+* Content management
+* Responsive UI, SEO & performance optimization
+
+**Stack:** Next.js • React • TypeScript • Supabase • Stripe
+
+---
+
+### 🚖 UK Taxi Dispatch SaaS
+
+Private-hire operational SaaS platform built around booking, dispatch and fleet management workflows.
+
+* Booking & reservation management
+* Pricing & payment workflows
+* Driver & vehicle management
+* Customer management
+* Dispatch operations
+* Administrative dashboards
+* Role-based workflows & API integrations
+
+**Stack:** Next.js • Node.js • Prisma • PostgreSQL • Stripe • REST APIs
+
+---
+
+### 🤖 DonateNotWaste — AI-Powered Food Waste Platform
+
+🏆 **1st Position — University Final Year Project Expo**
+
+Web and mobile platform focused on food donation, delivery tracking, fundraising and administration.
+
+* Food donation management
+* Delivery & logistics workflows
+* Fundraising features
+* Admin management
+* AI-powered food image classification
+* Real-time detection capabilities
+
+**Stack:** React • Node.js • MongoDB • AI/ML • Mobile Technologies
+
+---
+
+### 🌐 NUSTFORGE — Software Engineering Studio
+
+<a href="https://www.nustforge.com">
+  <img src="https://img.shields.io/badge/Visit%20NUSTFORGE-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+My software engineering studio focused on building production websites, SaaS platforms, business applications, AI solutions and custom digital systems.
+
+**Focus:** Full-Stack Development • SaaS • Business Software • AI • Automation • Cloud • SEO
+
+---
+
+## 🧠 Technical Expertise
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxt,ts,tailwind,bootstrap,materialui" />
 </p>
 
-[NUSTFORGE](https://www.nustforge.com) is my software engineering studio focused on building premium digital systems for businesses — including websites, SaaS platforms, dashboards, mobile apps, automation systems, and backend-heavy operational software.
+### Backend
 
-**What we build**
-
-- Premium business websites
-- SaaS platforms and custom software products
-- Business dashboards and admin panels
-- Booking and appointment systems
-- E-commerce systems and checkout workflows
-- Mobile apps and customer portals
-- Automation workflows and API integrations
-- Backend-heavy operational software
-
-**Engineering focus**
-
-- Clean full-stack architecture
-- Role-based access control
-- Multi-tenant system design
-- PostgreSQL database architecture
-- Stripe billing and payment workflows
-- AWS S3 file workflows
-- Scalable APIs and dashboards
-- Production deployment workflows
-
-<p align="center">
-  <a href="https://www.nustforge.com">
-    <img src="https://img.shields.io/badge/NUSTFORGE%20Website-0A0A0F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="NUSTFORGE Website" />
-  </a>
-  <a href="https://github.com/nustforge">
-    <img src="https://img.shields.io/badge/GitHub%20Organization-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Organization" />
-  </a>
-  <a href="https://github.com/nustforge/servipro-case-study">
-    <img src="https://img.shields.io/badge/Featured%20Case%20Study-2563EB?style=for-the-badge&logo=readme&logoColor=white" alt="Featured Case Study" />
-  </a>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,laravel,django" />
 </p>
 
----
+### Databases
 
-## 🧩 Engineering & System Design
-
-- Designed multi-tenant SaaS architectures with isolated business environments
-- Built backend workflow systems for booking, procurement, dispatch, and commerce
-- Engineered dashboards and admin systems for operational use cases
-- Designed normalized relational databases for scalable business platforms
-- Built API-first systems supporting web and mobile clients
-- Created SEO-ready and conversion-focused business websites
-
-👉 Strong focus on backend architecture, business logic, maintainability, and real-world product execution.
-
----
-
-## 🔭 Current Focus
-
-### 🚖 UK Taxi Dispatch Platform — Operational SaaS System
-
-A private hire dispatch system designed for fleet operators and real operational use.
-
-**Core System**
-
-- Multi-company operational architecture
-- Real-time booking lifecycle engine
-- Driver and vehicle allocation system
-- Admin and operator control dashboards
-- Payment-ready dispatch pipeline
-
-**Business Flow**
-
-Booking → Pricing → Payment → Dispatch → Completion
-
-**Tech Stack**
-
-Next.js • Node.js • Prisma • PostgreSQL • Stripe • REST APIs
-
----
-
-## 💼 Featured Systems
-
-### 🏢 ServiPro — Procurement & Tender Platform
-
-<p align="left">
-  <a href="https://servipro.co.uk/">
-    <img src="https://img.shields.io/badge/Live%20Procurement%20Platform-0A0A0F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="ServiPro Live Procurement Platform" />
-  </a>
-  <a href="https://github.com/nustforge/servipro-case-study">
-    <img src="https://img.shields.io/badge/Case%20Study-2563EB?style=for-the-badge&logo=readme&logoColor=white" alt="ServiPro Case Study" />
-  </a>
-  <a href="https://www.nustforge.com">
-    <img src="https://img.shields.io/badge/Built%20by%20NUSTFORGE-111827?style=for-the-badge" alt="Built by NUSTFORGE" />
-  </a>
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase,supabase" />
 </p>
 
-A real operational procurement system for UK-based business workflows.
+### Cloud & DevOps
 
-**System Overview**
-
-- End-to-end tender → bid → contract workflow engine
-- Contractor onboarding and verification pipeline
-- Subscription-based SaaS operational model
-- Automated document and invoice processing system
-
-**Engineering Work**
-
-- Multi-role RBAC system with Admin, Agents, and Contractors
-- Complex relational database architecture using PostgreSQL
-- Stripe billing and subscription integration
-- AWS S3 document management system
-- Full audit logging for operational consistency
-
-**Operational Impact**
-
-- Built to replace manual procurement workflows with automated systems
-- Designed for multi-organization usage and real operational environments
-- Supports structured business workflow execution across roles
-
-👉 Designed and deployed as a real business-facing system, not a prototype.
-
----
-
-### 💇‍♀️ Salon Platform — Booking, Commerce & Management System
-
-A backend-driven platform for managing salon operations across multiple business environments.
-
-**System Overview**
-
-- Multi-tenant salon booking system
-- Role-based access control for Admin, Staff, and Customer users
-- End-to-end appointment lifecycle management
-- Product and service commerce workflows
-
-**Core Modules**
-
-- Appointment scheduling and booking engine
-- Service catalog with dynamic pricing
-- Product inventory and variant management
-- Order and payment processing pipeline
-- Category-based organizational structure
-
-**Engineering Design**
-
-- Fully relational PostgreSQL architecture
-- Normalized schema design for multi-entity workflows
-- Audit-safe and soft-delete enabled system design
-- API-first backend architecture for web and mobile clients
-
-👉 Designed as a production-ready software foundation for salon businesses.
-
----
-
-### 🛒 E-Commerce Platform — Storefront & Order Workflow System
-
-A commerce system concept for product-based businesses that need online selling, checkout, and operational management.
-
-**System Overview**
-
-- Product catalog architecture
-- Responsive storefront experience
-- Cart, checkout, and order workflows
-- Payment integration planning
-- Admin product and order management
-- Scalable commerce infrastructure
-
----
-
-### 🚖 DonateNotWaste — FYP to Production Evolution
-
-🏆 Final Year Project — 1st Position
-
-- Mobile and admin ecosystem
-- Real-time donation coordination system
-- AI-based food detection module
-- Backend-driven architecture designed with scalability in mind
-
-👉 Evolving from academic project into a deployable real-world system.
-
----
-
-### 💄 Loft Aesthetics
-
-<p align="left">
-  <a href="https://www.loftaesthetics.co.uk/">
-    <img src="https://img.shields.io/badge/Live%20Salon%20Website-0A0A0F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Loft Aesthetics Live Website" />
-  </a>
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,vercel,git,github" />
 </p>
 
-- High-performance business website
-- SEO-optimized architecture
-- Mobile-first responsive UI
-- Conversion-focused service presentation
+### AI & Automation
 
----
+* 🤖 AI Chatbots & AI Assistants
+* 🧠 AI API Integration
+* 👁️ Image Classification
+* ✨ Prompt Engineering
+* ⚙️ Workflow & Business Automation
+* 🐍 Python Automation
 
-### 🛒 Golden Rose Store
+### Payments & Integrations
 
-<p align="left">
-  <a href="https://www.thegoldenrose.store/">
-    <img src="https://img.shields.io/badge/Live%20E--Commerce%20Store-0A0A0F?style=for-the-badge&logo=shopify&logoColor=white" alt="Golden Rose Store" />
-  </a>
+* 💳 Stripe & Payment Gateways
+* 🔄 Subscription & Billing Systems
+* 📅 Booking & Reservation Integrations
+* 🔌 REST APIs & Third-Party Integrations
+* 🪝 Webhooks & API Workflows
+
+### Software Engineering
+
+* 🏢 SaaS Application Development
+* 🔐 Authentication & Role-Based Access Control
+* 📊 Business & Admin Dashboards
+* 🛒 E-commerce Systems
+* 📱 Web & Mobile Applications
+* 🎨 Responsive UI/UX Implementation
+* 🚀 Performance Optimization
+* 🔍 SEO & Technical SEO
+* 🧩 System Design
+
+### Development & Collaboration Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,aws,vercel" />
 </p>
 
-- E-commerce storefront
-- Optimized checkout flow
-- Product and order structure
-- Production deployment setup
+* 🧪 API Testing & Debugging
+* 🐛 Troubleshooting & Problem Solving
+* ✅ Testing & Quality Assurance
+* 🔄 CI/CD & Deployment Workflows
+* 📋 Project & Task Management
+* 🤝 Team Collaboration & Development Workflows
 
 ---
 
-## 📱 Mobile Systems
+## 🏗️ Engineering Focus
 
-I build mobile applications that are fully integrated into backend-driven systems.
+I enjoy building software around real business requirements, focusing on reliable workflows, maintainable architecture, and polished production experiences.
 
-- Cross-platform development with React Native / Flutter
-- Backend integration with APIs and real-time workflows
-- Mobile-first product experiences
-- Admin and customer app ecosystems
-- AI / detection-based feature systems
-
-👉 Mobile is treated as a first-class product layer inside full systems, not an isolated skill.
-
----
-
-## 🧠 Core Engineering Strengths
-
-- Full-stack product engineering
-- Backend workflow engineering
-- Multi-tenant system architecture
-- Role-based access control
-- Relational database design
-- Subscription and billing systems
-- Cloud file workflows with AWS S3
-- API-first product development
-- Business dashboards and admin systems
-- SEO-ready websites and landing pages
-- Mobile + backend system integration
-
-👉 Focused on building systems that reflect real operational thinking: multi-user, multi-role, scalable, and business workflow driven.
+* 🚀 Turning business requirements into production-ready software
+* 🏢 Designing SaaS & multi-role business platforms
+* 🔄 Building complex business workflows and operational systems
+* 💳 Implementing payments, subscriptions & transactional workflows
+* 📅 Developing booking, reservation & appointment experiences
+* 📊 Building dashboards for business operations and management
+* 🔌 Connecting systems through APIs and third-party services
+* 🤖 Applying AI and automation to practical business use cases
+* ☁️ Taking applications from development through production deployment
+* 🎯 Improving usability, performance, accessibility & SEO
 
 ---
 
-## 🛠️ Tech Stack
-
-**Frontend**  
-React • Next.js • Vue • Nuxt • Tailwind CSS • MUI  
-
-**Backend**  
-Node.js • Express • NestJS • Laravel • Django  
-
-**Mobile**  
-React Native • Flutter  
-
-**Database**  
-PostgreSQL • MySQL • MongoDB • Firebase  
-
-**Cloud & DevOps**  
-AWS EC2 • AWS S3 • Docker • CI/CD • Git • Vercel  
-
-**Other**  
-Prisma • REST APIs • Python Automation • Stripe • System Design • SEO Metadata  
-
----
-
-## 🧠 Engineering Identity
+## 📊 GitHub Engineering Stats
 
 <p align="center">
-💡 I build premium websites, business platforms, SaaS systems, dashboards, mobile apps, e-commerce workflows, and automation systems with real production thinking.
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harrisbaig7&show_icons=true&theme=dark&hide_border=true" height="170" alt="Harris Baig GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harrisbaig7&layout=compact&theme=dark&hide_border=true" height="170" alt="Harris Baig Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Harrisbaig7&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harrisbaig7&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Harrisbaig7&theme=darkt&hide_border=true" alt="Harris Baig GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=Harrisbaig7&theme=tokyonight&hide_border=true" height="180" />
 </p>
 
 ---
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harrisbaig7&theme=tokyo-night" />
-</p>
-
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://www.nustforge.com">
-    <img src="https://img.shields.io/badge/NUSTFORGE%20Website-0A0A0F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="NUSTFORGE Website" />
-  </a>
-
-  <a href="https://github.com/nustforge">
-    <img src="https://img.shields.io/badge/NUSTFORGE%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="NUSTFORGE GitHub" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/harrisbaig7/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-
-  <a href="https://www.instagram.com/_harrisbaig07">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  💬 Open to software engineering roles, backend system design, full-stack development, SaaS projects, and business software work through <a href="https://www.nustforge.com"><strong>NUSTFORGE</strong></a>.
-</p>
