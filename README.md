@@ -310,15 +310,67 @@ I enjoy building software around real business requirements, focusing on reliabl
 ## 🐍 Contribution Activity
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Harrisbaig7/Harrisbaig7/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Harrisbaig7/Harrisbaig7/output/github-contribution-grid-snake.svg" />
-    <img
-      src="https://raw.githubusercontent.com/Harrisbaig7/Harrisbaig7/output/github-contribution-grid-snake.svg"
-      alt="GitHub Contribution Activity - Last 365 Days"
-      width="100%"
-    />
-  </picture>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Harrisbaig7/Harrisbaig7/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Harrisbaig7/Harrisbaig7/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/Harrisbaig7/Harrisbaig7/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Activity"
+    width="100%"
+  />
+</picture>
+
+<br/>
+
+<sub>Code • Build • Ship • Repeat</sub>
+
 </div>
 
 ---
+
+## 🎯 Currently Focused On
+
+* 🚀 Building and scaling production-ready SaaS platforms
+* 🤖 Developing practical AI-powered applications & automation
+* 🏢 Creating business software around real-world workflows
+* ☁️ Improving cloud architecture, deployment & infrastructure
+* 🧩 Designing scalable, maintainable full-stack systems
+* 🌍 Working with international clients and global businesses
+* 📚 Continuously exploring modern technologies and better engineering practices
+
+---
+
+## 🤝 Let's Connect
+
+I'm always open to discussing software engineering, SaaS products, AI automation, business applications, and potential collaborations.
+
+<p align="center">
+  <a href="mailto:baigharris77@gmail.com">
+    <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/harrisbaig7/">
+    <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Harrisbaig7">
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://harris-baig-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.nustforge.com">
+    <img src="https://img.shields.io/badge/NUSTFORGE-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="NUSTFORGE" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>Full Stack Engineering • SaaS • AI & Automation • Business Software</sub>
+</p>
+
+
