@@ -278,12 +278,47 @@ I enjoy building software around real business requirements, focusing on reliabl
 ## 📊 GitHub Engineering Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harrisbaig7&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harrisbaig7&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+  <a href="https://streak-stats.demolab.com/">
+    <img
+      src="https://streak-stats.demolab.com/?user=Harrisbaig7&theme=dark&background=161B22&border=8B949E&ring=00CFFF&fire=00CFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00CFFF&sideLabels=C9D1D9&dates=8B949E&mode=daily&locale=en&disable_animations=true&card_width=495"
+      alt="GitHub Engineering Streak"
+      width="49%"
+    />
+  </a><img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Harrisbaig7&layout=compact&card_width=420&theme=dark&hide_border=false&border_color=8B949E&title_color=FFFFFF&text_color=C9D1D9&bg_color=161B22&custom_title=Technology%20Footprint"
+    alt="Technology Footprint"
+    width="49%"
+  />
 </p>
 
+---
+
+## 📈 Contribution Analytics
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Harrisbaig7&theme=tokyonight&hide_border=true" height="180" />
+  <a href="https://github.com/Harrisbaig7">
+    <img
+      src="https://fabianocouto-activity-graph.vercel.app/graph/?username=Harrisbaig7&theme=react-dark&hide_border=true&bg_color=0D1117&color=C9D1D9&line=00CFFF&point=FFFFFF&area=true"
+      alt="Muhammad Harris Baig's GitHub Contribution Analytics"
+      width="98%"
+    />
+  </a>
 </p>
+
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Harrisbaig7/Harrisbaig7/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Harrisbaig7/Harrisbaig7/output/github-contribution-grid-snake.svg" />
+    <img
+      src="https://raw.githubusercontent.com/Harrisbaig7/Harrisbaig7/output/github-contribution-grid-snake.svg"
+      alt="GitHub Contribution Activity - Last 365 Days"
+      width="100%"
+    />
+  </picture>
+</div>
 
 ---
