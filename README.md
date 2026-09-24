@@ -291,6 +291,15 @@ I enjoy building software around real business requirements, focusing on reliabl
 
 ## 📊 GitHub Engineering Stats
 
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harrisbaig7&theme=github_dark"
+    alt="GitHub Profile Details"
+    width="98%"
+  />
+</p>
+
 <p align="center">
   <a href="https://streak-stats.demolab.com/">
     <img
@@ -300,14 +309,13 @@ I enjoy building software around real business requirements, focusing on reliabl
     />
   </a>
   <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Harrisbaig7&layout=compact&langs_count=7&card_width=420&theme=dark&hide_border=false&border_color=8B949E&title_color=FFFFFF&text_color=C9D1D9&bg_color=161B22&custom_title=Technology%20Footprint"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Harrisbaig7&layout=compact&langs_count=6&card_width=420&theme=dark&hide_border=false&border_color=8B949E&title_color=FFFFFF&text_color=C9D1D9&bg_color=161B22&custom_title=Technology%20Footprint"
     alt="Technology Footprint"
     width="49%"
   />
 </p>
 
 ---
-
 
 ## 📈 Contribution Analytics
 
@@ -326,6 +334,7 @@ I enjoy building software around real business requirements, focusing on reliabl
 ## 🐍 Contribution Activity
 
 <div align="center">
+
 
 <picture>
   <source
