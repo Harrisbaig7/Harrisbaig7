@@ -100,6 +100,20 @@ I build modern software for real business workflows, from customer-facing applic
 
 ---
 
+## 📚 Open-Source Engineering Resource
+
+### 🧭 Modern Web Development Guide
+
+A practical, evolving reference covering modern web development and production engineering — including frontend architecture, AI engineering, SaaS design, security, APIs, databases, payments, performance, deployment, testing, and developer workflow.
+
+**Focus:** Practical patterns • Production Engineering • SaaS • AI • Security • Cloud
+
+<a href="https://github.com/Harrisbaig7/modern-web-development-guide">
+  <img src="https://img.shields.io/badge/View%20Repository-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+---
+
 ## 💼 Featured Projects
 
 ### 🏢 ServiPro — Enterprise Procurement SaaS
