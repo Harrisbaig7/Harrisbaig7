@@ -303,13 +303,15 @@ I enjoy building software around real business requirements, focusing on reliabl
 <p align="center">
   <a href="https://streak-stats.demolab.com/">
     <img
-      src="https://streak-stats.demolab.com/?user=Harrisbaig7&theme=transparent&background=161B22&border=8B949E&ring=00CFFF&fire=00CFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00CFFF&sideLabels=C9D1D9&dates=8B949E&mode=daily&locale=en&disable_animations=true&card_width=495"
+      src="https://streak-stats.demolab.com/?user=Harrisbaig7&theme=graywhite
+&background=161B22&border=8B949E&ring=00CFFF&fire=00CFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00CFFF&sideLabels=C9D1D9&dates=8B949E&mode=daily&locale=en&disable_animations=true&card_width=495"
       alt="GitHub Engineering Streak"
       width="49%"
     />
   </a>
   <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Harrisbaig7&layout=compact&langs_count=6&card_width=420&theme=dark&hide_border=false&border_color=8B949E&title_color=FFFFFF&text_color=C9D1D9&bg_color=161B22&custom_title=Technology%20Footprint"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Harrisbaig7&layout=compact&langs_count=6&card_width=420&theme=graywhite
+&hide_border=false&border_color=8B949E&title_color=FFFFFF&text_color=C9D1D9&bg_color=161B22&custom_title=Technology%20Footprint"
     alt="Technology Footprint"
     width="49%"
   />
